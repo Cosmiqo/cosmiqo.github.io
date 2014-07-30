@@ -142,12 +142,12 @@
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
     <script>
       function initialize() {
-        var latlng_JE = new google.maps.LatLng(1.333, 103.742);
+      
         var latlng_BV = new google.maps.LatLng(1.307, 103.79);
-        var latlng_BL = new google.maps.LatLng(1.339, 103.706);
+        
         var mapOptions = {
         zoom: 12,
-        center: latlng_JE
+        center: latlng_BV
         }
         
         var map = new google.maps.Map(document.getElementById('map-canvas-1'), mapOptions);
@@ -172,33 +172,48 @@
           'flats and condos.'+
           '</div>'+
           '</div>';
+          
+        var contentString_SMU = '<div id="content">'+
+          '<div id="siteNotice">'+
+          '</div>'+
+          '<div id="bodyContent">'+
+          '<p><b>Singapore Management University</b><br>'+
+          'Lee Kong Chian School of Business<br>'+
+          '50 Stamford Road<br>'+
+          'Singapore 178899'+
+          '</div>'+
+          '</div>';
       
-        var infowindow_BV = new google.maps.InfoWindow({
-          content: contentString_BV
-        });
+      
+        var locations = [
+                [contentString_BV, 1.307, 103.79],
+                [contentString_BL, 1.339, 103.706],
+                [contentString_SMU, 1.297, 103.850]
+        ];
         
-        var infowindow_BL = new google.maps.InfoWindow({
-          content: contentString_BL
-        });
-  
-        var marker_BV = new google.maps.Marker({
-          position: latlng_BV,
-          map: map
-        });
-        
-        var marker_BL = new google.maps.Marker({
-          position: latlng_BL,
-          map: map
-        });
-        
-        google.maps.event.addListener(marker_BV, 'click', function() {
-        infowindow_BV.open(map,marker_BV);
-        });
-        
-        google.maps.event.addListener(marker_BL, 'click', function() {
-        infowindow_BL.open(map,marker_BL);
-        });
-        
+
+        for (var i = 0; i < locations.length; i++)
+        {
+            var location = locations[i];
+            
+            var infowindow = new google.maps.InfoWindow(
+            {
+                content: location[0]
+            });
+            
+            var marker = new google.maps.Marker(
+            {
+                position: new google.maps.LatLng(location[1], location[2]),
+                map: map,
+                infowindow : infowindow
+            });
+            
+            google.maps.event.addListener(marker, 'click', function()
+            {
+                this.infowindow.open(map, this);
+            });
+        }
+               
         }
       
       google.maps.event.addDomListener(window, 'load', initialize);
