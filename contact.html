@@ -143,52 +143,29 @@
     <script>
       function initialize() {
       
-        var latlng_BV = new google.maps.LatLng(1.307, 103.79);
+        var latlng_RDV = new google.maps.LatLng(1.2978722, 103.7877188);
         
         var mapOptions = {
-        zoom: 12,
-        center: latlng_BV
+        zoom: 17,
+        center: latlng_RDV
         }
         
         var map = new google.maps.Map(document.getElementById('map-canvas-1'), mapOptions);
 
-        var contentString_BV = '<div id="content">'+
+  
+        var contentString_RDV = '<div id="content">'+
           '<div id="siteNotice">'+
           '</div>'+
           '<div id="bodyContent">'+
-          '<p><b>Buona Vista</b>, is a neighbourhood and subdivision of the city-state '+
-          'of Singapore, but is often referenced as a town. As a major subdivision, it '+
-          'is served by the Buona Vista MRT Station which links it up with the MRT '+
-          'system. It also has a bus terminal.'+
-          '</div>'+
-          '</div>';
-          
-        var contentString_BL = '<div id="content">'+
-          '<div id="siteNotice">'+
-          '</div>'+
-          '<div id="bodyContent">'+
-          '<p><b>Boon Lay</b>, is a planning area of Singapore. It is a small (but rapidly growing) '+
-          'residential estate in the western part of Singapore that comprises mainly HDB '+ 
-          'flats and condos.'+
-          '</div>'+
-          '</div>';
-          
-        var contentString_SMU = '<div id="content">'+
-          '<div id="siteNotice">'+
-          '</div>'+
-          '<div id="bodyContent">'+
-          '<p><b>Singapore Management University</b><br>'+
-          'Lee Kong Chian School of Business<br>'+
-          '50 Stamford Road<br>'+
-          'Singapore 178899'+
+          '<p><b>c/o Red Dot Ventures</b><br>'+
+          'Block 79 Ayer Rajah Crescent<br>'+
+          'Singapore 139955'+
           '</div>'+
           '</div>';
       
       
         var locations = [
-                [contentString_BV, 1.307, 103.79],
-                [contentString_BL, 1.339, 103.706],
-                [contentString_SMU, 1.297, 103.850]
+                [contentString_RDV, 1.2978722, 103.7877188]
         ];
         
 
@@ -234,7 +211,7 @@
           '<div id="siteNotice">'+
           '</div>'+
           '<div id="bodyContent">'+
-          '<p><b>MaGIC</b><br>'+
+          '<p><b>c/o MaGIC</b><br>'+
           'Blok 3730, Persiaran APEC<br>'+
           '63000, Cyberjaya'+
           '</div>'+
