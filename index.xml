@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cosmiqo</title>
+    <link>http://cosmiqo.com/</link>
+    <description>Recent content on Cosmiqo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://cosmiqo.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Street Lighting from Kota Damansara to Centrepoint Bandar Utama</title>
+      <link>http://cosmiqo.com/article/on-kd-to-bu/</link>
+      <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-kd-to-bu/</guid>
+      <description>
+
+&lt;p&gt;After producing a light map of the roads around &lt;a href=&#34;../on-kota-damansara/&#34;&gt;Kota Damansara&lt;/a&gt;
+with the awesome folks from the &lt;a href=&#34;http://sinarproject.org/en&#34;&gt;Sinar Project&lt;/a&gt;,
+we decided to continue using Litesense® for the journey back to
+&lt;a href=&#34;http://centrepointbandarutama.com/&#34;&gt;Centrepoint Bandar Utama&lt;/a&gt;, our earlier
+rendezvous location.&lt;/p&gt;
+
+&lt;p&gt;We asked &lt;a href=&#34;https://www.waze.com/&#34;&gt;Waze&lt;/a&gt; for the best way back and it responded with
+a perfect route.&lt;/p&gt;
+
+&lt;p&gt;In the map below, the&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;green marker is the start point&lt;/li&gt;
+&lt;li&gt;red marker is the end point&lt;/li&gt;
+&lt;li&gt;different colours represent varying brightness levels
+(measured in &lt;a href=&#34;https://en.wikipedia.org/wiki/Lux&#34;&gt;lux&lt;/a&gt;)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/litesense/2016-02-05-kd-to-bu/path.png&#34; alt=&#34;Lux levels from Kota Damansara to Centrepoint Bandar Utama&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Indicators for brightness level are&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#000078;&#34;&gt;0 ≤ lux &amp;lt; 3&lt;/a&gt;&lt;/b&gt; (darkest)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00DCFF;&#34;&gt;3 ≤ lux &amp;lt; 6&lt;/a&gt;&lt;/b&gt; (darker)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#006E00;&#34;&gt;6 ≤ lux &amp;lt; 10&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;10 ≤ lux &amp;lt; 20&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFB400;&#34;&gt;20 ≤ lux &amp;lt; 40&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF6400;&#34;&gt;40 ≤ lux &amp;lt; 60&lt;/a&gt;&lt;/b&gt; (brighter)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;lux ≥ 60&lt;/a&gt;&lt;/b&gt; (brightest)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../maps/osm-799-kd-bu.html&#34;&gt;Please feel free to interact with the map&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;findings&#34;&gt;Findings&lt;/h1&gt;
+
+&lt;p&gt;Please drive safely and pay more attention to your
+surroundings in these areas:
+      &lt;figure&gt;
+        &lt;figcaption&gt;
+          1. Jalan Cecawi 6
+        &lt;/figcaption&gt;&lt;img src=
+        &#34;../../images/litesense/2016-02-05-kd-to-bu/jalan-cecawi-6.png&#34;&gt;
+      &lt;/figure&gt;
+      &lt;figure&gt;
+        &lt;figcaption&gt;
+          2. Jalan Cecawi 6 to Persiaran Kenanga
+        &lt;/figcaption&gt;&lt;img src=
+        &#34;../../images/litesense/2016-02-05-kd-to-bu/jalan-cecawi-6-to-kenanga.png&#34;&gt;
+      &lt;/figure&gt;
+      &lt;figure&gt;
+        &lt;figcaption&gt;
+          3. A few segments along Persiaran Kenanga
+        &lt;/figcaption&gt;&lt;img src=
+        &#34;../../images/litesense/2016-02-05-kd-to-bu/persiaran-kenanga.png&#34;&gt;
+      &lt;/figure&gt;
+      &lt;figure&gt;
+        &lt;figcaption&gt;
+          4. This spot along the Damansara Link
+        &lt;/figcaption&gt;&lt;img src=
+        &#34;../../images/litesense/2016-02-05-kd-to-bu/damansara-link.png&#34;&gt;
+      &lt;/figure&gt;
+      &lt;figure&gt;
+        &lt;figcaption&gt;
+          5. Jalan Melor
+        &lt;/figcaption&gt;&lt;img src=
+        &#34;../../images/litesense/2016-02-05-kd-to-bu/jalan-melor.png&#34;&gt;
+      &lt;/figure&gt;
+      &lt;figure&gt;
+        &lt;figcaption&gt;
+          6. Jalan Melati
+        &lt;/figcaption&gt;&lt;img src=
+        &#34;../../images/litesense/2016-02-05-kd-to-bu/jalan-melati.png&#34;&gt;
+      &lt;/figure&gt;
+      &lt;p&gt;Commendable lighting uniformity:&lt;/p&gt;
+      &lt;figure&gt;
+        &lt;figcaption&gt;
+          1. Lebuhraya Baru Lembah Klang / New Klang Valley
+          Expressway operated by Plus Malaysia Berhad
+        &lt;/figcaption&gt;&lt;img src=
+        &#34;../../images/litesense/2016-02-05-kd-to-bu/nkve.png&#34;&gt;
+      &lt;/figure&gt;
+      &lt;div class=&#34;source&#34;&gt;
+        (Cosmiqo Litesense®, 5th February 2016 between 2230hrs and
+        2345hrs)
+      &lt;/div&gt;
+      &lt;div class=&#34;source&#34;&gt;
+        Photo by Inés Outumuro on &lt;a href=
+        &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
+        &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Street Lighting at Ulu Pandan and Bukit Timah</title>
+      <link>http://cosmiqo.com/article/on-ulu-pandan/</link>
+      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-ulu-pandan/</guid>
+      <description>
+
+&lt;p&gt;15th of February in the year 590 was an important one as
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Khosrow_II&#34;&gt;Khosrow II&lt;/a&gt;
+was crowned king of Persia. About 1400 years later, the night of 15th of
+February in the year 2016 was also an important one as &lt;strong&gt;Litesense®&lt;/strong&gt; was taken
+out to ensure that the streets of Ulu Pandan and Bukit Timah were safe for us
+to drive on, ride, cycle and walk along.&lt;/p&gt;
+
+&lt;p&gt;Results of the mission were visualised in &lt;a href=&#34;https://github.com/python-visualization/folium&#34;&gt;Folium&lt;/a&gt;,
+a project &amp;ldquo;that makes it easy to visualize data that&amp;rsquo;s been manipulated in Python on an
+interactive Leaflet map&amp;rdquo;. In the map below, the&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;green marker is the start point&lt;/li&gt;
+&lt;li&gt;red marker is the end point&lt;/li&gt;
+&lt;li&gt;different colours represent varying brightness levels (measured in &lt;a href=&#34;https://en.wikipedia.org/wiki/Lux&#34;&gt;lux&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;tiny black circles are pole identification numbers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/litesense/2016-02-15-ulu-pandan/path.png&#34; alt=&#34;Lux levels at Ulu Pandan and Bukit Timah&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Indicators for brightness level are&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#000078;&#34;&gt;0 ≤ lux &amp;lt; 3&lt;/a&gt;&lt;/b&gt; (darkest)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00DCFF;&#34;&gt;3 ≤ lux &amp;lt; 6&lt;/a&gt;&lt;/b&gt; (darker)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#006E00;&#34;&gt;6 ≤ lux &amp;lt; 10&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;10 ≤ lux &amp;lt; 20&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFB400;&#34;&gt;20 ≤ lux &amp;lt; 40&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF6400;&#34;&gt;40 ≤ lux &amp;lt; 60&lt;/a&gt;&lt;/b&gt; (brighter)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;lux ≥ 60&lt;/a&gt;&lt;/b&gt; (brightest)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../maps/osm-800-ulu-pandan.html&#34;&gt;Please feel free to interact with the map&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;findings&#34;&gt;Findings&lt;/h1&gt;
+
+&lt;p&gt;Areas with lower light uniformity:&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;figcaption&gt;
+      1. Ghim Moh Road near Pole ID 24 with brightness level of
+      2.6 lux
+    &lt;/figcaption&gt;&lt;img src=
+    &#34;../../images/litesense/2016-02-15-ulu-pandan/ghim-moh-road-1.png&#34;&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+    &lt;figcaption&gt;
+      2. Holland Road near Pole ID 237 with brightness level of
+      2.7 lux
+    &lt;/figcaption&gt;&lt;img src=
+    &#34;../../images/litesense/2016-02-15-ulu-pandan/holland-road-1.png&#34;&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+    &lt;figcaption&gt;
+      3. Ulu Pandan Road near Pole ID 47 with brightness level
+      of 2.3 lux
+    &lt;/figcaption&gt;&lt;img src=
+    &#34;../../images/litesense/2016-02-15-ulu-pandan/holland-road-1.png&#34;&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+    &lt;figcaption&gt;
+      4. Multiple areas along Holland Road starting from Pole
+      ID 248 with brightness level of 2.8 lux
+    &lt;/figcaption&gt;&lt;img src=
+    &#34;../../images/litesense/2016-02-15-ulu-pandan/holland-road-2.png&#34;&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+    &lt;figcaption&gt;
+      5. Dunearn Road near Pole ID 22 with brightness level of
+      2.3 lux
+    &lt;/figcaption&gt;&lt;img src=
+    &#34;../../images/litesense/2016-02-15-ulu-pandan/dunearn-road-1.png&#34;&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+    &lt;figcaption&gt;
+      6. Dunearn Road near Pole ID 26 with brightness level of
+      0.75 lux
+    &lt;/figcaption&gt;&lt;img src=
+    &#34;../../images/litesense/2016-02-15-ulu-pandan/dunearn-road-2.png&#34;&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+    &lt;figcaption&gt;
+      7. Dunearn Road near Pole ID 32 with brightness level of
+      1.75 lux
+    &lt;/figcaption&gt;&lt;img src=
+    &#34;../../images/litesense/2016-02-15-ulu-pandan/dunearn-road-3.png&#34;&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+    &lt;figcaption&gt;
+      8. Sixth Avenue near Pole ID 32 with brightness level of
+      1.75 lux
+    &lt;/figcaption&gt;&lt;img src=
+    &#34;../../images/litesense/2016-02-15-ulu-pandan/dunearn-road-3.png&#34;&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+    &lt;figcaption&gt;
+      9. Holland Grove Drive
+    &lt;/figcaption&gt;&lt;img src=
+    &#34;../../images/litesense/2016-02-15-ulu-pandan/holland-grove-drive.png&#34;&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+    &lt;figcaption&gt;
+      10. Holland Grove View near Pole ID 43 with brightness
+      level of 0.25 lux
+    &lt;/figcaption&gt;&lt;img src=
+    &#34;../../images/litesense/2016-02-15-ulu-pandan/holland-grove-view.png&#34;&gt;
+  &lt;/figure&gt;
+  &lt;figure&gt;
+    &lt;figcaption&gt;
+      11. Grove Avenue near Pole ID 7 with brightness level of
+      1.25 lux
+    &lt;/figcaption&gt;&lt;img src=
+    &#34;../../images/litesense/2016-02-15-ulu-pandan/grove-avenue.png&#34;&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;All other roads were uniformly lit. Great job guys! You
+know who you are. =)&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;source&#34;&gt;
+    (Cosmiqo Litesense®, 15th February 2016 between 2130hrs and
+    2300hrs)
+  &lt;/div&gt;
+  &lt;div class=&#34;source&#34;&gt;
+    Photo by Inés Outumuro on &lt;a href=
+    &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
+    &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
+  &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Street Lighting at Kota Damansara</title>
+      <link>http://cosmiqo.com/article/on-kota-damansara/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-kota-damansara/</guid>
+      <description>
+
+&lt;p&gt;Just before the Lunar New Year weekend, we decided to take Litesense® out for a
+spin with some awesome folks from the &lt;a href=&#34;http://sinarproject.org/en&#34;&gt;Sinar Project&lt;/a&gt;.
+The mission was to produce a light map of the roads around
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Kota_Damansara&#34;&gt;Kota Damansara&lt;/a&gt;, a township located in
+Petaling Jaya, Selangor, Malaysia.&lt;/p&gt;
+
+&lt;p&gt;To visualise the results of the mission, we leveraged on
+&lt;a href=&#34;https://github.com/python-visualization/folium&#34;&gt;Folium&lt;/a&gt;,
+a project &amp;ldquo;that makes it easy to visualize data that&amp;rsquo;s been manipulated in
+Python on an interactive Leaflet map&amp;rdquo;. In the map below, the&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;green marker is the start point&lt;/li&gt;
+&lt;li&gt;red marker is the end point&lt;/li&gt;
+&lt;li&gt;different colours represent varying brightness levels (measured in &lt;a href=&#34;https://en.wikipedia.org/wiki/Lux&#34;&gt;lux&lt;/a&gt;)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/litesense/2016-02-05-kota-damansara/path.png&#34; alt=&#34;Lux levels along Kota Damansara&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Indicators for brightness level are&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#000078;&#34;&gt;0 ≤ lux &amp;lt; 3&lt;/a&gt;&lt;/b&gt; (darkest)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00DCFF;&#34;&gt;3 ≤ lux &amp;lt; 6&lt;/a&gt;&lt;/b&gt; (darker)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#006E00;&#34;&gt;6 ≤ lux &amp;lt; 10&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;10 ≤ lux &amp;lt; 20&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFB400;&#34;&gt;20 ≤ lux &amp;lt; 40&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF6400;&#34;&gt;40 ≤ lux &amp;lt; 60&lt;/a&gt;&lt;/b&gt; (brighter)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;lux ≥ 60&lt;/a&gt;&lt;/b&gt; (brightest)
+
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../maps/osm-797-kd.html&#34;&gt;Please feel free to interact with the map&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;findings&#34;&gt;Findings&lt;/h1&gt;
+
+&lt;p&gt;Please drive safely and pay more attention to your
+surroundings in these areas:
+      &lt;figure&gt;
+        &lt;figcaption&gt;
+          1. Persiaran Surian just before the junction of Jalan PJU
+          5/1
+        &lt;/figcaption&gt;&lt;img src=
+        &#34;../../images/litesense/2016-02-05-kota-damansara/persiaran-surian-1.png&#34;&gt;
+      &lt;/figure&gt;
+      &lt;figure&gt;
+        &lt;figcaption&gt;
+          2. Jalan PJU 5/19
+        &lt;/figcaption&gt;&lt;img src=
+        &#34;../../images/litesense/2016-02-05-kota-damansara/pju-5-19.png&#34;&gt;
+      &lt;/figure&gt;
+      &lt;figure&gt;
+        &lt;figcaption&gt;
+          3. This road is in between the Jalan Nuri and Jalan
+          Cecawi estates, and along the Jalan Nuri estate into
+          Persiaran Jati. If you are a resident, do consider
+          turning on your porch lights.
+        &lt;/figcaption&gt;&lt;img src=
+        &#34;../../images/litesense/2016-02-05-kota-damansara/persiaran-surian-2.png&#34;&gt;
+      &lt;/figure&gt;
+      &lt;figure&gt;
+        &lt;figcaption&gt;
+          4. Around the Jalan Pekaka estate
+        &lt;/figcaption&gt;&lt;img src=
+        &#34;../../images/litesense/2016-02-05-kota-damansara/jalan-pekaka.png&#34;&gt;
+      &lt;/figure&gt;
+      &lt;div class=&#34;source&#34;&gt;
+        (Cosmiqo Litesense®, 5th February 2016 between 2200hrs and
+        2300hrs)
+      &lt;/div&gt;
+      &lt;div class=&#34;source&#34;&gt;
+        Photo by Inés Outumuro on &lt;a href=
+        &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
+        &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Park Lighting</title>
+      <link>http://cosmiqo.com/article/on-park-lighting/</link>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-park-lighting/</guid>
+      <description>
+
+&lt;p&gt;The National Parks Board recently marked the &lt;a href=&#34;https://www.nparks.gov.sg/news/2015/9/community-gathers-to-celebrate-25-years-of-the-park-connector-network&#34;&gt;25th anniversary&lt;/a&gt;
+of the Park Connector Network (PCN) in Singapore. With
+over 300 km (with the aim to grow the PCN to 360 km by 2020) and an
+island-wide network that cuts across major parks, nature sites and housing
+estates, it is imperative that lighting conditions are optimal. To promote
+safer parks, the single most requested physical design modification to
+improve safety is usually an increase in lighting.&lt;/p&gt;
+
+&lt;p&gt;Lighting is a key factor because it can clarify the layout of a park by
+emphasising walkways, focal points, gathering places and building entrances.
+When planned as a coordinated system, lighting improves the night time
+legibility, use and enjoyment of a site.&lt;/p&gt;
+
+&lt;p&gt;The top of the hierarchy includes lighting activity areas and primary walkways
+so that they become the focus of pedestrian activity after dark. At the bottom
+of this hierarchy is the decision not to light some areas at all because their
+use at night would be unsafe or inappropriate.&lt;/p&gt;
+
+&lt;h1 id=&#34;considerations-for-safer-parks&#34;&gt;Considerations for safer parks&lt;/h1&gt;
+
+&lt;p&gt;Placement of lighting&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Are lights positioned to respond to problems of surveillance created by
+vegetation and topography rather than on the basis of arbitrary light pole
+placement?&lt;/li&gt;
+&lt;li&gt;Does lighting need to be redirected so that it extends beyond the edge of
+paths to illuminate potential concealment areas and hiding places?
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Consistency of lighting&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Have lights that cause excessive glare or generate dark shadows been avoided?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Inappropriate Lighting&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Has a false sense of security been created by lighting areas that are
+potentially inappropriate for night time use?&lt;/li&gt;
+&lt;li&gt;Has the installation of low ground-level lights been avoided where
+higher-level lighting is not also provided?
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;source&#34;&gt;
+  (source: &lt;a href=
+    &#34;http://www.pps.org/reference/what-role-can-design-play-in-creating-safer-parks/&#34;
+    target=&#34;_blank&#34;&gt;Project for Public Spaces&lt;/a&gt;)
+&lt;/div&gt;
+
+&lt;h1 id=&#34;nparks-recommendations&#34;&gt;NParks’ recommendations&lt;/h1&gt;
+
+&lt;p&gt;For the design state in relation to outdoor lighting:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Footpath (average 5 lux with the darkest spot of minimum 1 lux, i.e.,
+uniformity = 0.2)&lt;/li&gt;
+&lt;li&gt;Playground (average of 20 lux with the darkest spot of minimum 6 lux, i.e.,
+uniformity = 0.3)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;source&#34;&gt;
+  (based on the Mechanical &amp; Electrical Services Checklist
+  Form M&amp;amp;E/1.2, 2007)
+&lt;/div&gt;
+      
+
+&lt;div class=&#34;source&#34;&gt;
+  Photo by Brigita B. on &lt;a href=
+  &#34;https://unsplash.com/photos/YilEpxqSr48&#34; target=
+  &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Purpose of Street Lighting</title>
+      <link>http://cosmiqo.com/article/on-street-lighting/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-street-lighting/</guid>
+      <description>
+
+&lt;p&gt;At Cosmiqo, we develop technology that audits how bright the roads are by
+measuring the intensity of street lights. We do this by collecting quite a lot
+of data, wirelessly streaming it back to our cloud platform and processing this
+information through our analytics engine. We call this technology
+&lt;strong&gt;Litesense®&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The principal purpose of street lighting is to produce quick, accurate and
+comfortable visibility at night. These qualities of visibility may safeguard,
+facilitate and encourage vehicular and pedestrian traffic. When good visibility
+is provided through lighting, efficient night use can be made of the large
+investments in roadways and motor vehicles. Thus, the proper use of street
+lighting as an operative tool provides economic and social benefits to the
+public such as:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;reduction in night accidents, attendant human misery and economic loss&lt;/li&gt;
+&lt;li&gt;aid to police protection and enhanced sense of personal security&lt;/li&gt;
+&lt;li&gt;facilitation of traffic flow&lt;/li&gt;
+&lt;li&gt;promotion of business and the use of public facilities during the night hours
+
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;visual-components-of-the-driving-task&#34;&gt;Visual components of the driving task&lt;/h1&gt;
+
+&lt;p&gt;In order to drive a vehicle on a paved roadway with
+reasonable confidence, speed and safety, a driver must
+visually determine the following:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;that the pavement ahead is clear of defects and
+obstacles at a reasonable distance&lt;/li&gt;
+&lt;li&gt;the locations of the lane or roadway edges&lt;/li&gt;
+&lt;li&gt;the location and meaning of the traffic control devices
+and signs that affect the “rules of the road”&lt;/li&gt;
+&lt;li&gt;the present location and future course of moving
+objects on or near the roadway&lt;/li&gt;
+&lt;li&gt;the present position of the driver’s own vehicle
+relative to her immediate destination, other objects and
+intended turning locations
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;night-day-accident-relationship&#34;&gt;Night/Day accident relationship&lt;/h1&gt;
+
+&lt;p&gt;Darkness brings increased hazards to users of streets and highways because it
+reduces the distance they can see. The night time fatal accident rate on
+unlighted roadways is about three times the day time rate. This ratio can be
+reduced when proper fixed lighting is installed because these lighting systems
+reveal the environment beyond the range of the vehicle headlights and
+ameliorate glare from oncoming vehicles by increasing the eye’s adaptation
+level. Preventive measures such as lighting streets and highways is
+economically practical and can cost a community less than the accidents caused
+by inadequate visibility.&lt;/p&gt;
+
+&lt;div class=&#34;source&#34;&gt;
+  (source: IESNA, Roadway Lighting, 2005)
+&lt;/div&gt;
+&lt;div class=&#34;source&#34;&gt;
+  Photo by Inés Outumuro on &lt;a href=
+  &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
+  &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://cosmiqo.com/about.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/about.html</guid>
+      <description>&lt;article class=&#34;splash&#34;&gt;
+    &lt;div style=&#34;background-image: url(images/splash/about.jpg);&#34;
+    class=&#34;image&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;text&#34;&gt;
+      &lt;h2&gt;About us.&lt;/h2&gt;
+      &lt;div&gt;
+        A team of technology enthuasists that specialises in supply
+        chain analytics and operations management innovation.
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article class=&#34;members-section&#34;&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      &lt;div class=&#34;section-heading&#34;&gt;
+        &lt;img src=&#34;images/icons/user.svg&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          Who we are
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;section-title&#34;&gt;
+        Founding Members
+      &lt;/div&gt;
+      &lt;div class=&#34;members&#34;&gt;
+        &lt;div class=&#34;member grid-half&#34;&gt;
+          &lt;div class=&#34;photo&#34;&gt;&lt;img src=
+          &#34;images/members/kohnw.jpg&#34;&gt;&lt;/div&gt;
+          &lt;div class=&#34;name&#34;&gt;
+            Dr Koh Niak Wu
+          &lt;/div&gt;
+          &lt;div class=&#34;position&#34;&gt;
+            Founder + CEO
+          &lt;/div&gt;
+          &lt;div class=&#34;description&#34;&gt;
+            &lt;p&gt;Specialises in supply chain analytics, strategy
+            execution and operations management innovation&lt;/p&gt;
+            &lt;p&gt;Formerly:&lt;br&gt;
+            Global Supply Chain and Logistics team at Dell
+            contributing to strategy analytics&lt;br&gt;
+            Planning and Operations Management Group in SIMTech,
+            A*STAR where he gained valuable insights into the
+            evolution of industries&lt;/p&gt;
+            &lt;p&gt;Also:&lt;br&gt;
+            Adjunct Faculty at the Singapore Management University
+            and UniSIM where he shares his views and cross-industry
+            experiences in supply chains and operations
+            management&lt;/p&gt;
+            &lt;p&gt;Hopes that the next generation of industry leaders
+            will be the change that we need&lt;/p&gt;
+            &lt;p&gt;Codes in Python, believes in the power of
+            operational analytics and how it shapes business
+            decisions&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;member grid-half&#34;&gt;
+          &lt;div class=&#34;photo&#34;&gt;&lt;img src=
+          &#34;images/members/melvinz.jpg&#34;&gt;&lt;/div&gt;
+          &lt;div class=&#34;name&#34;&gt;
+            Dr Melvin Zhang
+          &lt;/div&gt;
+          &lt;div class=&#34;position&#34;&gt;
+            Co-founder + CTO
+          &lt;/div&gt;
+          &lt;div class=&#34;description&#34;&gt;
+            &lt;p&gt;Avid programmer who enjoys designing and
+            implementing novel algorithms&lt;/p&gt;
+            &lt;p&gt;Formerly from Hoiio where he was building APIs that
+            allow developers to easily add telephony capability to
+            their apps&lt;/p&gt;
+            &lt;p&gt;Actively involved with:&lt;br&gt;
+            Friday Hacks organised by NUS Hackers&lt;br&gt;
+            Hackers &amp; Painters&lt;/p&gt;
+            &lt;p&gt;In his spare time, he works on the AI for Magarena,
+            an open source implementation of Magic: The Gathering
+            focused on creating a strong AI player&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;section-title&#34;&gt;
+        Advisory Board
+      &lt;/div&gt;
+      &lt;div class=&#34;members&#34;&gt;
+        &lt;div class=&#34;member grid-half&#34;&gt;
+          &lt;div class=&#34;name&#34;&gt;
+            Foo Kim Peng
+          &lt;/div&gt;
+          &lt;div class=&#34;description&#34;&gt;
+            &lt;p&gt;Executive Director of iSpace Innovations Asia
+            Pacific, a seed and early-stage venture capital
+            fund&lt;/p&gt;
+            &lt;p&gt;Managing Director of Kerydh Pte Ltd, which focuses
+            on business consultancy and investments&lt;/p&gt;
+            &lt;p&gt;Formerly:&lt;br&gt;
+            Chief Executive Officer of TransitLink Pte Ltd&lt;br&gt;
+            Director in the Land Transport Authority of
+            Singapore&lt;br&gt;
+            General Manager of Stelcomms Pte Ltd, a subsidiary of
+            ST Electronics&lt;/p&gt;
+            &lt;p&gt;Also:&lt;br&gt;
+            Former pilot with the Singapore Airforce and retiring
+            as a Colonel&lt;br&gt;
+            Trained executive coach and has been coaching mid-level
+            officers for senior appointments in the SAF&lt;/p&gt;
+            &lt;p&gt;Has extensive experience in developing and managing
+            high technology products and systems especially in
+            defence, communications, e-payments and public
+            transport industries&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;member grid-half&#34;&gt;
+          &lt;div class=&#34;name&#34;&gt;
+            Dr Marcelo H. Ang Jr
+          &lt;/div&gt;
+          &lt;div class=&#34;description&#34;&gt;
+            &lt;p&gt;Associate Professor of Mechanical Engineering at the
+            National University of Singapore with a Joint
+            Appointment at the Division of Engineering and
+            Technology Management and the Acting Director of the
+            Advanced Robotics Centre&lt;/p&gt;
+            &lt;p&gt;Formerly:&lt;br&gt;
+            Assistant Professor of Electrical Engineering at the
+            University of Rochester, New York&lt;br&gt;
+            Researcher at the East West Center in Hawaii and at the
+            Massachusetts Institute of Technology&lt;br&gt;
+            Head of the Technical Training Division of Intel&#39;s
+            Assembly and Test Facility in the Philippines&lt;/p&gt;
+            &lt;p&gt;Research interests in the areas of robotics,
+            mechatronics and applications of intelligent systems
+            methodologies&lt;/p&gt;
+            &lt;p&gt;Teaches at both the graduate and undergraduate
+            levels in the following areas Robotics; Creativity and
+            innovation; Applied electronics and instrumentation;
+            Advanced computing; Product design and realization&lt;/p&gt;
+            &lt;p&gt;Actively involved with the:&lt;br&gt;
+            Singapore Robotic Games as its founding chairman&lt;br&gt;
+            World Robot Olympiad as a member of the Advisory
+            Council&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      &lt;div class=&#34;section-heading&#34;&gt;
+        &lt;img src=&#34;images/icons/pin.svg&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          Where to find us
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;locations&#34;&gt;
+        &lt;div class=&#34;location&#34;&gt;
+          &lt;div class=&#34;map-container&#34;&gt;
+            &lt;div id=&#34;map-singapore&#34; class=&#34;map&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;country&#34;&gt;
+            Singapore
+          &lt;/div&gt;
+          &lt;div class=&#34;address&#34;&gt;
+            71 Ayer Rajah Crescent&lt;br&gt;
+            #05-22/23&lt;br&gt;
+            Singapore 139951
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ampsense</title>
+      <link>http://cosmiqo.com/amp.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/amp.html</guid>
+      <description>&lt;article class=&#34;splash&#34;&gt;
+    &lt;div style=&#34;background-image: url(images/splash/acms.jpg);&#34;
+    class=&#34;image&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;text&#34;&gt;
+      &lt;h2&gt;Energy analytics.&lt;br&gt;
+      For a sustainable future.&lt;/h2&gt;
+      &lt;div&gt;
+        &lt;p&gt;Do it for our children.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      &lt;div class=&#34;intro&#34;&gt;
+        &lt;h2&gt;Cosmiqo Ampsense®.&lt;br&gt;
+        Effective energy monitoring.&lt;/h2&gt;
+        &lt;div class=&#34;description&#34;&gt;
+          Real-time data collection. Monitor, process and visualise
+          energy and temperature data. Anywhere.
+        &lt;/div&gt;
+        &lt;div class=&#34;frame&#34;&gt;
+          &lt;img src=&#34;images/mbp-frame.png&#34;&gt;
+          &lt;div class=&#34;image-container&#34;&gt;&lt;img src=
+          &#34;images/screenshots/acms/acms-csv-export.png&#34; class=
+          &#34;show&#34;&gt;&lt;img src=
+          &#34;images/screenshots/acms/acms-current.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/acms/acms-temperature.png&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      &lt;div class=&#34;details&#34;&gt;
+        &lt;div class=&#34;item grid-half&#34;&gt;
+          &lt;img src=&#34;images/icons/colour-target.svg&#34; class=&#34;icon&#34;&gt;
+          &lt;div class=&#34;title&#34;&gt;
+            Purpose
+          &lt;/div&gt;
+          &lt;div class=&#34;text&#34;&gt;
+            &lt;p&gt;Cosmiqo Ampsense® was designed to provide analytical
+            insights on power consumption. It provides current
+            usage and details out system energy efficiency.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item grid-half&#34;&gt;
+          &lt;img src=&#34;images/icons/colour-light-bulb.svg&#34; class=
+          &#34;icon&#34;&gt;
+          &lt;div class=&#34;title&#34;&gt;
+            Benefits
+          &lt;/div&gt;
+          &lt;div class=&#34;text&#34;&gt;
+            &lt;p&gt;More than we realise.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;print-button-wrapper&#34;&gt;
+        &lt;div class=&#34;print-button&#34;&gt;
+          &lt;img src=&#34;images/icons/print.svg&#34;&gt;&lt;span&gt;Print
+          Brochure&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>http://cosmiqo.com/articles.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articles.html</guid>
+      <description>&lt;article class=&#34;splash&#34;&gt;
+    &lt;div style=&#34;background-image: url(images/splash/articles.jpg);&#34;
+    class=&#34;image&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;text&#34;&gt;
+      &lt;h2&gt;Articles.&lt;/h2&gt;
+      &lt;div&gt;
+        Sharing and Learning.
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      &lt;div class=&#34;section-heading&#34;&gt;
+        &lt;img src=&#34;images/icons/lighting.svg&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          On Lighting
+        &lt;/div&gt;
+        &lt;div class=&#34;details&#34;&gt;
+          &lt;p&gt;&lt;a href=&#34;article/on-kd-to-bu/&#34; target=
+          &#34;_blank&#34;&gt;Street Lighting from Kota Damansara to
+          Centrepoint Bandar Utama&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;a href=&#34;article/on-ulu-pandan/&#34; target=
+          &#34;_blank&#34;&gt;Street lighting at Ulu Pandan and Bukit
+          Timah&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;a href=&#34;article/on-kota-damansara/&#34; target=
+          &#34;_blank&#34;&gt;Street lighting at Kota Damansara&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;a href=&#34;article/on-park-lighting/&#34; target=
+          &#34;_blank&#34;&gt;The importance of park lighting&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;a href=&#34;article/on-street-lighting/&#34; target=
+          &#34;_blank&#34;&gt;The purpose of street lighting&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;section-heading&#34;&gt;
+        &lt;img src=&#34;images/icons/misc.svg&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          On Road Roughness
+        &lt;/div&gt;
+        &lt;div class=&#34;details&#34;&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;section-heading&#34;&gt;
+        &lt;img src=&#34;images/icons/misc.svg&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          On Education
+        &lt;/div&gt;
+        &lt;div class=&#34;details&#34;&gt;
+          &lt;p&gt;IoT@Schools with AMKSS (coming soon)&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Careers</title>
+      <link>http://cosmiqo.com/careers.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/careers.html</guid>
+      <description>&lt;article class=&#34;splash&#34;&gt;
+    &lt;div style=&#34;background-image: url(images/splash/careers.jpg);&#34;
+    class=&#34;image&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;text&#34;&gt;
+      &lt;h2&gt;Join the team.&lt;br&gt;
+      Make a difference.&lt;/h2&gt;
+      &lt;div&gt;
+        Cosmiqo is a humble start-up that creates innovative
+        technology simply to make people smile more. We are always
+        nice to sentient beings and place ethics at the core of our
+        values. Engineers at heart, the team is always looking out
+        for unique ways to enhance the quality of life.
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      &lt;div class=&#34;section-heading&#34;&gt;
+        &lt;img src=&#34;images/icons/user.svg&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          We&#39;re hiring
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;intro&#34;&gt;
+        &lt;p&gt;There are some pretty fun and pioneering projects up in
+        the pipeline. From sensor-fusion platforms to geospatial
+        analytics, we are in a position to meddle around with and
+        develop some mind-numbing applications.&lt;/p&gt;
+        &lt;p&gt;If you resonated while reading this, you, like us, would
+        never have to work a day in your life (Confucius was a
+        smart man) and do consider joining us.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;h3&gt;Open positions&lt;/h3&gt;
+      &lt;div class=&#34;position-item&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          Infrastructure Engineer
+          &lt;div class=&#34;type&#34;&gt;
+            Full time / Intern
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;button&#34;&gt;
+          &lt;a href=&#34;mailto:careers@cosmiqo.com&#34;&gt;Apply&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;description&#34;&gt;
+          Make people happier through finely-tuned systems
+        &lt;/div&gt;
+        &lt;div class=&#34;details&#34;&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Must-have&lt;/span&gt;: Experience in
+            running large scale websites with PostgreSQL (other
+            databases a plus) in Linux platforms
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Good-to-have&lt;/span&gt;: Python,
+            Bash, Nginx, Apache, Puppet, Chef, Docker, Jenkins
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Sphere of Influence&lt;/span&gt;: the
+            Team
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Softer traits&lt;/span&gt;: Curious,
+            Responsible, Trustworthy, Pressure indifferent,
+            Passionate about technology
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Kuala Lumpur or
+            Singapore
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;position-item&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          Web Developer
+          &lt;div class=&#34;type&#34;&gt;
+            Intern
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;button&#34;&gt;
+          &lt;a href=&#34;mailto:careers@cosmiqo.com&#34;&gt;Apply&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;description&#34;&gt;
+          Make people happier through creative use of technology
+        &lt;/div&gt;
+        &lt;div class=&#34;details&#34;&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Must-have&lt;/span&gt;: Experience in
+            Python, CherryPy, Flask, HTML5, CSS3, JavaScript,
+            LESS/SASS, Bootstrap (or equivalent), Git/Github and
+            data visualisation
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Good-to-have&lt;/span&gt;: Worked with
+            Node.js, comfortable at the CLI
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Sphere of Influence&lt;/span&gt;: the
+            Team
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Softer traits&lt;/span&gt;:
+            Aesthetically-inclined, Responsible, Trustworthy,
+            Independent, Passionate about technology
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Kuala Lumpur or
+            Singapore
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;position-item&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          UI/UX Designer
+          &lt;div class=&#34;type&#34;&gt;
+            Intern
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;button&#34;&gt;
+          &lt;a href=&#34;mailto:careers@cosmiqo.com&#34;&gt;Apply&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;description&#34;&gt;
+          Make people happier through compelling, elegant,
+          pleasurable and sophisticated end-to-end user experience
+          solutions
+        &lt;/div&gt;
+        &lt;div class=&#34;details&#34;&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Must-have&lt;/span&gt;: Working
+            knowledge of HTML, CSS and JavaScript. Proficiency with
+            design and software prototyping tools.
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Good-to-have&lt;/span&gt;: CherryPy,
+            Flask, Python and a critical eye for clean visual
+            designs
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Sphere of Influence&lt;/span&gt;: the
+            Team and our customers
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Softer traits&lt;/span&gt;:
+            Aesthetically-inclined, Responsible, Trustworthy,
+            Independent, Passionate about technology
+          &lt;/div&gt;
+          &lt;div&gt;
+            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Singapore
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>http://cosmiqo.com/credits.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/credits.html</guid>
+      <description>&lt;article class=&#34;splash&#34;&gt;
+    &lt;div style=&#34;background-image: url(images/splash/credits.jpg);&#34;
+    class=&#34;image&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;text&#34;&gt;
+      &lt;h2&gt;Credits.&lt;/h2&gt;
+      &lt;div&gt;
+        Where it is due.
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      &lt;div class=&#34;section-heading&#34;&gt;
+        &lt;img src=&#34;images/icons/image.svg&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          Photos
+        &lt;/div&gt;
+        &lt;div class=&#34;details&#34;&gt;
+          &lt;p&gt;Highway photo from &lt;a href=
+          &#34;http://www.splitshire.com/highway/&#34; target=
+          &#34;_blank&#34;&gt;Splitshire&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;Street lamp photo from &lt;a href=
+          &#34;http://www.splitshire.com/street-lamp/&#34; target=
+          &#34;_blank&#34;&gt;Splitshire&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;Toy car photo from &lt;a href=
+          &#34;http://www.designerspics.com/photographs/toy-car-engineering-kid/&#34;
+          target=&#34;_blank&#34;&gt;DesignersPics&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;Remaining photos from &lt;a href=&#34;https://unsplash.com/&#34;
+          target=&#34;_blank&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;section-heading&#34;&gt;
+        &lt;img src=&#34;images/icons/iconcollection.svg&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          Icons
+        &lt;/div&gt;
+        &lt;div class=&#34;details&#34;&gt;
+          &lt;p&gt;Micons from Cosmin Negoita on &lt;a href=
+          &#34;http://geticonjar.com/freebies/231-micons/&#34; target=
+          &#34;_blank&#34;&gt;Iconjar&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;Flat icons from &lt;a href=
+          &#34;https://icons8.com/c/flat-color-icons&#34; target=
+          &#34;_blank&#34;&gt;Icons8&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;Social Media icons from &lt;a href=
+          &#34;http://icons.stephenmorley.org/&#34; target=&#34;_blank&#34;&gt;Stephen
+          Morley&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;Web and E-commerce icons from Pavel Kozlov on &lt;a href=
+          &#34;https://gumroad.com/l/40-free-icons&#34; target=
+          &#34;_blank&#34;&gt;Gumroad&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;User icon created by Cris Dobbins from &lt;a href=
+          &#34;https://thenounproject.com/&#34; target=&#34;_blank&#34;&gt;the Noun
+          Project&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;section-heading&#34;&gt;
+        &lt;img src=&#34;images/icons/misc.svg&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          Misc
+        &lt;/div&gt;
+        &lt;div class=&#34;details&#34;&gt;
+          &lt;p&gt;Laptop Mockup from Panagiotis Efthymiou on &lt;a href=
+          &#34;https://dribbble.com/shots/1487013-Flat-Devices?list=users&amp;amp;offset=12&#34;
+          target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://cosmiqo.com/education.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/education.html</guid>
+      <description>&lt;article class=&#34;splash&#34;&gt;
+    &lt;div style=
+    &#34;background-image: url(images/splash/education.jpg);&#34; class=
+    &#34;image&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;text&#34;&gt;
+      &lt;h2&gt;Education.&lt;br&gt;
+      For continuity.&lt;/h2&gt;
+      &lt;div&gt;
+        Amidst the fun at Cosmiqo, we always make time to share
+        what we have with those who reach out to us.
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      &lt;div class=&#34;section-heading&#34;&gt;
+        &lt;img src=&#34;images/icons/lego-block.svg&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          Robotics Workshops
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;intro&#34;&gt;
+        &lt;p&gt;Over the years, we&#39;ve conducted quite a number of
+        robotics workshops / competitions for &lt;a href=
+        &#34;http://www.angmokiosec.moe.edu.sg/&#34; target=&#34;_blank&#34;&gt;Ang Mo
+        Kio Secondary School&lt;/a&gt; (why this school? Because they
+        asked. And it is fun to spend some time with the next
+        generation of leaders).&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;gallery-container&#34;&gt;
+        &lt;ul class=&#34;cards&#34;&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/amkss/20120804_114305.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/amkss/20120804_114350.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/amkss/20120804_130106.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/amkss/20130824_105943.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/amkss/20130824_114022.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/amkss/20130824_124523.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/amkss/20140329_115103.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/amkss/20140329_091148.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/amkss/20140329_125729.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      &lt;div class=&#34;section-heading&#34;&gt;
+        &lt;img src=&#34;images/icons/bucket.svg&#34;&gt;
+        &lt;div class=&#34;title&#34;&gt;
+          Vermicomposting
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;intro&#34;&gt;
+        &lt;p&gt;We&#39;re now working closely with AMKSS on their &lt;a href=
+        &#34;http://www.moe.gov.sg/media/press/2013/09/every-secondary-school-to-develop-two-distinctive-programmes-for-a-holistic-student-centric-education.php&#34;
+        target=&#34;_blank&#34;&gt;Academic Learning Programme&lt;/a&gt; (ALP) to
+        promote and to create awareness on the importance of a
+        sustainable economy. What makes this most enjoyable is that
+        we are creating compost (fertiliser) with the help of our
+        wormy friends.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;gallery-container&#34;&gt;
+        &lt;ul class=&#34;cards&#34;&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/vermicomposting/amkss-vermi-01.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/vermicomposting/amkss-vermi-02.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/vermicomposting/amkss-vermi-03.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;image-container&#34;&gt;
+            &lt;div style=
+            &#34;background-image: url(images/vermicomposting/amkss-vermi-04.jpg);&#34;
+            class=&#34;image&#34;&gt;&lt;/div&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Litesense</title>
+      <link>http://cosmiqo.com/litesense.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/litesense.html</guid>
+      <description>&lt;article class=&#34;splash&#34;&gt;
+    &lt;div style=&#34;background-image: url(images/splash/alms.jpg);&#34;
+    class=&#34;image&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;text&#34;&gt;
+      &lt;h2&gt;City-wide analytics.&lt;br&gt;
+      For street lighting.&lt;/h2&gt;
+      &lt;div&gt;
+        &lt;p&gt;The measurement of street lighting intensity has always
+        been manual. That’s right. Handheld lux meter, standing in
+        the middle of the road, trying not to get hit, trying to
+        get decent readings. Trying again. And again.&lt;/p&gt;
+        &lt;p&gt;We’ve changed the way it works.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      &lt;div class=&#34;intro&#34;&gt;
+        &lt;h2&gt;Cosmiqo Litesense®.&lt;br&gt;
+        Be productive. Be safe.&lt;/h2&gt;
+        &lt;div class=&#34;description&#34;&gt;
+          Real-time data collection. Lamp identification and
+          intensity mapping on-the-go. All at high sampling rates.
+        &lt;/div&gt;
+        &lt;div class=&#34;frame&#34;&gt;
+          &lt;img src=&#34;images/mbp-frame.png&#34;&gt;
+          &lt;div class=&#34;image-container&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen1.png&#34; class=
+          &#34;show&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen2.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen3.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen4.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen5.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen6.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen7.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen8.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen9.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen10.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen11.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen12.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen13.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen14.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen15.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen16.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen17.png&#34;&gt;&lt;img src=
+          &#34;images/screenshots/alms/screen18.png&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+  &lt;article&gt;
+    &lt;div class=&#34;wrapper&#34;&gt;
+      &lt;div class=&#34;details&#34;&gt;
+        &lt;div class=&#34;item grid-half&#34;&gt;
+          &lt;img src=&#34;images/icons/colour-target.svg&#34; class=&#34;icon&#34;&gt;
+          &lt;div class=&#34;title&#34;&gt;
+            Purpose
+          &lt;/div&gt;
+          &lt;div class=&#34;text&#34;&gt;
+            &lt;p&gt;Cosmiqo Litesense® was designed to provide
+            analytical insights into the safety of roads through
+            the brightness of street lights. It provides system
+            alerts down to the level of lamp pole IDs based on GPS
+            coordinates.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item grid-half&#34;&gt;
+          &lt;img src=&#34;images/icons/colour-light-bulb.svg&#34; class=
+          &#34;icon&#34;&gt;
+          &lt;div class=&#34;title&#34;&gt;
+            Benefits
+          &lt;/div&gt;
+          &lt;div class=&#34;text&#34;&gt;
+            &lt;p&gt;Prevention of accidents: Pedestrian fatalities are 3
+            to 6.75 times more likely in the dark than in daylight.
+            Street lighting has been found to reduce pedestrian
+            crashes by approximately 50%.&lt;/p&gt;
+            &lt;p&gt;Increase in safety: Decrease in crime by 21%&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item grid-half&#34;&gt;
+          &lt;img src=&#34;images/icons/colour-pin.svg&#34; class=&#34;icon&#34;&gt;
+          &lt;div class=&#34;title&#34;&gt;
+            Usage
+          &lt;/div&gt;
+          &lt;div class=&#34;text&#34;&gt;
+            &lt;p&gt;Nationwide in Singapore&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;item grid-half&#34;&gt;
+          &lt;img src=&#34;images/icons/colour-cup.svg&#34; class=&#34;icon&#34;&gt;
+          &lt;div class=&#34;title&#34;&gt;
+            Productivity Gain
+          &lt;/div&gt;
+          &lt;div class=&#34;text&#34;&gt;
+            &lt;p&gt;866%&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;button&#34;&gt;
+          &lt;a href=&#34;marcom/cosmiqo-brochure.pdf&#34; download target=&#34;_blank&#34;&gt;Download Brochure&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
