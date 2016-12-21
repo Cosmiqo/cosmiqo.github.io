@@ -1,13 +1,328 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Cosmiqo</title>
-    <link>http://cosmiqo.com/article/</link>
-    <description>Recent content in Articles on Cosmiqo</description>
+    <title>Article-rsses on Cosmiqo</title>
+    <link>http://cosmiqo.com/article/index.xml</link>
+    <description>Recent content in Article-rsses on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://cosmiqo.com/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Our journey to Litesense (Part 3 of 3)</title>
+      <link>http://cosmiqo.com/article/on-litesense-03/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-litesense-03/</guid>
+      <description>
+
+&lt;p&gt;The Automated Street Light Measurement System (ASLMS) (see &lt;a href=&#34;../on-litesense-02/&#34;&gt;Part
+2&lt;/a&gt;) is, in its crudest form, an in-vehicle data acquisition system
+that outputs geospatial lighting statistics. In its more complex form, the ASLMS
+comprises:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;a data fusion engine that integrates data from multi-modality sensors into a
+consistent, accurate, and useful representation, and&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a data analytics engine that examines data with the purpose of drawing
+conclusions about that information&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When we built ASLMS, the Internet-of-Things (IoT) was merely a shadow and the
+above was really just a data acquisition box. Today, new buzzwords are
+created simply to confuse the masses. Our advice is to stay grounded, keep to
+the fundamentals and try not be misled by marketing spiel.&lt;/p&gt;
+
+&lt;h1 id=&#34;realising-litesense&#34;&gt;Realising Litesense&lt;/h1&gt;
+
+&lt;p&gt;When we started designing and building Litesense, IoT became a force to be
+reckoned with and we embraced the technological disruptions. Our transition from
+ASLMS to Litesense was prudent (see Figure 1) while trying our best to adhere to the
+expand/contract pattern  (The rule is that you never change existing objects all
+at once. Instead, divide the changes into reversible steps.) Each transition was
+designed to be a viable product and this is illustrated nicely in Figure 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-22-litesense/transition.png&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 1: The transition to Litesense. Shape sizes depict the
+expand/contract pattern.
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-22-litesense/mvp-henrik-kniberg.png&#34;
+width=&#34;50%&#34; height=&#34;50%&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 2: Deliver usable products to allow learning to take place (source:
+&lt;a href=&#34;https://blog.deming.org/2014/11/minimal-viable-product/&#34;&gt;The Deming Institute&lt;/a&gt;)
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;the-litesense-iot-platform&#34;&gt;The Litesense IoT platform&lt;/h1&gt;
+
+&lt;p&gt;Litesense, like its predecessors, can be used at normal
+vehicular speeds while collecting and transmitting wirelessly high granularity
+sensor data. This meant that the platform needed to be performant and
+reliable (see Figure 3) across all modules required of an end-to-end streaming
+system. Fast forward two years, tons of learning and less number of sleepless nights,
+Litesense was commissioned (see Figures 4 and 5).&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-22-litesense/2x2.png&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 3: What the Litesense IoT platform is
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-22-litesense/litesense.png&#34; width=&#34;60%&#34;
+height=&#34;60%&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 4: Litesense mounted on top of a vehicle
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-22-litesense/alms-web.png&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 5: Litesense web interface (gets the job done)
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;By adhering to the Rule of Modularity (see &lt;a href=&#34;https://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond.E2.80.99s_17_Unix_Rules&#34;&gt;17 Unix
+Rules&lt;/a&gt;),
+we have taken the liberty to promote the Litesense IoT platform into the &lt;strong&gt;Cosmiqo IoT platform&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;next-steps&#34;&gt;Next steps&lt;/h1&gt;
+
+&lt;p&gt;Through Litesense, the Cosmiqo team (see Figure 6) has gained a deep
+understanding of sensing platforms and analytics engines. Till the next project.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-22-litesense/team.png&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 6: The three musketeers. From left to right: Cheon Ying, Niak Wu and
+Melvin. Special thanks goes out to Lam Kee Wei and Heng U San.
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;source&#34;&gt;
+    (Cosmiqo&amp;copy;)
+  &lt;/div&gt;
+  &lt;div class=&#34;source&#34;&gt;
+    Photo by Inés Outumuro on &lt;a href=
+    &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
+    &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
+  &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our journey to Litesense (Part 2 of 3)</title>
+      <link>http://cosmiqo.com/article/on-litesense-02/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-litesense-02/</guid>
+      <description>
+
+&lt;p&gt;In &lt;a href=&#34;../on-litesense-01/&#34;&gt;Part 1&lt;/a&gt;, we ended with the need to carry out
+illuminance measurements in the wee hours of the morning to reduce the risk of
+accidents. What we neglected to mention was that even during these hours,
+carrying out measurement activities requires vigilance since standing in the
+middle of a road is a pre-requisite. There is also the little known fact that there
+exists an intersection between people who drive and people who stress-relieve in
+GTA (see Figure 1).&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-21-litesense/venn.png&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 1: Crazy drivers (purely a hypothesis to stress the importance of
+road safety)
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;At such hours, fatigue usually creeps in at a faster rate and due to the manual
+nature of work, the probability of errors during illuminance measurements
+increases. This results in rework.&lt;/p&gt;
+
+&lt;p&gt;Now that we understand the process, we needed to work on three issues:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Effectiveness of measurement accuracy to eliminate rework&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Efficiency of measurement &amp;ldquo;for every lane across every road&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Workplace safety to reduce the risk of accidents&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;introducing-the-automated-street-light-measurement-system&#34;&gt;Introducing the Automated Street Light Measurement System&lt;/h1&gt;
+
+&lt;p&gt;Engineers at heart, the conceptual solution was simple. All we had to do was
+cobble a number of sensors together and write some software. So we thought. If
+you have ever tried taking an idea from concept to reality, you would know that
+this is not a walk in the park. One and a half years and a terrible number of
+sleepless nights later (testing could only be done at night), the ASLMS was
+ready to roll (see Figures 2 and 3).&lt;/p&gt;
+
+&lt;p&gt;The technicians were now able to perform illuminance
+measurements across entire roads in the comfort and safety of their vehicles. Productivity
+gains increased by 8-fold and the risk of accidents reduced to a minimum.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-21-litesense/aslms-01.jpg&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 2: ASLMS up close
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-21-litesense/aslms-02.jpg&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 3: ASLMS mounted on top of a vehicle
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;new-learnings&#34;&gt;New learnings&lt;/h1&gt;
+
+&lt;p&gt;The problem with most devices is that it undergoes wear and tear. After
+continual usage, external components that we procured for the ASLMS started to
+fail. We took away two pearls of wisdom:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;The design of maintenance contracts are important.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The design of systems are even more important in order to fully optimise Pearl 1
+above.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Along the way, we made many good friends (see Figures 4 and 5), learnt &lt;em&gt;a lot&lt;/em&gt; about
+on-the-ground operations in the greatest of details and most importantly, what we
+had to do to simplify the entire system and workflow. With our treasure trove of newfound
+knowledge, we went back to the drawing boards.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-21-litesense/muru-and-kumar.png&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 4: Muru and Kumar fixing a busted tyre while I capture the memory of them
+fixing a busted tyre
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-21-litesense/fun.jpg&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 5: Just another night with the boys. From left to right: Ryan
+(lighting pro-to-know), Melvin (CTO of Cosmiqo) and Kumar.
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;source&#34;&gt;
+    (Cosmiqo&amp;copy;)
+  &lt;/div&gt;
+  &lt;div class=&#34;source&#34;&gt;
+    Photo by Inés Outumuro on &lt;a href=
+    &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
+    &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
+  &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our journey to Litesense (Part 1 of 3)</title>
+      <link>http://cosmiqo.com/article/on-litesense-01/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-litesense-01/</guid>
+      <description>
+
+&lt;p&gt;For those of us who grew up in cities, street lights have always been a part of
+our lives. Truth be told, we never really think much about it until we stumble
+across an area that is either too dark or too bright. Yes, most people
+take street lighting for granted even though humans (like some bugs) are naturally
+attracted to light.&lt;/p&gt;
+
+&lt;p&gt;In the early civilisations, light primarily serves the purpose of security,
+both to protect the wanderer from tripping or keeping potential robbers at bay.
+Today, street lighting also serves to facilitate traffic flow, promotes the use
+of public facilities during the night hours and much more.&lt;/p&gt;
+
+&lt;p&gt;Governments around the world spend a &lt;strong&gt;considerable&lt;/strong&gt; amount to maintain street
+lights along public roads to keep us safe and secure. If you are a tax-payer, it
+is your right to have sufficient lighting and you can provide feedback to your
+respective authorities otherwise. It is also our right to be taxed so we might
+as well make full use of our tax-paying priviledge.&lt;/p&gt;
+
+&lt;h1 id=&#34;modus-operandi&#34;&gt;Modus operandi&lt;/h1&gt;
+
+&lt;p&gt;Generally, governments engage term contractors to maintain street lights. One of
+their activities is to ensure that roadway lighting is uniform. Lighting
+uniformity is represented by U&lt;sub&gt;0&lt;/sub&gt; and it is given to us by taking the ratio of
+the minimum illuminance, E&lt;sub&gt;min&lt;/sub&gt;, to the average illuminance,
+E&lt;sub&gt;average&lt;/sub&gt;, i.e., E&lt;sub&gt;min&lt;/sub&gt; / E&lt;sub&gt;average&lt;/sub&gt;. So how does
+this all work in real life?&lt;/p&gt;
+
+&lt;p&gt;Before Cosmiqo, technicians hired by term contractors would carry out
+measurements by hand
+(They still do but much less now). This would involve the rather dangerous task
+of having to find the darkest spot - typically between two street lamps of
+choice - followed by nine other evenly distributed points on a lane to find the
+average (see Figure 1). Now repeat this for every lane across every road. One
+can only wonder how much time it will take to completion.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=
+    &#34;../../images/litesense/2016-12-20-litesense/measurement-points.png&#34;&gt;
+    &lt;figcaption&gt;
+    Figure 1: Nine evenly distributed points on a lane between two street lamps
+    &lt;/figcaption&gt;
+    &lt;/center&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Because of this, illuminance measurements are carried out in the wee hours of
+the morning to reduce the
+risk of accidents but probabilities are still high. The next time you see someone
+standing in the middle of the road, do be careful. He could be performing
+illuminance measurements to ensure our public roads are safe and secure, &lt;em&gt;for
+us&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Street Lighting from Kota Damansara to Centrepoint Bandar Utama</title>
