@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Article-rsses on Cosmiqo</title>
-    <link>http://cosmiqo.com/article/index.xml</link>
-    <description>Recent content in Article-rsses on Cosmiqo</description>
+    <title>Articles on Cosmiqo</title>
+    <link>http://cosmiqo.com/article/</link>
+    <description>Recent content in Articles on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Dec 2016 00:00:00 +0000</lastBuildDate>
@@ -252,6 +252,8 @@ fixing a busted tyre
     &lt;/center&gt;
   &lt;/figure&gt;&lt;/p&gt;
 
+&lt;p&gt;On to &lt;a href=&#34;../on-litesense-03/&#34;&gt;Part 3&lt;/a&gt; of 3.&lt;/p&gt;
+
 &lt;p&gt;&lt;div class=&#34;source&#34;&gt;
     (Cosmiqo&amp;copy;)
   &lt;/div&gt;
@@ -321,6 +323,12 @@ risk of accidents but probabilities are still high. The next time you see someon
 standing in the middle of the road, do be careful. He could be performing
 illuminance measurements to ensure our public roads are safe and secure, &lt;em&gt;for
 us&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;On to &lt;a href=&#34;../on-litesense-02/&#34;&gt;Part 2&lt;/a&gt; of 3.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;source&#34;&gt;
+    (Cosmiqo&amp;copy;)
+  &lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     

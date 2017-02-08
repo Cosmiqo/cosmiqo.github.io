@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Top-rsses on Cosmiqo</title>
-    <link>http://cosmiqo.com/top/index.xml</link>
-    <description>Recent content in Top-rsses on Cosmiqo</description>
+    <title>Tops on Cosmiqo</title>
+    <link>http://cosmiqo.com/top/</link>
+    <description>Recent content in Tops on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://cosmiqo.com/top/index.xml" rel="self" type="application/rss+xml" />
@@ -406,8 +406,7 @@
             Passionate about technology
           &lt;/div&gt;
           &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Kuala Lumpur or
-            Singapore
+            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Malaysia or Singapore
           &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -415,7 +414,7 @@
         &lt;div class=&#34;title&#34;&gt;
           Web Developer
           &lt;div class=&#34;type&#34;&gt;
-            Intern
+            Full time / Intern
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;button&#34;&gt;
@@ -445,8 +444,7 @@
             Independent, Passionate about technology
           &lt;/div&gt;
           &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Kuala Lumpur or
-            Singapore
+            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Malaysia or Singapore
           &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -486,7 +484,7 @@
             Independent, Passionate about technology
           &lt;/div&gt;
           &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Singapore
+            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Malaysia or Singapore
           &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
