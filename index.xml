@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cosmiqo</title>
-    <link>http://cosmiqo.com/</link>
+    <link>http://cosmiqo.com/index.xml</link>
     <description>Recent content on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -993,6 +993,21 @@ by inadequate visibility.&lt;/p&gt;
             71 Ayer Rajah Crescent&lt;br&gt;
             #05-22/23&lt;br&gt;
             Singapore 139951
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;location&#34;&gt;
+          &lt;div class=&#34;map-container&#34;&gt;
+            &lt;div id=&#34;map-malaysia&#34; class=&#34;map&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;country&#34;&gt;
+            Shah Alam, Selangor
+          &lt;/div&gt;
+          &lt;div class=&#34;address&#34;&gt;
+            No. 13-M (Mezzanine Floor)&lt;br&gt;
+            Jalan Tengku Ampuan Zabedah J9/J&lt;br&gt;
+            Shah Alam&lt;br&gt;
+            Selangor, 40100 Malaysia
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
