@@ -6,8 +6,114 @@
     <description>Recent content on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://cosmiqo.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Going to Cheras for supper</title>
+      <link>http://cosmiqo.com/article/on-roadeye-cheras/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-roadeye-cheras/</guid>
+      <description>
+
+&lt;p&gt;Over the past couple of months, we were developing RoadEye&lt;sup&gt;TM&lt;/sup&gt;, a
+low-cost road roughness monitoring device.  The idea behind RoadEye&lt;sup&gt;TM&lt;/sup&gt;
+is simple - &lt;em&gt;allow quick and easy road roughess monitoring across a large
+network without disrupting traffic flow&lt;/em&gt;. Some of our early trials were
+performed from a drive that we took from Subang Jaya to Cheras in Malaysia.&lt;/p&gt;
+
+&lt;p&gt;Indicators for brightness level are&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#000078;&#34;&gt;Smoothest&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00DCFF;&#34;&gt;Smoother&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#006E00;&#34;&gt;Smooth&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;Normal&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFB400;&#34;&gt;Rough&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF6400;&#34;&gt;Rougher&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;Roughest&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../maps/osm-subang-cheras.html&#34;&gt;Please feel free to interact with the map&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;findings&#34;&gt;Findings&lt;/h1&gt;
+
+&lt;figure&gt;
+&lt;figcaption&gt;
+  1. Road roughness conditions are satisfactory at the Subang-Federal Expressway
+exit.
+&lt;/figcaption&gt;&lt;img src=
+&#34;../../images/roadeye/2016-08-25-subang-cheras/subang-federal-exit.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;figcaption&gt;
+  2. Road roughness conditions are satisfactory along the Federal Expressway.
+&lt;/figcaption&gt;&lt;img src=
+&#34;../../images/roadeye/2016-08-25-subang-cheras/federal-highway-01.png&#34;&gt;
+&lt;img src=
+&#34;../../images/roadeye/2016-08-25-subang-cheras/federal-highway-02.png&#34;&gt;
+&lt;/figure&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;figcaption&gt;
+  3. Pothole along Jalan Cheras (we did not mean to drive into it).
+&lt;/figcaption&gt;&lt;img src=
+&#34;../../images/roadeye/2016-08-25-subang-cheras/jalan-cheras-pothole.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;figcaption&gt;
+  4. Road roughness conditions are unsatisfactory from Jalan Lingkaran Tengah 2
+to Jalan 4/96A
+&lt;/figcaption&gt;&lt;img src=
+&#34;../../images/roadeye/2016-08-25-subang-cheras/jalan-lingkaran-tengah-2-exit.png&#34;&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ensuring ride quality</title>
+      <link>http://cosmiqo.com/article/on-road-roughness/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-road-roughness/</guid>
+      <description>
+
+&lt;p&gt;Roads have always been a part of our lives. As usual, we never really think
+much about it until we hit a pothole or come across an unbearably rough stretch
+of road.&lt;/p&gt;
+
+&lt;p&gt;In the early 1980s the highway engineering community identified road roughness
+as the primary indicator of the utility for a highway network to road users. This
+is because the roughness of the road surface affects the ride quality and
+vehicle operating costs. Rough surfaces also considerably impacts vehicle speed,
+fuel consumption, tire wear and increases road surface maintenance costs.&lt;/p&gt;
+
+&lt;p&gt;Like &lt;a href=&#34;../on-litesense-01/&#34;&gt;street lights&lt;/a&gt;, governments around the world spend a
+&lt;strong&gt;considerable&lt;/strong&gt; amount to maintain public roads. If you are a tax-payer, it is
+your right to have well-maintained roads and you can provide feedback to your
+respective authorities otherwise. It is also our right to be taxed so we might
+as well make full use of our tax-paying priviledge.&lt;/p&gt;
+
+&lt;h1 id=&#34;modus-operandi&#34;&gt;Modus operandi&lt;/h1&gt;
+
+&lt;p&gt;Generally, governments engage term contractors to maintain roads. One of
+their activities is to ensure our ride quality and to report back roughness
+conditions. How does this all work in real life?&lt;/p&gt;
+
+&lt;p&gt;Road roughness measurements are usually carried out in the wee hours of the
+morning with vehicles that are equipped with massive computational horsepower,
+i.e., expensive. These horses are used for laser profilometers and a whole
+bunch of other power hungry devices. Measurements are done for each and every
+lane. To provide some perspective in terms of how much work this entails,
+Singapore has 9,233 lane-kilometers as at 2014 (source: Land Transport Authority
+of Singapore, &amp;ldquo;Road Length In Lane-Kilometer&amp;rdquo;). That is equivalent to driving
+from Singapore to Kuala Lumpur 26 times.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our journey to Litesense (Part 3 of 3)</title>
@@ -1145,6 +1251,10 @@ by inadequate visibility.&lt;/p&gt;
           On Road Roughness
         &lt;/div&gt;
         &lt;div class=&#34;details&#34;&gt;
+          &lt;p&gt;&lt;a href=&#34;article/on-road-roughness/&#34; target=
+          &#34;_blank&#34;&gt;Roads and Roughness&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt;&lt;a href=&#34;article/on-roadeye-cheras/&#34; target=
+          &#34;_blank&#34;&gt;Going to Cheras for supper&lt;/a&gt;&lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&#34;section-heading&#34;&gt;
@@ -1393,256 +1503,6 @@ by inadequate visibility.&lt;/p&gt;
           &lt;p&gt;Laptop Mockup from Panagiotis Efthymiou on &lt;a href=
           &#34;https://dribbble.com/shots/1487013-Flat-Devices?list=users&amp;amp;offset=12&#34;
           target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>http://cosmiqo.com/education.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://cosmiqo.com/education.html</guid>
-      <description>&lt;article class=&#34;splash&#34;&gt;
-    &lt;div style=
-    &#34;background-image: url(images/splash/education.jpg);&#34; class=
-    &#34;image&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;text&#34;&gt;
-      &lt;h2&gt;Education.&lt;br&gt;
-      For continuity.&lt;/h2&gt;
-      &lt;div&gt;
-        Amidst the fun at Cosmiqo, we always make time to share
-        what we have with those who reach out to us.
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/lego-block.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Robotics Workshops
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;intro&#34;&gt;
-        &lt;p&gt;Over the years, we&#39;ve conducted quite a number of
-        robotics workshops / competitions for &lt;a href=
-        &#34;http://www.angmokiosec.moe.edu.sg/&#34; target=&#34;_blank&#34;&gt;Ang Mo
-        Kio Secondary School&lt;/a&gt; (why this school? Because they
-        asked. And it is fun to spend some time with the next
-        generation of leaders).&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;gallery-container&#34;&gt;
-        &lt;ul class=&#34;cards&#34;&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20120804_114305.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20120804_114350.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20120804_130106.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20130824_105943.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20130824_114022.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20130824_124523.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20140329_115103.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20140329_091148.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20140329_125729.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/bucket.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Vermicomposting
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;intro&#34;&gt;
-        &lt;p&gt;We&#39;re now working closely with AMKSS on their &lt;a href=
-        &#34;http://www.moe.gov.sg/media/press/2013/09/every-secondary-school-to-develop-two-distinctive-programmes-for-a-holistic-student-centric-education.php&#34;
-        target=&#34;_blank&#34;&gt;Academic Learning Programme&lt;/a&gt; (ALP) to
-        promote and to create awareness on the importance of a
-        sustainable economy. What makes this most enjoyable is that
-        we are creating compost (fertiliser) with the help of our
-        wormy friends.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;gallery-container&#34;&gt;
-        &lt;ul class=&#34;cards&#34;&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/vermicomposting/amkss-vermi-01.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/vermicomposting/amkss-vermi-02.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/vermicomposting/amkss-vermi-03.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/vermicomposting/amkss-vermi-04.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Litesense</title>
-      <link>http://cosmiqo.com/litesense.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://cosmiqo.com/litesense.html</guid>
-      <description>&lt;article class=&#34;splash&#34;&gt;
-    &lt;div style=&#34;background-image: url(images/splash/alms.jpg);&#34;
-    class=&#34;image&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;text&#34;&gt;
-      &lt;h2&gt;City-wide analytics.&lt;br&gt;
-      For street lighting.&lt;/h2&gt;
-      &lt;div&gt;
-        &lt;p&gt;The measurement of street lighting intensity has always
-        been manual. That’s right. Handheld lux meter, standing in
-        the middle of the road, trying not to get hit, trying to
-        get decent readings. Trying again. And again.&lt;/p&gt;
-        &lt;p&gt;We’ve changed the way it works.&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;intro&#34;&gt;
-        &lt;h2&gt;Cosmiqo Litesense®.&lt;br&gt;
-        Be productive. Be safe.&lt;/h2&gt;
-        &lt;div class=&#34;description&#34;&gt;
-          Real-time data collection. Lamp identification and
-          intensity mapping on-the-go. All at high sampling rates.
-        &lt;/div&gt;
-        &lt;div class=&#34;frame&#34;&gt;
-          &lt;img src=&#34;images/mbp-frame.png&#34;&gt;
-          &lt;div class=&#34;image-container&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen1.png&#34; class=
-          &#34;show&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen2.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen3.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen4.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen5.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen6.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen7.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen8.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen9.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen10.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen11.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen12.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen13.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen14.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen15.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen16.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen17.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen18.png&#34;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;details&#34;&gt;
-        &lt;div class=&#34;item grid-half&#34;&gt;
-          &lt;img src=&#34;images/icons/colour-target.svg&#34; class=&#34;icon&#34;&gt;
-          &lt;div class=&#34;title&#34;&gt;
-            Purpose
-          &lt;/div&gt;
-          &lt;div class=&#34;text&#34;&gt;
-            &lt;p&gt;Cosmiqo Litesense® was designed to provide
-            analytical insights into the safety of roads through
-            the brightness of street lights. It provides system
-            alerts down to the level of lamp pole IDs based on GPS
-            coordinates.&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;item grid-half&#34;&gt;
-          &lt;img src=&#34;images/icons/colour-light-bulb.svg&#34; class=
-          &#34;icon&#34;&gt;
-          &lt;div class=&#34;title&#34;&gt;
-            Benefits
-          &lt;/div&gt;
-          &lt;div class=&#34;text&#34;&gt;
-            &lt;p&gt;Prevention of accidents: Pedestrian fatalities are 3
-            to 6.75 times more likely in the dark than in daylight.
-            Street lighting has been found to reduce pedestrian
-            crashes by approximately 50%.&lt;/p&gt;
-            &lt;p&gt;Increase in safety: Decrease in crime by 21%&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;item grid-half&#34;&gt;
-          &lt;img src=&#34;images/icons/colour-pin.svg&#34; class=&#34;icon&#34;&gt;
-          &lt;div class=&#34;title&#34;&gt;
-            Usage
-          &lt;/div&gt;
-          &lt;div class=&#34;text&#34;&gt;
-            &lt;p&gt;Nationwide in Singapore&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;item grid-half&#34;&gt;
-          &lt;img src=&#34;images/icons/colour-cup.svg&#34; class=&#34;icon&#34;&gt;
-          &lt;div class=&#34;title&#34;&gt;
-            Productivity Gain
-          &lt;/div&gt;
-          &lt;div class=&#34;text&#34;&gt;
-            &lt;p&gt;866%&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
-        &lt;div class=&#34;info-button&#34;&gt;
-          &lt;a href=&#34;marcom/cosmiqo-brochure.pdf&#34; download target=&#34;_blank&#34;&gt;Download Brochure&lt;/a&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;

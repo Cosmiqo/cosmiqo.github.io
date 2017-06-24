@@ -6,8 +6,114 @@
     <description>Recent content in Article-rsses on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://cosmiqo.com/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Going to Cheras for supper</title>
+      <link>http://cosmiqo.com/article/on-roadeye-cheras/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-roadeye-cheras/</guid>
+      <description>
+
+&lt;p&gt;Over the past couple of months, we were developing RoadEye&lt;sup&gt;TM&lt;/sup&gt;, a
+low-cost road roughness monitoring device.  The idea behind RoadEye&lt;sup&gt;TM&lt;/sup&gt;
+is simple - &lt;em&gt;allow quick and easy road roughess monitoring across a large
+network without disrupting traffic flow&lt;/em&gt;. Some of our early trials were
+performed from a drive that we took from Subang Jaya to Cheras in Malaysia.&lt;/p&gt;
+
+&lt;p&gt;Indicators for brightness level are&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#000078;&#34;&gt;Smoothest&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00DCFF;&#34;&gt;Smoother&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#006E00;&#34;&gt;Smooth&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;Normal&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFB400;&#34;&gt;Rough&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF6400;&#34;&gt;Rougher&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;Roughest&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../maps/osm-subang-cheras.html&#34;&gt;Please feel free to interact with the map&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;findings&#34;&gt;Findings&lt;/h1&gt;
+
+&lt;figure&gt;
+&lt;figcaption&gt;
+  1. Road roughness conditions are satisfactory at the Subang-Federal Expressway
+exit.
+&lt;/figcaption&gt;&lt;img src=
+&#34;../../images/roadeye/2016-08-25-subang-cheras/subang-federal-exit.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;figcaption&gt;
+  2. Road roughness conditions are satisfactory along the Federal Expressway.
+&lt;/figcaption&gt;&lt;img src=
+&#34;../../images/roadeye/2016-08-25-subang-cheras/federal-highway-01.png&#34;&gt;
+&lt;img src=
+&#34;../../images/roadeye/2016-08-25-subang-cheras/federal-highway-02.png&#34;&gt;
+&lt;/figure&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;figcaption&gt;
+  3. Pothole along Jalan Cheras (we did not mean to drive into it).
+&lt;/figcaption&gt;&lt;img src=
+&#34;../../images/roadeye/2016-08-25-subang-cheras/jalan-cheras-pothole.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;figcaption&gt;
+  4. Road roughness conditions are unsatisfactory from Jalan Lingkaran Tengah 2
+to Jalan 4/96A
+&lt;/figcaption&gt;&lt;img src=
+&#34;../../images/roadeye/2016-08-25-subang-cheras/jalan-lingkaran-tengah-2-exit.png&#34;&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ensuring ride quality</title>
+      <link>http://cosmiqo.com/article/on-road-roughness/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-road-roughness/</guid>
+      <description>
+
+&lt;p&gt;Roads have always been a part of our lives. As usual, we never really think
+much about it until we hit a pothole or come across an unbearably rough stretch
+of road.&lt;/p&gt;
+
+&lt;p&gt;In the early 1980s the highway engineering community identified road roughness
+as the primary indicator of the utility for a highway network to road users. This
+is because the roughness of the road surface affects the ride quality and
+vehicle operating costs. Rough surfaces also considerably impacts vehicle speed,
+fuel consumption, tire wear and increases road surface maintenance costs.&lt;/p&gt;
+
+&lt;p&gt;Like &lt;a href=&#34;../on-litesense-01/&#34;&gt;street lights&lt;/a&gt;, governments around the world spend a
+&lt;strong&gt;considerable&lt;/strong&gt; amount to maintain public roads. If you are a tax-payer, it is
+your right to have well-maintained roads and you can provide feedback to your
+respective authorities otherwise. It is also our right to be taxed so we might
+as well make full use of our tax-paying priviledge.&lt;/p&gt;
+
+&lt;h1 id=&#34;modus-operandi&#34;&gt;Modus operandi&lt;/h1&gt;
+
+&lt;p&gt;Generally, governments engage term contractors to maintain roads. One of
+their activities is to ensure our ride quality and to report back roughness
+conditions. How does this all work in real life?&lt;/p&gt;
+
+&lt;p&gt;Road roughness measurements are usually carried out in the wee hours of the
+morning with vehicles that are equipped with massive computational horsepower,
+i.e., expensive. These horses are used for laser profilometers and a whole
+bunch of other power hungry devices. Measurements are done for each and every
+lane. To provide some perspective in terms of how much work this entails,
+Singapore has 9,233 lane-kilometers as at 2014 (source: Land Transport Authority
+of Singapore, &amp;ldquo;Road Length In Lane-Kilometer&amp;rdquo;). That is equivalent to driving
+from Singapore to Kuala Lumpur 26 times.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our journey to Litesense (Part 3 of 3)</title>
