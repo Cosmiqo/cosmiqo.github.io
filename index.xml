@@ -6,8 +6,100 @@
     <description>Recent content on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://cosmiqo.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Predicting visitorship at Sentosa (Part 1 of 3)</title>
+      <link>http://cosmiqo.com/article/on-sentosa-01/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-sentosa-01/</guid>
+      <description>
+
+&lt;p&gt;Sentosa is an island resort off the southern coast of Singapore, connected to
+the city by road, cable car, pedestrian boardwalk and monorail. As an iconic
+leisure destination, Sentosa had the pleasure of welcoming 19.5 million guests
+last year. With that many guests, having a strong operations team would come in
+handy.&lt;/p&gt;
+
+&lt;p&gt;As a general rule of thumb, the effort required to streamline operations is only
+&amp;frac14; that of external activities. What this implies is the need to prioritise
+operations as it is controllable and results in cost savings that can be quite
+substantial. In the world of service processes (like an island resort), it also
+results in a positive customer experience.&lt;/p&gt;
+
+&lt;p&gt;With any supply or service chain, the ability to predict demand within a given
+error bound is useful as it will drive decisions throughout. For the case of
+Sentosa, these predictions are in the form of visitorship, i.e., the number of
+people visiting the island at different entrances and attractions.&lt;/p&gt;
+
+&lt;h1 id=&#34;why-is-visitorship-important&#34;&gt;Why is visitorship important?&lt;/h1&gt;
+
+&lt;p&gt;Visitorships are touch points and touch points present an opportunity to engage
+and interact with guests. This is an important part of the visitor journey and
+experience. Having the capability to predict visitorship adds on to this
+experience by being able to ascertain how crowds will form. With that, we can:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;mobilise customer service ambassadors to redirect guests to less crowded
+entrances or attractions (aiding with operational efficiency)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;inform guests of crowded areas so they can plan their itinerary better
+(contributing to the guest experience)&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Interestingly, depending on the time of year, guest satisfaction is both
+proportional and inversely proportional to crowdedness, i.e., it has a
+time-variant property.&lt;/p&gt;
+
+&lt;h1 id=&#34;are-crowds-forming&#34;&gt;Are crowds forming?&lt;/h1&gt;
+
+&lt;p&gt;We built QSense&lt;sup&gt;TM&lt;/sup&gt; to predict and simulate crowd movement. For
+Sentosa, it provides insights into &lt;strong&gt;when&lt;/strong&gt; and &lt;strong&gt;where&lt;/strong&gt; crowds &lt;strong&gt;will&lt;/strong&gt; form
+across several entrances and attractions.&lt;/p&gt;
+
+&lt;p&gt;The figure below shows predicted hourly crowd levels at the following entrances:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;gantry&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sentosa Express at Vivocity&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;the cable car&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;and the following attractions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Tiger Sky Tower&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Skyline Luge&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Butterfly Park and&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Wings of Time.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Indicators for crowd levels are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#8A2BE2;&#34;&gt;Empty&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#4B0082;&#34;&gt;Almost empty&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#0000FF;&#34;&gt;Fairly empty&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;Normal&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFED14;&#34;&gt;Moderately crowded&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFA500;&#34;&gt;Crowded&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;Very crowded&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/analytics/sentosa.gif&#34;&gt;&lt;/p&gt;
+
+&lt;div class=&#34;source&#34;&gt;
+(Cosmiqo QSense&lt;sup&gt;TM&lt;/sup&gt;)
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Going to Cheras for supper</title>
@@ -1329,171 +1421,11 @@ by inadequate visibility.&lt;/p&gt;
       &lt;div class=&#34;section-heading&#34;&gt;
         &lt;img src=&#34;images/icons/misc.svg&#34;&gt;
         &lt;div class=&#34;title&#34;&gt;
-          On Education
+          On Analytics
         &lt;/div&gt;
         &lt;div class=&#34;details&#34;&gt;
-          &lt;p&gt;IoT@Schools with AMKSS (coming soon)&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Careers</title>
-      <link>http://cosmiqo.com/careers.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://cosmiqo.com/careers.html</guid>
-      <description>&lt;article class=&#34;splash&#34;&gt;
-    &lt;div style=&#34;background-image: url(images/splash/careers.jpg);&#34;
-    class=&#34;image&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;text&#34;&gt;
-      &lt;h2&gt;Join the team.&lt;br&gt;
-      Make a difference.&lt;/h2&gt;
-      &lt;div&gt;
-        Cosmiqo is a humble start-up that creates innovative
-        technology simply to make people smile more. We are always
-        nice to sentient beings and place ethics at the core of our
-        values. Engineers at heart, the team is always looking out
-        for unique ways to enhance the quality of life.
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/user.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          We&#39;re hiring
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;intro&#34;&gt;
-        &lt;p&gt;There are some pretty fun and pioneering projects up in
-        the pipeline. From sensor-fusion platforms to geospatial
-        analytics, we are in a position to meddle around with and
-        develop some mind-numbing applications.&lt;/p&gt;
-        &lt;p&gt;If you resonated while reading this, you, like us, would
-        never have to work a day in your life (Confucius was a
-        smart man) and do consider joining us.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;h3&gt;Open positions&lt;/h3&gt;
-      &lt;div class=&#34;position-item&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Infrastructure Engineer
-          &lt;div class=&#34;type&#34;&gt;
-            Full time / Intern
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;button&#34;&gt;
-          &lt;a href=&#34;mailto:careers@cosmiqo.com&#34;&gt;Apply&lt;/a&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;description&#34;&gt;
-          Make people happier through finely-tuned systems
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Must-have&lt;/span&gt;: Experience in
-            running large scale websites with PostgreSQL (other
-            databases a plus) in Linux platforms
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Good-to-have&lt;/span&gt;: Python,
-            Bash, Nginx, Apache, Puppet, Chef, Docker, Jenkins
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Sphere of Influence&lt;/span&gt;: the
-            Team
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Softer traits&lt;/span&gt;: Curious,
-            Responsible, Trustworthy, Pressure indifferent,
-            Passionate about technology
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Malaysia or Singapore
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;position-item&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Web Developer
-          &lt;div class=&#34;type&#34;&gt;
-            Full time / Intern
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;button&#34;&gt;
-          &lt;a href=&#34;mailto:careers@cosmiqo.com&#34;&gt;Apply&lt;/a&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;description&#34;&gt;
-          Make people happier through creative use of technology
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Must-have&lt;/span&gt;: Experience in
-            Python, CherryPy, Flask, HTML5, CSS3, JavaScript,
-            LESS/SASS, Bootstrap (or equivalent), Git/Github and
-            data visualisation
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Good-to-have&lt;/span&gt;: Worked with
-            Node.js, comfortable at the CLI
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Sphere of Influence&lt;/span&gt;: the
-            Team
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Softer traits&lt;/span&gt;:
-            Aesthetically-inclined, Responsible, Trustworthy,
-            Independent, Passionate about technology
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Malaysia or Singapore
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;position-item&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          UI/UX Designer
-          &lt;div class=&#34;type&#34;&gt;
-            Intern
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;button&#34;&gt;
-          &lt;a href=&#34;mailto:careers@cosmiqo.com&#34;&gt;Apply&lt;/a&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;description&#34;&gt;
-          Make people happier through compelling, elegant,
-          pleasurable and sophisticated end-to-end user experience
-          solutions
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Must-have&lt;/span&gt;: Working
-            knowledge of HTML, CSS and JavaScript. Proficiency with
-            design and software prototyping tools.
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Good-to-have&lt;/span&gt;: CherryPy,
-            Flask, Python and a critical eye for clean visual
-            designs
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Sphere of Influence&lt;/span&gt;: the
-            Team and our customers
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Softer traits&lt;/span&gt;:
-            Aesthetically-inclined, Responsible, Trustworthy,
-            Independent, Passionate about technology
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Malaysia or Singapore
-          &lt;/div&gt;
+          &lt;p&gt;&lt;a href=&#34;article/on-sentosa-01/&#34; target=
+          &#34;_blank&#34;&gt;Predicting visitorship at Sentosa (Part 1 of 3)&lt;/a&gt;&lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
