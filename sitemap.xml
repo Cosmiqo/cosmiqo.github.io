@@ -2,16 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://cosmiqo.com/</loc>
-    <lastmod>2017-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cosmiqo.com/article/on-sentosa-02/</loc>
-    <lastmod>2017-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://cosmiqo.com/article/on-sentosa-01/</loc>
     <lastmod>2017-06-27T00:00:00+00:00</lastmod>
   </url>
@@ -80,11 +70,23 @@
   </url>
   
   <url>
+    <loc>http://cosmiqo.com/article/</loc>
+    <lastmod>2017-06-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://cosmiqo.com/articles.html</loc>
   </url>
   
   <url>
     <loc>http://cosmiqo.com/careers.html</loc>
+  </url>
+  
+  <url>
+    <loc>http://cosmiqo.com/</loc>
+    <lastmod>2017-06-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -97,6 +99,11 @@
   
   <url>
     <loc>http://cosmiqo.com/litesense.html</loc>
+  </url>
+  
+  <url>
+    <loc>http://cosmiqo.com/top/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,105 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Article-rsses on Cosmiqo</title>
+    <title>Articles on Cosmiqo</title>
     <link>http://cosmiqo.com/article/index.xml</link>
-    <description>Recent content in Article-rsses on Cosmiqo</description>
+    <description>Recent content in Articles on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://cosmiqo.com/article/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Attraction occupancy at Sentosa (Part 2 of 3)</title>
-      <link>http://cosmiqo.com/article/on-sentosa-02/</link>
-      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://cosmiqo.com/article/on-sentosa-02/</guid>
-      <description>
-
-&lt;p&gt;Sentosa is an island resort off the southern coast of Singapore, connected to
-the city by road, cable car, pedestrian boardwalk and monorail. As an iconic
-leisure destination, Sentosa had the pleasure of welcoming 19.5 million guests
-last year. With that many guests, having a strong operations team would come in
-handy.&lt;/p&gt;
-
-&lt;p&gt;As a general rule of thumb, the effort required to streamline operations is only
-&amp;frac14; that of external activities. What this implies is the need to prioritise
-operations as it is controllable and results in cost savings that can be quite
-substantial. In the world of service processes (like an island resort), it also
-results in a positive customer experience.&lt;/p&gt;
-
-&lt;p&gt;With any supply or service chain, the ability to predict demand within a given
-error bound is useful as it will drive decisions throughout. For the case of
-Sentosa, these predictions are in the form of visitorship, i.e., the number of
-people visiting the island at different entrances and attractions.&lt;/p&gt;
-
-&lt;h1 id=&#34;why-is-visitorship-important&#34;&gt;Why is visitorship important?&lt;/h1&gt;
-
-&lt;p&gt;Visitorships are touch points and touch points present an opportunity to engage
-and interact with guests. This is an important part of the visitor journey and
-experience. Having the capability to predict visitorship adds on to this
-experience by being able to ascertain how crowds will form. With that, we can:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;mobilise customer service ambassadors to redirect guests to less crowded
-entrances or attractions (aiding with operational efficiency)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;inform guests of crowded areas so they can plan their itinerary better
-(contributing to the guest experience)&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Interestingly, depending on the time of year, guest satisfaction is both
-proportional and inversely proportional to crowdedness, i.e., it has a
-time-variant property.&lt;/p&gt;
-
-&lt;h1 id=&#34;are-crowds-forming&#34;&gt;Are crowds forming?&lt;/h1&gt;
-
-&lt;p&gt;We built QSense&lt;sup&gt;TM&lt;/sup&gt; to predict and simulate crowd movement. For
-Sentosa, it provides insights into &lt;strong&gt;when&lt;/strong&gt; and &lt;strong&gt;where&lt;/strong&gt; crowds &lt;strong&gt;will&lt;/strong&gt; form
-across several entrances and attractions.&lt;/p&gt;
-
-&lt;p&gt;The figure below shows predicted hourly crowd levels at the following entrances:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;gantry&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sentosa Express at Vivocity&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;the cable car&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;and the following attractions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Tiger Sky Tower&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Skyline Luge&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Butterfly Park and&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Wings of Time.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Indicators for crowd levels are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#8A2BE2;&#34;&gt;Empty&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#4B0082;&#34;&gt;Almost empty&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#0000FF;&#34;&gt;Fairly empty&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;Normal&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFED14;&#34;&gt;Moderately crowded&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFA500;&#34;&gt;Crowded&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;Very crowded&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../images/analytics/sentosa.gif&#34;&gt;&lt;/p&gt;
-
-&lt;div class=&#34;source&#34;&gt;
-(Cosmiqo QSense&lt;sup&gt;TM&lt;/sup&gt;)
-&lt;/div&gt;
-</description>
-    </item>
     
     <item>
       <title>Predicting visitorship at Sentosa (Part 1 of 3)</title>
