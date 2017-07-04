@@ -2,11 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tops on Cosmiqo</title>
-    <link>http://cosmiqo.com/top/index.xml</link>
+    <link>http://cosmiqo.com/top/</link>
     <description>Recent content in Tops on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://cosmiqo.com/top/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://cosmiqo.com/top/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>About</title>
@@ -14,193 +16,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/about.html</guid>
-      <description>&lt;article class=&#34;splash&#34;&gt;
-    &lt;div style=&#34;background-image: url(images/splash/about.jpg);&#34;
-    class=&#34;image&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;text&#34;&gt;
-      &lt;h2&gt;About us.&lt;/h2&gt;
-      &lt;div&gt;
-        A team of technology enthuasists that specialises in supply
-        chain analytics and operations management innovation.
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article class=&#34;members-section&#34;&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/user.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Who we are
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;section-title&#34;&gt;
-        Founding Members
-      &lt;/div&gt;
-      &lt;div class=&#34;members&#34;&gt;
-        &lt;div class=&#34;member grid-half&#34;&gt;
-          &lt;div class=&#34;photo&#34;&gt;&lt;img src=
-          &#34;images/members/kohnw.jpg&#34;&gt;&lt;/div&gt;
-          &lt;div class=&#34;name&#34;&gt;
-            Dr Koh Niak Wu
-          &lt;/div&gt;
-          &lt;div class=&#34;position&#34;&gt;
-            Founder + CEO
-          &lt;/div&gt;
-          &lt;div class=&#34;description&#34;&gt;
-            &lt;p&gt;Specialises in supply chain analytics, strategy
-            execution and operations management innovation&lt;/p&gt;
-            &lt;p&gt;Formerly:&lt;br&gt;
-            Global Supply Chain and Logistics team at Dell
-            contributing to strategy analytics&lt;br&gt;
-            Planning and Operations Management Group in SIMTech,
-            A*STAR where he gained valuable insights into the
-            evolution of industries&lt;/p&gt;
-            &lt;p&gt;Also:&lt;br&gt;
-            Adjunct Faculty at the Singapore Management University
-            and UniSIM where he shares his views and cross-industry
-            experiences in supply chains and operations
-            management&lt;/p&gt;
-            &lt;p&gt;Hopes that the next generation of industry leaders
-            will be the change that we need&lt;/p&gt;
-            &lt;p&gt;Codes in Python, believes in the power of
-            operational analytics and how it shapes business
-            decisions&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;member grid-half&#34;&gt;
-          &lt;div class=&#34;photo&#34;&gt;&lt;img src=
-          &#34;images/members/melvinz.jpg&#34;&gt;&lt;/div&gt;
-          &lt;div class=&#34;name&#34;&gt;
-            Dr Melvin Zhang
-          &lt;/div&gt;
-          &lt;div class=&#34;position&#34;&gt;
-            Co-founder + CTO
-          &lt;/div&gt;
-          &lt;div class=&#34;description&#34;&gt;
-            &lt;p&gt;Avid programmer who enjoys designing and
-            implementing novel algorithms&lt;/p&gt;
-            &lt;p&gt;Formerly from Hoiio where he was building APIs that
-            allow developers to easily add telephony capability to
-            their apps&lt;/p&gt;
-            &lt;p&gt;Actively involved with:&lt;br&gt;
-            Friday Hacks organised by NUS Hackers&lt;br&gt;
-            Hackers &amp; Painters&lt;/p&gt;
-            &lt;p&gt;In his spare time, he works on the AI for Magarena,
-            an open source implementation of Magic: The Gathering
-            focused on creating a strong AI player&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;section-title&#34;&gt;
-        Advisory Board
-      &lt;/div&gt;
-      &lt;div class=&#34;members&#34;&gt;
-        &lt;div class=&#34;member grid-half&#34;&gt;
-          &lt;div class=&#34;name&#34;&gt;
-            Foo Kim Peng
-          &lt;/div&gt;
-          &lt;div class=&#34;description&#34;&gt;
-            &lt;p&gt;Executive Director of iSpace Innovations Asia
-            Pacific, a seed and early-stage venture capital
-            fund&lt;/p&gt;
-            &lt;p&gt;Managing Director of Kerydh Pte Ltd, which focuses
-            on business consultancy and investments&lt;/p&gt;
-            &lt;p&gt;Formerly:&lt;br&gt;
-            Chief Executive Officer of TransitLink Pte Ltd&lt;br&gt;
-            Director in the Land Transport Authority of
-            Singapore&lt;br&gt;
-            General Manager of Stelcomms Pte Ltd, a subsidiary of
-            ST Electronics&lt;/p&gt;
-            &lt;p&gt;Also:&lt;br&gt;
-            Former pilot with the Singapore Airforce and retiring
-            as a Colonel&lt;br&gt;
-            Trained executive coach and has been coaching mid-level
-            officers for senior appointments in the SAF&lt;/p&gt;
-            &lt;p&gt;Has extensive experience in developing and managing
-            high technology products and systems especially in
-            defence, communications, e-payments and public
-            transport industries&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;member grid-half&#34;&gt;
-          &lt;div class=&#34;name&#34;&gt;
-            Dr Marcelo H. Ang Jr
-          &lt;/div&gt;
-          &lt;div class=&#34;description&#34;&gt;
-            &lt;p&gt;Associate Professor of Mechanical Engineering at the
-            National University of Singapore with a Joint
-            Appointment at the Division of Engineering and
-            Technology Management and the Acting Director of the
-            Advanced Robotics Centre&lt;/p&gt;
-            &lt;p&gt;Formerly:&lt;br&gt;
-            Assistant Professor of Electrical Engineering at the
-            University of Rochester, New York&lt;br&gt;
-            Researcher at the East West Center in Hawaii and at the
-            Massachusetts Institute of Technology&lt;br&gt;
-            Head of the Technical Training Division of Intel&#39;s
-            Assembly and Test Facility in the Philippines&lt;/p&gt;
-            &lt;p&gt;Research interests in the areas of robotics,
-            mechatronics and applications of intelligent systems
-            methodologies&lt;/p&gt;
-            &lt;p&gt;Teaches at both the graduate and undergraduate
-            levels in the following areas Robotics; Creativity and
-            innovation; Applied electronics and instrumentation;
-            Advanced computing; Product design and realization&lt;/p&gt;
-            &lt;p&gt;Actively involved with the:&lt;br&gt;
-            Singapore Robotic Games as its founding chairman&lt;br&gt;
-            World Robot Olympiad as a member of the Advisory
-            Council&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/pin.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Where to find us
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;locations&#34;&gt;
-        &lt;div class=&#34;location&#34;&gt;
-          &lt;div class=&#34;map-container&#34;&gt;
-            &lt;div id=&#34;map-singapore&#34; class=&#34;map&#34;&gt;&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&#34;country&#34;&gt;
-            Singapore
-          &lt;/div&gt;
-          &lt;div class=&#34;address&#34;&gt;
-            71 Ayer Rajah Crescent&lt;br&gt;
-            #05-22/23&lt;br&gt;
-            Singapore 139951
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
-        &lt;div class=&#34;location&#34;&gt;
-          &lt;div class=&#34;map-container&#34;&gt;
-            &lt;div id=&#34;map-malaysia&#34; class=&#34;map&#34;&gt;&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&#34;country&#34;&gt;
-            Shah Alam, Selangor
-          &lt;/div&gt;
-          &lt;div class=&#34;address&#34;&gt;
-            No. 13-M (Mezzanine Floor)&lt;br&gt;
-            Jalan Tengku Ampuan Zabedah J9/J&lt;br&gt;
-            Shah Alam&lt;br&gt;
-            Selangor, 40100 Malaysia
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-</description>
+      <description>About us.  A team of technology enthuasists that specialises in supply chain analytics and operations management innovation.     Who we are   Founding Members   Dr Koh Niak Wu  Founder + CEO  Specialises in supply chain analytics, strategy execution and operations management innovation
+Formerly:
+Global Supply Chain and Logistics team at Dell contributing to strategy analytics
+Planning and Operations Management Group in SIMTech, A*STAR where he gained valuable insights into the evolution of industries</description>
     </item>
     
     <item>
@@ -209,74 +28,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/amp.html</guid>
-      <description>&lt;article class=&#34;splash&#34;&gt;
-    &lt;div style=&#34;background-image: url(images/splash/acms.jpg);&#34;
-    class=&#34;image&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;text&#34;&gt;
-      &lt;h2&gt;Energy analytics.&lt;br&gt;
-      For a sustainable future.&lt;/h2&gt;
-      &lt;div&gt;
-        &lt;p&gt;Do it for our children.&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;intro&#34;&gt;
-        &lt;h2&gt;Cosmiqo Ampsense®.&lt;br&gt;
-        Effective energy monitoring.&lt;/h2&gt;
-        &lt;div class=&#34;description&#34;&gt;
-          Real-time data collection. Monitor, process and visualise
-          energy and temperature data. Anywhere.
-        &lt;/div&gt;
-        &lt;div class=&#34;frame&#34;&gt;
-          &lt;img src=&#34;images/mbp-frame.png&#34;&gt;
-          &lt;div class=&#34;image-container&#34;&gt;&lt;img src=
-          &#34;images/screenshots/acms/acms-csv-export.png&#34; class=
-          &#34;show&#34;&gt;&lt;img src=
-          &#34;images/screenshots/acms/acms-current.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/acms/acms-temperature.png&#34;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;details&#34;&gt;
-        &lt;div class=&#34;item grid-half&#34;&gt;
-          &lt;img src=&#34;images/icons/colour-target.svg&#34; class=&#34;icon&#34;&gt;
-          &lt;div class=&#34;title&#34;&gt;
-            Purpose
-          &lt;/div&gt;
-          &lt;div class=&#34;text&#34;&gt;
-            &lt;p&gt;Cosmiqo Ampsense® was designed to provide analytical
-            insights on power consumption. It provides current
-            usage and details out system energy efficiency.&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;item grid-half&#34;&gt;
-          &lt;img src=&#34;images/icons/colour-light-bulb.svg&#34; class=
-          &#34;icon&#34;&gt;
-          &lt;div class=&#34;title&#34;&gt;
-            Benefits
-          &lt;/div&gt;
-          &lt;div class=&#34;text&#34;&gt;
-            &lt;p&gt;More than we realise.&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;print-button-wrapper&#34;&gt;
-        &lt;div class=&#34;print-button&#34;&gt;
-          &lt;img src=&#34;images/icons/print.svg&#34;&gt;&lt;span&gt;Print
-          Brochure&lt;/span&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-</description>
+      <description>Energy analytics.
+For a sustainable future.  Do it for our children.
+     Cosmiqo Ampsense®.
+Effective energy monitoring. Real-time data collection. Monitor, process and visualise energy and temperature data. Anywhere.        Purpose  Cosmiqo Ampsense® was designed to provide analytical insights on power consumption. It provides current usage and details out system energy efficiency.
+  Benefits  More than we realise.</description>
     </item>
     
     <item>
@@ -285,73 +41,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/articles.html</guid>
-      <description>&lt;article class=&#34;splash&#34;&gt;
-    &lt;div style=&#34;background-image: url(images/splash/articles.jpg);&#34;
-    class=&#34;image&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;text&#34;&gt;
-      &lt;h2&gt;Articles.&lt;/h2&gt;
-      &lt;div&gt;
-        Sharing and Learning.
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/lighting.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          On Lighting
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-cyberjaya/&#34; target=
-          &#34;_blank&#34;&gt;Street Lighting along Persiaran Multimedia, Cyberjaya&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-litesense-03/&#34; target=
-          &#34;_blank&#34;&gt;Our journey to Litesense (Part 3 of 3)&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-litesense-02/&#34; target=
-          &#34;_blank&#34;&gt;Our journey to Litesense (Part 2 of 3)&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-litesense-01/&#34; target=
-          &#34;_blank&#34;&gt;Our journey to Litesense (Part 1 of 3)&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-kd-to-bu/&#34; target=
-          &#34;_blank&#34;&gt;Street Lighting from Kota Damansara to
-          Centrepoint Bandar Utama&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-ulu-pandan/&#34; target=
-          &#34;_blank&#34;&gt;Street lighting at Ulu Pandan and Bukit
-          Timah&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-kota-damansara/&#34; target=
-          &#34;_blank&#34;&gt;Street lighting at Kota Damansara&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-park-lighting/&#34; target=
-          &#34;_blank&#34;&gt;The importance of park lighting&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-street-lighting/&#34; target=
-          &#34;_blank&#34;&gt;The purpose of street lighting&lt;/a&gt;&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/misc.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          On Road Roughness
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-roadeye-cheras/&#34; target=
-          &#34;_blank&#34;&gt;Going to Cheras for supper&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-road-roughness/&#34; target=
-          &#34;_blank&#34;&gt;Roads and Roughness&lt;/a&gt;&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/misc.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          On Analytics
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;p&gt;&lt;a href=&#34;article/on-sentosa-01/&#34; target=
-          &#34;_blank&#34;&gt;Predicting visitorship at Sentosa (Part 1 of 3)&lt;/a&gt;&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-</description>
+      <description>Articles.  Sharing and Learning.      On Lighting  Street Lighting along Persiaran Multimedia, Cyberjaya
+Our journey to Litesense (Part 3 of 3)
+Our journey to Litesense (Part 2 of 3)
+Our journey to Litesense (Part 1 of 3)
+Street Lighting from Kota Damansara to Centrepoint Bandar Utama
+Street lighting at Ulu Pandan and Bukit Timah
+Street lighting at Kota Damansara
+The importance of park lighting</description>
     </item>
     
     <item>
@@ -360,159 +57,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/careers.html</guid>
-      <description>&lt;article class=&#34;splash&#34;&gt;
-    &lt;div style=&#34;background-image: url(images/splash/careers.jpg);&#34;
-    class=&#34;image&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;text&#34;&gt;
-      &lt;h2&gt;Join the team.&lt;br&gt;
-      Make a difference.&lt;/h2&gt;
-      &lt;div&gt;
-        Cosmiqo is a humble start-up that creates innovative
-        technology simply to make people smile more. We are always
-        nice to sentient beings and place ethics at the core of our
-        values. Engineers at heart, the team is always looking out
-        for unique ways to enhance the quality of life.
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/user.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          We&#39;re hiring
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;intro&#34;&gt;
-        &lt;p&gt;There are some pretty fun and pioneering projects up in
-        the pipeline. From sensor-fusion platforms to geospatial
-        analytics, we are in a position to meddle around with and
-        develop some mind-numbing applications.&lt;/p&gt;
-        &lt;p&gt;If you resonated while reading this, you, like us, would
-        never have to work a day in your life (Confucius was a
-        smart man) and do consider joining us.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;h3&gt;Open positions&lt;/h3&gt;
-      &lt;div class=&#34;position-item&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Infrastructure Engineer
-          &lt;div class=&#34;type&#34;&gt;
-            Full time / Intern
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;button&#34;&gt;
-          &lt;a href=&#34;mailto:careers@cosmiqo.com&#34;&gt;Apply&lt;/a&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;description&#34;&gt;
-          Make people happier through finely-tuned systems
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Must-have&lt;/span&gt;: Experience in
-            running large scale websites with PostgreSQL (other
-            databases a plus) in Linux platforms
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Good-to-have&lt;/span&gt;: Python,
-            Bash, Nginx, Apache, Puppet, Chef, Docker, Jenkins
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Sphere of Influence&lt;/span&gt;: the
-            Team
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Softer traits&lt;/span&gt;: Curious,
-            Responsible, Trustworthy, Pressure indifferent,
-            Passionate about technology
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Malaysia or Singapore
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;position-item&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Web Developer
-          &lt;div class=&#34;type&#34;&gt;
-            Full time / Intern
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;button&#34;&gt;
-          &lt;a href=&#34;mailto:careers@cosmiqo.com&#34;&gt;Apply&lt;/a&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;description&#34;&gt;
-          Make people happier through creative use of technology
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Must-have&lt;/span&gt;: Experience in
-            Python, CherryPy, Flask, HTML5, CSS3, JavaScript,
-            LESS/SASS, Bootstrap (or equivalent), Git/Github and
-            data visualisation
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Good-to-have&lt;/span&gt;: Worked with
-            Node.js, comfortable at the CLI
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Sphere of Influence&lt;/span&gt;: the
-            Team
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Softer traits&lt;/span&gt;:
-            Aesthetically-inclined, Responsible, Trustworthy,
-            Independent, Passionate about technology
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Malaysia or Singapore
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;position-item&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          UI/UX Designer
-          &lt;div class=&#34;type&#34;&gt;
-            Intern
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;button&#34;&gt;
-          &lt;a href=&#34;mailto:careers@cosmiqo.com&#34;&gt;Apply&lt;/a&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;description&#34;&gt;
-          Make people happier through compelling, elegant,
-          pleasurable and sophisticated end-to-end user experience
-          solutions
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Must-have&lt;/span&gt;: Working
-            knowledge of HTML, CSS and JavaScript. Proficiency with
-            design and software prototyping tools.
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Good-to-have&lt;/span&gt;: CherryPy,
-            Flask, Python and a critical eye for clean visual
-            designs
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Sphere of Influence&lt;/span&gt;: the
-            Team and our customers
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Softer traits&lt;/span&gt;:
-            Aesthetically-inclined, Responsible, Trustworthy,
-            Independent, Passionate about technology
-          &lt;/div&gt;
-          &lt;div&gt;
-            &lt;span class=&#34;heading&#34;&gt;Location&lt;/span&gt;: Malaysia or Singapore
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-</description>
+      <description>Join the team.
+Make a difference.  Cosmiqo is a humble start-up that creates innovative technology simply to make people smile more. We are always nice to sentient beings and place ethics at the core of our values. Engineers at heart, the team is always looking out for unique ways to enhance the quality of life.      We&#39;re hiring   There are some pretty fun and pioneering projects up in the pipeline.</description>
     </item>
     
     <item>
@@ -521,76 +67,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/credits.html</guid>
-      <description>&lt;article class=&#34;splash&#34;&gt;
-    &lt;div style=&#34;background-image: url(images/splash/credits.jpg);&#34;
-    class=&#34;image&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;text&#34;&gt;
-      &lt;h2&gt;Credits.&lt;/h2&gt;
-      &lt;div&gt;
-        Where it is due.
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/image.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Photos
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;p&gt;Highway photo from &lt;a href=
-          &#34;http://www.splitshire.com/highway/&#34; target=
-          &#34;_blank&#34;&gt;Splitshire&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;Street lamp photo from &lt;a href=
-          &#34;http://www.splitshire.com/street-lamp/&#34; target=
-          &#34;_blank&#34;&gt;Splitshire&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;Toy car photo from &lt;a href=
-          &#34;http://www.designerspics.com/photographs/toy-car-engineering-kid/&#34;
-          target=&#34;_blank&#34;&gt;DesignersPics&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;Remaining photos from &lt;a href=&#34;https://unsplash.com/&#34;
-          target=&#34;_blank&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/iconcollection.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Icons
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;p&gt;Micons from Cosmin Negoita on &lt;a href=
-          &#34;http://geticonjar.com/freebies/231-micons/&#34; target=
-          &#34;_blank&#34;&gt;Iconjar&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;Flat icons from &lt;a href=
-          &#34;https://icons8.com/c/flat-color-icons&#34; target=
-          &#34;_blank&#34;&gt;Icons8&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;Social Media icons from &lt;a href=
-          &#34;http://icons.stephenmorley.org/&#34; target=&#34;_blank&#34;&gt;Stephen
-          Morley&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;Web and E-commerce icons from Pavel Kozlov on &lt;a href=
-          &#34;https://gumroad.com/l/40-free-icons&#34; target=
-          &#34;_blank&#34;&gt;Gumroad&lt;/a&gt;&lt;/p&gt;
-          &lt;p&gt;User icon created by Cris Dobbins from &lt;a href=
-          &#34;https://thenounproject.com/&#34; target=&#34;_blank&#34;&gt;the Noun
-          Project&lt;/a&gt;&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/misc.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Misc
-        &lt;/div&gt;
-        &lt;div class=&#34;details&#34;&gt;
-          &lt;p&gt;Laptop Mockup from Panagiotis Efthymiou on &lt;a href=
-          &#34;https://dribbble.com/shots/1487013-Flat-Devices?list=users&amp;amp;offset=12&#34;
-          target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-</description>
+      <description>Credits.  Where it is due.      Photos  Highway photo from Splitshire
+Street lamp photo from Splitshire
+Toy car photo from DesignersPics
+Remaining photos from Unsplash
+  Icons  Micons from Cosmin Negoita on Iconjar
+Flat icons from Icons8
+Social Media icons from Stephen Morley
+Web and E-commerce icons from Pavel Kozlov on Gumroad
+User icon created by Cris Dobbins from the Noun Project</description>
     </item>
     
     <item>
@@ -599,132 +84,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/education.html</guid>
-      <description>&lt;article class=&#34;splash&#34;&gt;
-    &lt;div style=
-    &#34;background-image: url(images/splash/education.jpg);&#34; class=
-    &#34;image&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;text&#34;&gt;
-      &lt;h2&gt;Education.&lt;br&gt;
-      For continuity.&lt;/h2&gt;
-      &lt;div&gt;
-        Amidst the fun at Cosmiqo, we always make time to share
-        what we have with those who reach out to us.
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/lego-block.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Robotics Workshops
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;intro&#34;&gt;
-        &lt;p&gt;Over the years, we&#39;ve conducted quite a number of
-        robotics workshops / competitions for &lt;a href=
-        &#34;http://www.angmokiosec.moe.edu.sg/&#34; target=&#34;_blank&#34;&gt;Ang Mo
-        Kio Secondary School&lt;/a&gt; (why this school? Because they
-        asked. And it is fun to spend some time with the next
-        generation of leaders).&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;gallery-container&#34;&gt;
-        &lt;ul class=&#34;cards&#34;&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20120804_114305.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20120804_114350.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20120804_130106.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20130824_105943.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20130824_114022.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20130824_124523.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20140329_115103.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20140329_091148.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/amkss/20140329_125729.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;section-heading&#34;&gt;
-        &lt;img src=&#34;images/icons/bucket.svg&#34;&gt;
-        &lt;div class=&#34;title&#34;&gt;
-          Vermicomposting
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;intro&#34;&gt;
-        &lt;p&gt;We&#39;re now working closely with AMKSS on their &lt;a href=
-        &#34;http://www.moe.gov.sg/media/press/2013/09/every-secondary-school-to-develop-two-distinctive-programmes-for-a-holistic-student-centric-education.php&#34;
-        target=&#34;_blank&#34;&gt;Academic Learning Programme&lt;/a&gt; (ALP) to
-        promote and to create awareness on the importance of a
-        sustainable economy. What makes this most enjoyable is that
-        we are creating compost (fertiliser) with the help of our
-        wormy friends.&lt;/p&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;gallery-container&#34;&gt;
-        &lt;ul class=&#34;cards&#34;&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/vermicomposting/amkss-vermi-01.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/vermicomposting/amkss-vermi-02.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/vermicomposting/amkss-vermi-03.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-          &lt;li class=&#34;image-container&#34;&gt;
-            &lt;div style=
-            &#34;background-image: url(images/vermicomposting/amkss-vermi-04.jpg);&#34;
-            class=&#34;image&#34;&gt;&lt;/div&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-</description>
+      <description>Education.
+For continuity.  Amidst the fun at Cosmiqo, we always make time to share what we have with those who reach out to us.      Robotics Workshops   Over the years, we&#39;ve conducted quite a number of robotics workshops / competitions for Ang Mo Kio Secondary School (why this school? Because they asked. And it is fun to spend some time with the next generation of leaders).</description>
     </item>
     
     <item>
@@ -733,114 +94,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/litesense.html</guid>
-      <description>&lt;article class=&#34;splash&#34;&gt;
-    &lt;div style=&#34;background-image: url(images/splash/alms.jpg);&#34;
-    class=&#34;image&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;text&#34;&gt;
-      &lt;h2&gt;City-wide analytics.&lt;br&gt;
-      For street lighting.&lt;/h2&gt;
-      &lt;div&gt;
-        &lt;p&gt;The measurement of street lighting intensity has always
-        been manual. That’s right. Handheld lux meter, standing in
-        the middle of the road, trying not to get hit, trying to
-        get decent readings. Trying again. And again.&lt;/p&gt;
-        &lt;p&gt;We’ve changed the way it works.&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;overlay-above-text&#34;&gt;&lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;intro&#34;&gt;
-        &lt;h2&gt;Cosmiqo Litesense®.&lt;br&gt;
-        Be productive. Be safe.&lt;/h2&gt;
-        &lt;div class=&#34;description&#34;&gt;
-          Real-time data collection. Lamp identification and
-          intensity mapping on-the-go. All at high sampling rates.
-        &lt;/div&gt;
-        &lt;div class=&#34;frame&#34;&gt;
-          &lt;img src=&#34;images/mbp-frame.png&#34;&gt;
-          &lt;div class=&#34;image-container&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen1.png&#34; class=
-          &#34;show&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen2.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen3.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen4.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen5.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen6.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen7.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen8.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen9.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen10.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen11.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen12.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen13.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen14.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen15.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen16.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen17.png&#34;&gt;&lt;img src=
-          &#34;images/screenshots/alms/screen18.png&#34;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-  &lt;article&gt;
-    &lt;div class=&#34;wrapper&#34;&gt;
-      &lt;div class=&#34;details&#34;&gt;
-        &lt;div class=&#34;item grid-half&#34;&gt;
-          &lt;img src=&#34;images/icons/colour-target.svg&#34; class=&#34;icon&#34;&gt;
-          &lt;div class=&#34;title&#34;&gt;
-            Purpose
-          &lt;/div&gt;
-          &lt;div class=&#34;text&#34;&gt;
-            &lt;p&gt;Cosmiqo Litesense® was designed to provide
-            analytical insights into the safety of roads through
-            the brightness of street lights. It provides system
-            alerts down to the level of lamp pole IDs based on GPS
-            coordinates.&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;item grid-half&#34;&gt;
-          &lt;img src=&#34;images/icons/colour-light-bulb.svg&#34; class=
-          &#34;icon&#34;&gt;
-          &lt;div class=&#34;title&#34;&gt;
-            Benefits
-          &lt;/div&gt;
-          &lt;div class=&#34;text&#34;&gt;
-            &lt;p&gt;Prevention of accidents: Pedestrian fatalities are 3
-            to 6.75 times more likely in the dark than in daylight.
-            Street lighting has been found to reduce pedestrian
-            crashes by approximately 50%.&lt;/p&gt;
-            &lt;p&gt;Increase in safety: Decrease in crime by 21%&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;item grid-half&#34;&gt;
-          &lt;img src=&#34;images/icons/colour-pin.svg&#34; class=&#34;icon&#34;&gt;
-          &lt;div class=&#34;title&#34;&gt;
-            Usage
-          &lt;/div&gt;
-          &lt;div class=&#34;text&#34;&gt;
-            &lt;p&gt;Nationwide in Singapore&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;item grid-half&#34;&gt;
-          &lt;img src=&#34;images/icons/colour-cup.svg&#34; class=&#34;icon&#34;&gt;
-          &lt;div class=&#34;title&#34;&gt;
-            Productivity Gain
-          &lt;/div&gt;
-          &lt;div class=&#34;text&#34;&gt;
-            &lt;p&gt;866%&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
-        &lt;div class=&#34;info-button&#34;&gt;
-          &lt;a href=&#34;marcom/cosmiqo-brochure.pdf&#34; download target=&#34;_blank&#34;&gt;Download Brochure&lt;/a&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/article&gt;
-</description>
+      <description>City-wide analytics.
+For street lighting.  The measurement of street lighting intensity has always been manual. That’s right. Handheld lux meter, standing in the middle of the road, trying not to get hit, trying to get decent readings. Trying again. And again.
+We’ve changed the way it works.
+     Cosmiqo Litesense®.
+Be productive. Be safe. Real-time data collection. Lamp identification and intensity mapping on-the-go. All at high sampling rates.</description>
     </item>
     
   </channel>

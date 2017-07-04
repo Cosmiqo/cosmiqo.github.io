@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Cosmiqo</title>
-    <link>http://cosmiqo.com/article/index.xml</link>
+    <link>http://cosmiqo.com/article/</link>
     <description>Recent content in Articles on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://cosmiqo.com/article/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://cosmiqo.com/article/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Predicting visitorship at Sentosa (Part 1 of 3)</title>
@@ -15,90 +17,8 @@
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-sentosa-01/</guid>
-      <description>
-
-&lt;p&gt;Sentosa is an island resort off the southern coast of Singapore, connected to
-the city by road, cable car, pedestrian boardwalk and monorail. As an iconic
-leisure destination, Sentosa had the pleasure of welcoming 19.5 million guests
-last year. With that many guests, having a strong operations team would come in
-handy.&lt;/p&gt;
-
-&lt;p&gt;As a general rule of thumb, the effort required to streamline operations is only
-&amp;frac14; that of external activities. What this implies is the need to prioritise
-operations as it is controllable and results in cost savings that can be quite
-substantial. In the world of service processes (like an island resort), it also
-results in a positive customer experience.&lt;/p&gt;
-
-&lt;p&gt;With any supply or service chain, the ability to predict demand within a given
-error bound is useful as it will drive decisions throughout. For the case of
-Sentosa, these predictions are in the form of visitorship, i.e., the number of
-people visiting the island at different entrances and attractions.&lt;/p&gt;
-
-&lt;h1 id=&#34;why-is-visitorship-important&#34;&gt;Why is visitorship important?&lt;/h1&gt;
-
-&lt;p&gt;Visitorships are touch points and touch points present an opportunity to engage
-and interact with guests. This is an important part of the visitor journey and
-experience. Having the capability to predict visitorship adds on to this
-experience by being able to ascertain how crowds will form. With that, we can:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;mobilise customer service ambassadors to redirect guests to less crowded
-entrances or attractions (aiding with operational efficiency)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;inform guests of crowded areas so they can plan their itinerary better
-(contributing to the guest experience)&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Interestingly, depending on the time of year, guest satisfaction is both
-proportional and inversely proportional to crowdedness, i.e., it has a
-time-variant property.&lt;/p&gt;
-
-&lt;h1 id=&#34;are-crowds-forming&#34;&gt;Are crowds forming?&lt;/h1&gt;
-
-&lt;p&gt;We built QSense&lt;sup&gt;TM&lt;/sup&gt; to predict and simulate crowd movement. For
-Sentosa, it provides insights into &lt;strong&gt;when&lt;/strong&gt; and &lt;strong&gt;where&lt;/strong&gt; crowds &lt;strong&gt;will&lt;/strong&gt; form
-across several entrances and attractions.&lt;/p&gt;
-
-&lt;p&gt;The figure below shows predicted hourly crowd levels at the following entrances:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;gantry&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sentosa Express at Vivocity&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;the cable car&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;and the following attractions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Tiger Sky Tower&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Skyline Luge&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Butterfly Park and&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Wings of Time.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Indicators for crowd levels are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#8A2BE2;&#34;&gt;Empty&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#4B0082;&#34;&gt;Almost empty&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#0000FF;&#34;&gt;Fairly empty&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;Normal&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFED14;&#34;&gt;Moderately crowded&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFA500;&#34;&gt;Crowded&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;Very crowded&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../images/analytics/sentosa.gif&#34;&gt;&lt;/p&gt;
-
-&lt;div class=&#34;source&#34;&gt;
-(Cosmiqo QSense&lt;sup&gt;TM&lt;/sup&gt;)
-&lt;/div&gt;
-</description>
+      <description>Sentosa is an island resort off the southern coast of Singapore, connected to the city by road, cable car, pedestrian boardwalk and monorail. As an iconic leisure destination, Sentosa had the pleasure of welcoming 19.5 million guests last year. With that many guests, having a strong operations team would come in handy.
+As a general rule of thumb, the effort required to streamline operations is only &amp;frac14; that of external activities.</description>
     </item>
     
     <item>
@@ -107,67 +27,9 @@ across several entrances and attractions.&lt;/p&gt;
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-roadeye-cheras/</guid>
-      <description>
-
-&lt;p&gt;Over the past couple of months, we were developing RoadEye&lt;sup&gt;TM&lt;/sup&gt;, a
-low-cost road roughness monitoring device.  The idea behind RoadEye&lt;sup&gt;TM&lt;/sup&gt;
-is simple - &lt;em&gt;allow quick and easy road roughess monitoring across a large
-network without disrupting traffic flow&lt;/em&gt;. Some of our early trials were
-performed from a drive that we took from Subang Jaya to Cheras in Malaysia.&lt;/p&gt;
-
-&lt;p&gt;Indicators for roughness level are&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#000078;&#34;&gt;Smoothest&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00DCFF;&#34;&gt;Smoother&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#006E00;&#34;&gt;Smooth&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;Normal&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFB400;&#34;&gt;Rough&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF6400;&#34;&gt;Rougher&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;Roughest&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;../../maps/osm-subang-cheras.html&#34;&gt;Please feel free to interact with the map&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;findings&#34;&gt;Findings&lt;/h1&gt;
-
-&lt;figure&gt;
-&lt;figcaption&gt;
-  1. Road roughness conditions are satisfactory at the Subang-Federal Expressway
-exit.
-&lt;/figcaption&gt;&lt;img src=
-&#34;../../images/roadeye/2016-08-25-subang-cheras/subang-federal-exit.png&#34;&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;figcaption&gt;
-  2. Road roughness conditions are satisfactory along the Federal Expressway.
-&lt;/figcaption&gt;&lt;img src=
-&#34;../../images/roadeye/2016-08-25-subang-cheras/federal-highway-01.png&#34;&gt;
-&lt;img src=
-&#34;../../images/roadeye/2016-08-25-subang-cheras/federal-highway-02.png&#34;&gt;
-&lt;/figure&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;figcaption&gt;
-  3. Pothole along Jalan Cheras (we did not mean to drive into it).
-&lt;/figcaption&gt;&lt;img src=
-&#34;../../images/roadeye/2016-08-25-subang-cheras/jalan-cheras-pothole.png&#34;&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;figcaption&gt;
-  4. Road roughness conditions are unsatisfactory from Jalan Lingkaran Tengah 2
-to Jalan 4/96A
-&lt;/figcaption&gt;&lt;img src=
-&#34;../../images/roadeye/2016-08-25-subang-cheras/jalan-lingkaran-tengah-2-exit.png&#34;&gt;
-&lt;/figure&gt;
-
-&lt;div class=&#34;source&#34;&gt;
-(Cosmiqo RoadEye&lt;sup&gt;TM&lt;/sup&gt;, 25 August 2016)
-&lt;/div&gt;
-</description>
+      <description>Over the past couple of months, we were developing RoadEyeTM, a low-cost road roughness monitoring device. The idea behind RoadEyeTM is simple - allow quick and easy road roughess monitoring across a large network without disrupting traffic flow. Some of our early trials were performed from a drive that we took from Subang Jaya to Cheras in Malaysia.
+Indicators for roughness level are
+ Smoothest Smoother Smooth Normal Rough Rougher Roughest  Please feel free to interact with the map.</description>
     </item>
     
     <item>
@@ -176,61 +38,8 @@ to Jalan 4/96A
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-cyberjaya/</guid>
-      <description>
-
-&lt;p&gt;At the end of 2016, we were told that accidents frequently occur at night along
-Persiaran Multimedia, Cyberjaya. This could be due to many factors one of which
-is lighting conditions, a factor that is designed and controllable (you can see
-where this article is going). We took Litesense® out for a spin.&lt;/p&gt;
-
-&lt;p&gt;Accidents are undesirable and with that in mind, we performed roadway lighting
-measurement for each lane along Persiaran Multimedia. In this case, there are
-two lanes on either side. By convention, Lane 1 is closer to the divider (the
-fast lane) and Lane 2 further away from the divider (the slow lane).&lt;/p&gt;
-
-&lt;h1 id=&#34;lighting-audit-report&#34;&gt;Lighting Audit Report&lt;/h1&gt;
-
-&lt;p&gt;These reports show the number of dark segments and its respective locations.
-Please drive safely along Persiaran Multimedia and ask your local council to
-improve lighting conditions. It is your right.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;figcaption&gt;
-  1. From Persiaran APEC to Persiaran Multimedia Lane 1
-&lt;/figcaption&gt;&lt;img src=
-&#34;../../images/litesense/2016-12-28-cyberjaya/apec-multimedia-lane-1.png&#34;&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;figcaption&gt;
-  2. From Persiaran APEC to Persiaran Multimedia Lane 2
-&lt;/figcaption&gt;&lt;img src=
-&#34;../../images/litesense/2016-12-28-cyberjaya/apec-multimedia-lane-2.png&#34;&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;figcaption&gt;
-  3. From Persiaran Multimedia to Persiaran APEC Lane 1
-&lt;/figcaption&gt;&lt;img src=
-&#34;../../images/litesense/2016-12-28-cyberjaya/multimedia-apec-lane-1.png&#34;&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-&lt;figcaption&gt;
-  4. From Persiaran Multimedia to Persiaran APEC Lane 2
-&lt;/figcaption&gt;&lt;img src=
-&#34;../../images/litesense/2016-12-28-cyberjaya/multimedia-apec-lane-2.png&#34;&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;div class=&#34;source&#34;&gt;
-    (Cosmiqo Litesense®, 28 December 2016)
-  &lt;/div&gt;
-  &lt;div class=&#34;source&#34;&gt;
-    Photo by Inés Outumuro on &lt;a href=
-    &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
-    &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
-  &lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>At the end of 2016, we were told that accidents frequently occur at night along Persiaran Multimedia, Cyberjaya. This could be due to many factors one of which is lighting conditions, a factor that is designed and controllable (you can see where this article is going). We took Litesense® out for a spin.
+Accidents are undesirable and with that in mind, we performed roadway lighting measurement for each lane along Persiaran Multimedia.</description>
     </item>
     
     <item>
@@ -239,39 +48,8 @@ improve lighting conditions. It is your right.&lt;/p&gt;
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-road-roughness/</guid>
-      <description>
-
-&lt;p&gt;Roads have always been a part of our lives. As usual, we never really think
-much about it until we hit a pothole or come across an unbearably rough stretch
-of road.&lt;/p&gt;
-
-&lt;p&gt;In the early 1980s the highway engineering community identified road roughness
-as the primary indicator of the utility for a highway network to road users. This
-is because the roughness of the road surface affects the ride quality and
-vehicle operating costs. Rough surfaces also considerably impacts vehicle speed,
-fuel consumption, tire wear and increases road surface maintenance costs.&lt;/p&gt;
-
-&lt;p&gt;Like &lt;a href=&#34;../on-litesense-01/&#34;&gt;street lights&lt;/a&gt;, governments around the world spend a
-&lt;strong&gt;considerable&lt;/strong&gt; amount to maintain public roads. If you are a tax-payer, it is
-your right to have well-maintained roads and you can provide feedback to your
-respective authorities otherwise. It is also our right to be taxed so we might
-as well make full use of our tax-paying priviledge.&lt;/p&gt;
-
-&lt;h1 id=&#34;modus-operandi&#34;&gt;Modus operandi&lt;/h1&gt;
-
-&lt;p&gt;Generally, governments engage term contractors to maintain roads. One of
-their activities is to ensure our ride quality and to report back roughness
-conditions. How does this all work in real life?&lt;/p&gt;
-
-&lt;p&gt;Road roughness measurements are usually carried out in the wee hours of the
-morning with vehicles that are equipped with massive computational horsepower,
-i.e., expensive. These horses are used for laser profilometers and a whole
-bunch of other power hungry devices. Measurements are done for each and every
-lane. To provide some perspective in terms of how much work this entails,
-Singapore has 9,233 lane-kilometers as at 2014 (source: Land Transport Authority
-of Singapore, &amp;ldquo;Road Length In Lane-Kilometer&amp;rdquo;). That is equivalent to driving
-from Singapore to Kuala Lumpur 26 times.&lt;/p&gt;
-</description>
+      <description>Roads have always been a part of our lives. As usual, we never really think much about it until we hit a pothole or come across an unbearably rough stretch of road.
+In the early 1980s the highway engineering community identified road roughness as the primary indicator of the utility for a highway network to road users. This is because the roughness of the road surface affects the ride quality and vehicle operating costs.</description>
     </item>
     
     <item>
@@ -280,127 +58,9 @@ from Singapore to Kuala Lumpur 26 times.&lt;/p&gt;
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-litesense-03/</guid>
-      <description>
-
-&lt;p&gt;The Automated Street Light Measurement System (ASLMS) (see &lt;a href=&#34;../on-litesense-02/&#34;&gt;Part
-2&lt;/a&gt;) is, in its crudest form, an in-vehicle data acquisition system
-that outputs geospatial lighting statistics. In its more complex form, the ASLMS
-comprises:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;a data fusion engine that integrates data from multi-modality sensors into a
-consistent, accurate, and useful representation, and&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;a data analytics engine that examines data with the purpose of drawing
-conclusions about that information&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;When we built ASLMS, the Internet-of-Things (IoT) was merely a shadow and the
-above was really just a data acquisition box. Today, new buzzwords are
-created simply to confuse the masses. Our advice is to stay grounded, keep to
-the fundamentals and try not be misled by marketing spiel.&lt;/p&gt;
-
-&lt;h1 id=&#34;realising-litesense&#34;&gt;Realising Litesense&lt;/h1&gt;
-
-&lt;p&gt;When we started designing and building Litesense, IoT became a force to be
-reckoned with and we embraced the technological disruptions. Our transition from
-ASLMS to Litesense was prudent (see Figure 1) while trying our best to adhere to the
-expand/contract pattern  (The rule is that you never change existing objects all
-at once. Instead, divide the changes into reversible steps.) Each transition was
-designed to be a viable product and this is illustrated nicely in Figure 2.&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-22-litesense/transition.png&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 1: The transition to Litesense. Shape sizes depict the
-expand/contract pattern.
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-22-litesense/mvp-henrik-kniberg.png&#34;
-width=&#34;50%&#34; height=&#34;50%&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 2: Deliver usable products to allow learning to take place (source:
-&lt;a href=&#34;https://blog.deming.org/2014/11/minimal-viable-product/&#34;&gt;The Deming Institute&lt;/a&gt;)
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;the-litesense-iot-platform&#34;&gt;The Litesense IoT platform&lt;/h1&gt;
-
-&lt;p&gt;Litesense, like its predecessors, can be used at normal
-vehicular speeds while collecting and transmitting wirelessly high granularity
-sensor data. This meant that the platform needed to be performant and
-reliable (see Figure 3) across all modules required of an end-to-end streaming
-system. Fast forward two years, tons of learning and less number of sleepless nights,
-Litesense was commissioned (see Figures 4 and 5).&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-22-litesense/2x2.png&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 3: What the Litesense IoT platform is
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-22-litesense/litesense.png&#34; width=&#34;60%&#34;
-height=&#34;60%&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 4: Litesense mounted on top of a vehicle
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-22-litesense/alms-web.png&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 5: Litesense web interface (gets the job done)
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;By adhering to the Rule of Modularity (see &lt;a href=&#34;https://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond.E2.80.99s_17_Unix_Rules&#34;&gt;17 Unix
-Rules&lt;/a&gt;),
-we have taken the liberty to promote the Litesense IoT platform into the &lt;strong&gt;Cosmiqo IoT platform&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;next-steps&#34;&gt;Next steps&lt;/h1&gt;
-
-&lt;p&gt;Through Litesense, the Cosmiqo team (see Figure 6) has gained a deep
-understanding of sensing platforms and analytics engines. Till the next project.&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-22-litesense/team.png&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 6: The three musketeers. From left to right: Cheon Ying, Niak Wu and
-Melvin. Special thanks goes out to Lam Kee Wei and Heng U San.
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;source&#34;&gt;
-    (Cosmiqo&amp;copy;)
-  &lt;/div&gt;
-  &lt;div class=&#34;source&#34;&gt;
-    Photo by Inés Outumuro on &lt;a href=
-    &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
-    &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
-  &lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>The Automated Street Light Measurement System (ASLMS) (see Part 2) is, in its crudest form, an in-vehicle data acquisition system that outputs geospatial lighting statistics. In its more complex form, the ASLMS comprises:
+ a data fusion engine that integrates data from multi-modality sensors into a consistent, accurate, and useful representation, and
+ a data analytics engine that examines data with the purpose of drawing conclusions about that information</description>
     </item>
     
     <item>
@@ -409,125 +69,7 @@ Melvin. Special thanks goes out to Lam Kee Wei and Heng U San.
       <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-litesense-02/</guid>
-      <description>
-
-&lt;p&gt;In &lt;a href=&#34;../on-litesense-01/&#34;&gt;Part 1&lt;/a&gt;, we ended with the need to carry out
-illuminance measurements in the wee hours of the morning to reduce the risk of
-accidents. What we neglected to mention was that even during these hours,
-carrying out measurement activities requires vigilance since standing in the
-middle of a road is a pre-requisite. There is also the little known fact that there
-exists an intersection between people who drive and people who stress-relieve in
-GTA (see Figure 1).&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-21-litesense/venn.png&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 1: Crazy drivers (purely a hypothesis to stress the importance of
-road safety)
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;At such hours, fatigue usually creeps in at a faster rate and due to the manual
-nature of work, the probability of errors during illuminance measurements
-increases. This results in rework.&lt;/p&gt;
-
-&lt;p&gt;Now that we understand the process, we needed to work on three issues:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Effectiveness of measurement accuracy to eliminate rework&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Efficiency of measurement &amp;ldquo;for every lane across every road&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Workplace safety to reduce the risk of accidents&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;introducing-the-automated-street-light-measurement-system&#34;&gt;Introducing the Automated Street Light Measurement System&lt;/h1&gt;
-
-&lt;p&gt;Engineers at heart, the conceptual solution was simple. All we had to do was
-cobble a number of sensors together and write some software. So we thought. If
-you have ever tried taking an idea from concept to reality, you would know that
-this is not a walk in the park. One and a half years and a terrible number of
-sleepless nights later (testing could only be done at night), the ASLMS was
-ready to roll (see Figures 2 and 3).&lt;/p&gt;
-
-&lt;p&gt;The technicians were now able to perform illuminance
-measurements across entire roads in the comfort and safety of their vehicles. Productivity
-gains increased by 8-fold and the risk of accidents reduced to a minimum.&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-21-litesense/aslms-01.jpg&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 2: ASLMS up close
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-21-litesense/aslms-02.jpg&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 3: ASLMS mounted on top of a vehicle
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;new-learnings&#34;&gt;New learnings&lt;/h1&gt;
-
-&lt;p&gt;The problem with most devices is that it undergoes wear and tear. After
-continual usage, external components that we procured for the ASLMS started to
-fail. We took away two pearls of wisdom:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;The design of maintenance contracts are important.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The design of systems are even more important in order to fully optimise Pearl 1
-above.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Along the way, we made many good friends (see Figures 4 and 5), learnt &lt;em&gt;a lot&lt;/em&gt; about
-on-the-ground operations in the greatest of details and most importantly, what we
-had to do to simplify the entire system and workflow. With our treasure trove of newfound
-knowledge, we went back to the drawing boards.&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-21-litesense/muru-and-kumar.png&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 4: Muru and Kumar fixing a busted tyre while I capture the memory of them
-fixing a busted tyre
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-21-litesense/fun.jpg&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 5: Just another night with the boys. From left to right: Ryan
-(lighting pro-to-know), Melvin (CTO of Cosmiqo) and Kumar.
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;On to &lt;a href=&#34;../on-litesense-03/&#34;&gt;Part 3&lt;/a&gt; of 3.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;source&#34;&gt;
-    (Cosmiqo&amp;copy;)
-  &lt;/div&gt;
-  &lt;div class=&#34;source&#34;&gt;
-    Photo by Inés Outumuro on &lt;a href=
-    &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
-    &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
-  &lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>In Part 1, we ended with the need to carry out illuminance measurements in the wee hours of the morning to reduce the risk of accidents. What we neglected to mention was that even during these hours, carrying out measurement activities requires vigilance since standing in the middle of a road is a pre-requisite. There is also the little known fact that there exists an intersection between people who drive and people who stress-relieve in GTA (see Figure 1).</description>
     </item>
     
     <item>
@@ -536,65 +78,8 @@ fixing a busted tyre
       <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-litesense-01/</guid>
-      <description>
-
-&lt;p&gt;For those of us who grew up in cities, street lights have always been a part of
-our lives. Truth be told, we never really think much about it until we stumble
-across an area that is either too dark or too bright. Yes, most people
-take street lighting for granted even though humans (like some bugs) are naturally
-attracted to light.&lt;/p&gt;
-
-&lt;p&gt;In the early civilisations, light primarily serves the purpose of security,
-both to protect the wanderer from tripping or keeping potential robbers at bay.
-Today, street lighting also serves to facilitate traffic flow, promotes the use
-of public facilities during the night hours and much more.&lt;/p&gt;
-
-&lt;p&gt;Governments around the world spend a &lt;strong&gt;considerable&lt;/strong&gt; amount to maintain street
-lights along public roads to keep us safe and secure. If you are a tax-payer, it
-is your right to have sufficient lighting and you can provide feedback to your
-respective authorities otherwise. It is also our right to be taxed so we might
-as well make full use of our tax-paying priviledge.&lt;/p&gt;
-
-&lt;h1 id=&#34;modus-operandi&#34;&gt;Modus operandi&lt;/h1&gt;
-
-&lt;p&gt;Generally, governments engage term contractors to maintain street lights. One of
-their activities is to ensure that roadway lighting is uniform. Lighting
-uniformity is represented by U&lt;sub&gt;0&lt;/sub&gt; and it is given to us by taking the ratio of
-the minimum illuminance, E&lt;sub&gt;min&lt;/sub&gt;, to the average illuminance,
-E&lt;sub&gt;average&lt;/sub&gt;, i.e., E&lt;sub&gt;min&lt;/sub&gt; / E&lt;sub&gt;average&lt;/sub&gt;. So how does
-this all work in real life?&lt;/p&gt;
-
-&lt;p&gt;Before Cosmiqo, technicians hired by term contractors would carry out
-measurements by hand
-(They still do but much less now). This would involve the rather dangerous task
-of having to find the darkest spot - typically between two street lamps of
-choice - followed by nine other evenly distributed points on a lane to find the
-average (see Figure 1). Now repeat this for every lane across every road. One
-can only wonder how much time it will take to completion.&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=
-    &#34;../../images/litesense/2016-12-20-litesense/measurement-points.png&#34;&gt;
-    &lt;figcaption&gt;
-    Figure 1: Nine evenly distributed points on a lane between two street lamps
-    &lt;/figcaption&gt;
-    &lt;/center&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;Because of this, illuminance measurements are carried out in the wee hours of
-the morning to reduce the
-risk of accidents but probabilities are still high. The next time you see someone
-standing in the middle of the road, do be careful. He could be performing
-illuminance measurements to ensure our public roads are safe and secure, &lt;em&gt;for
-us&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;On to &lt;a href=&#34;../on-litesense-02/&#34;&gt;Part 2&lt;/a&gt; of 3.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;source&#34;&gt;
-    (Cosmiqo&amp;copy;)
-  &lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>For those of us who grew up in cities, street lights have always been a part of our lives. Truth be told, we never really think much about it until we stumble across an area that is either too dark or too bright. Yes, most people take street lighting for granted even though humans (like some bugs) are naturally attracted to light.
+In the early civilisations, light primarily serves the purpose of security, both to protect the wanderer from tripping or keeping potential robbers at bay.</description>
     </item>
     
     <item>
@@ -603,101 +88,10 @@ us&lt;/em&gt;.&lt;/p&gt;
       <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-kd-to-bu/</guid>
-      <description>
-
-&lt;p&gt;After producing a light map of the roads around &lt;a href=&#34;../on-kota-damansara/&#34;&gt;Kota Damansara&lt;/a&gt;
-with the awesome folks from the &lt;a href=&#34;http://sinarproject.org/en&#34;&gt;Sinar Project&lt;/a&gt;,
-we decided to continue using Litesense® for the journey back to
-&lt;a href=&#34;http://centrepointbandarutama.com/&#34;&gt;Centrepoint Bandar Utama&lt;/a&gt;, our earlier
-rendezvous location.&lt;/p&gt;
-
-&lt;p&gt;We asked &lt;a href=&#34;https://www.waze.com/&#34;&gt;Waze&lt;/a&gt; for the best way back and it responded with
-a perfect route.&lt;/p&gt;
-
-&lt;p&gt;In the map below, the&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;green marker is the start point&lt;/li&gt;
-&lt;li&gt;red marker is the end point&lt;/li&gt;
-&lt;li&gt;different colours represent varying brightness levels
-(measured in &lt;a href=&#34;https://en.wikipedia.org/wiki/Lux&#34;&gt;lux&lt;/a&gt;)
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../images/litesense/2016-02-05-kd-to-bu/path.png&#34; alt=&#34;Lux levels from Kota Damansara to Centrepoint Bandar Utama&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Indicators for brightness level are&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#000078;&#34;&gt;0 ≤ lux &amp;lt; 3&lt;/a&gt;&lt;/b&gt; (darkest)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00DCFF;&#34;&gt;3 ≤ lux &amp;lt; 6&lt;/a&gt;&lt;/b&gt; (darker)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#006E00;&#34;&gt;6 ≤ lux &amp;lt; 10&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;10 ≤ lux &amp;lt; 20&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFB400;&#34;&gt;20 ≤ lux &amp;lt; 40&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF6400;&#34;&gt;40 ≤ lux &amp;lt; 60&lt;/a&gt;&lt;/b&gt; (brighter)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;lux ≥ 60&lt;/a&gt;&lt;/b&gt; (brightest)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;../../maps/osm-799-kd-bu.html&#34;&gt;Please feel free to interact with the map&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;findings&#34;&gt;Findings&lt;/h1&gt;
-
-&lt;p&gt;Please drive safely and pay more attention to your
-surroundings in these areas:
-      &lt;figure&gt;
-        &lt;figcaption&gt;
-          1. Jalan Cecawi 6
-        &lt;/figcaption&gt;&lt;img src=
-        &#34;../../images/litesense/2016-02-05-kd-to-bu/jalan-cecawi-6.png&#34;&gt;
-      &lt;/figure&gt;
-      &lt;figure&gt;
-        &lt;figcaption&gt;
-          2. Jalan Cecawi 6 to Persiaran Kenanga
-        &lt;/figcaption&gt;&lt;img src=
-        &#34;../../images/litesense/2016-02-05-kd-to-bu/jalan-cecawi-6-to-kenanga.png&#34;&gt;
-      &lt;/figure&gt;
-      &lt;figure&gt;
-        &lt;figcaption&gt;
-          3. A few segments along Persiaran Kenanga
-        &lt;/figcaption&gt;&lt;img src=
-        &#34;../../images/litesense/2016-02-05-kd-to-bu/persiaran-kenanga.png&#34;&gt;
-      &lt;/figure&gt;
-      &lt;figure&gt;
-        &lt;figcaption&gt;
-          4. This spot along the Damansara Link
-        &lt;/figcaption&gt;&lt;img src=
-        &#34;../../images/litesense/2016-02-05-kd-to-bu/damansara-link.png&#34;&gt;
-      &lt;/figure&gt;
-      &lt;figure&gt;
-        &lt;figcaption&gt;
-          5. Jalan Melor
-        &lt;/figcaption&gt;&lt;img src=
-        &#34;../../images/litesense/2016-02-05-kd-to-bu/jalan-melor.png&#34;&gt;
-      &lt;/figure&gt;
-      &lt;figure&gt;
-        &lt;figcaption&gt;
-          6. Jalan Melati
-        &lt;/figcaption&gt;&lt;img src=
-        &#34;../../images/litesense/2016-02-05-kd-to-bu/jalan-melati.png&#34;&gt;
-      &lt;/figure&gt;
-      &lt;p&gt;Commendable lighting uniformity:&lt;/p&gt;
-      &lt;figure&gt;
-        &lt;figcaption&gt;
-          1. Lebuhraya Baru Lembah Klang / New Klang Valley
-          Expressway operated by Plus Malaysia Berhad
-        &lt;/figcaption&gt;&lt;img src=
-        &#34;../../images/litesense/2016-02-05-kd-to-bu/nkve.png&#34;&gt;
-      &lt;/figure&gt;
-      &lt;div class=&#34;source&#34;&gt;
-        (Cosmiqo Litesense®, 5th February 2016 between 2230hrs and
-        2345hrs)
-      &lt;/div&gt;
-      &lt;div class=&#34;source&#34;&gt;
-        Photo by Inés Outumuro on &lt;a href=
-        &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
-        &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
-      &lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>After producing a light map of the roads around Kota Damansara with the awesome folks from the Sinar Project, we decided to continue using Litesense® for the journey back to Centrepoint Bandar Utama, our earlier rendezvous location.
+We asked Waze for the best way back and it responded with a perfect route.
+In the map below, the
+ green marker is the start point red marker is the end point different colours represent varying brightness levels (measured in lux)   Indicators for brightness level are</description>
     </item>
     
     <item>
@@ -706,136 +100,8 @@ surroundings in these areas:
       <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-ulu-pandan/</guid>
-      <description>
-
-&lt;p&gt;15th of February in the year 590 was an important one as
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Khosrow_II&#34;&gt;Khosrow II&lt;/a&gt;
-was crowned king of Persia. About 1400 years later, the night of 15th of
-February in the year 2016 was also an important one as &lt;strong&gt;Litesense®&lt;/strong&gt; was taken
-out to ensure that the streets of Ulu Pandan and Bukit Timah were safe for us
-to drive on, ride, cycle and walk along.&lt;/p&gt;
-
-&lt;p&gt;Results of the mission were visualised in &lt;a href=&#34;https://github.com/python-visualization/folium&#34;&gt;Folium&lt;/a&gt;,
-a project &amp;ldquo;that makes it easy to visualize data that&amp;rsquo;s been manipulated in Python on an
-interactive Leaflet map&amp;rdquo;. In the map below, the&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;green marker is the start point&lt;/li&gt;
-&lt;li&gt;red marker is the end point&lt;/li&gt;
-&lt;li&gt;different colours represent varying brightness levels (measured in &lt;a href=&#34;https://en.wikipedia.org/wiki/Lux&#34;&gt;lux&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;tiny black circles are pole identification numbers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../images/litesense/2016-02-15-ulu-pandan/path.png&#34; alt=&#34;Lux levels at Ulu Pandan and Bukit Timah&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Indicators for brightness level are&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#000078;&#34;&gt;0 ≤ lux &amp;lt; 3&lt;/a&gt;&lt;/b&gt; (darkest)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00DCFF;&#34;&gt;3 ≤ lux &amp;lt; 6&lt;/a&gt;&lt;/b&gt; (darker)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#006E00;&#34;&gt;6 ≤ lux &amp;lt; 10&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;10 ≤ lux &amp;lt; 20&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFB400;&#34;&gt;20 ≤ lux &amp;lt; 40&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF6400;&#34;&gt;40 ≤ lux &amp;lt; 60&lt;/a&gt;&lt;/b&gt; (brighter)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;lux ≥ 60&lt;/a&gt;&lt;/b&gt; (brightest)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;../../maps/osm-800-ulu-pandan.html&#34;&gt;Please feel free to interact with the map&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;findings&#34;&gt;Findings&lt;/h1&gt;
-
-&lt;p&gt;Areas with lower light uniformity:&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;
-    &lt;figcaption&gt;
-      1. Ghim Moh Road near Pole ID 24 with brightness level of
-      2.6 lux
-    &lt;/figcaption&gt;&lt;img src=
-    &#34;../../images/litesense/2016-02-15-ulu-pandan/ghim-moh-road-1.png&#34;&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;figcaption&gt;
-      2. Holland Road near Pole ID 237 with brightness level of
-      2.7 lux
-    &lt;/figcaption&gt;&lt;img src=
-    &#34;../../images/litesense/2016-02-15-ulu-pandan/holland-road-1.png&#34;&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;figcaption&gt;
-      3. Ulu Pandan Road near Pole ID 47 with brightness level
-      of 2.3 lux
-    &lt;/figcaption&gt;&lt;img src=
-    &#34;../../images/litesense/2016-02-15-ulu-pandan/holland-road-1.png&#34;&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;figcaption&gt;
-      4. Multiple areas along Holland Road starting from Pole
-      ID 248 with brightness level of 2.8 lux
-    &lt;/figcaption&gt;&lt;img src=
-    &#34;../../images/litesense/2016-02-15-ulu-pandan/holland-road-2.png&#34;&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;figcaption&gt;
-      5. Dunearn Road near Pole ID 22 with brightness level of
-      2.3 lux
-    &lt;/figcaption&gt;&lt;img src=
-    &#34;../../images/litesense/2016-02-15-ulu-pandan/dunearn-road-1.png&#34;&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;figcaption&gt;
-      6. Dunearn Road near Pole ID 26 with brightness level of
-      0.75 lux
-    &lt;/figcaption&gt;&lt;img src=
-    &#34;../../images/litesense/2016-02-15-ulu-pandan/dunearn-road-2.png&#34;&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;figcaption&gt;
-      7. Dunearn Road near Pole ID 32 with brightness level of
-      1.75 lux
-    &lt;/figcaption&gt;&lt;img src=
-    &#34;../../images/litesense/2016-02-15-ulu-pandan/dunearn-road-3.png&#34;&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;figcaption&gt;
-      8. Sixth Avenue near Pole ID 32 with brightness level of
-      1.75 lux
-    &lt;/figcaption&gt;&lt;img src=
-    &#34;../../images/litesense/2016-02-15-ulu-pandan/dunearn-road-3.png&#34;&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;figcaption&gt;
-      9. Holland Grove Drive
-    &lt;/figcaption&gt;&lt;img src=
-    &#34;../../images/litesense/2016-02-15-ulu-pandan/holland-grove-drive.png&#34;&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;figcaption&gt;
-      10. Holland Grove View near Pole ID 43 with brightness
-      level of 0.25 lux
-    &lt;/figcaption&gt;&lt;img src=
-    &#34;../../images/litesense/2016-02-15-ulu-pandan/holland-grove-view.png&#34;&gt;
-  &lt;/figure&gt;
-  &lt;figure&gt;
-    &lt;figcaption&gt;
-      11. Grove Avenue near Pole ID 7 with brightness level of
-      1.25 lux
-    &lt;/figcaption&gt;&lt;img src=
-    &#34;../../images/litesense/2016-02-15-ulu-pandan/grove-avenue.png&#34;&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;All other roads were uniformly lit. Great job guys! You
-know who you are. =)&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;source&#34;&gt;
-    (Cosmiqo Litesense®, 15th February 2016 between 2130hrs and
-    2300hrs)
-  &lt;/div&gt;
-  &lt;div class=&#34;source&#34;&gt;
-    Photo by Inés Outumuro on &lt;a href=
-    &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
-    &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
-  &lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>15th of February in the year 590 was an important one as Khosrow II was crowned king of Persia. About 1400 years later, the night of 15th of February in the year 2016 was also an important one as Litesense® was taken out to ensure that the streets of Ulu Pandan and Bukit Timah were safe for us to drive on, ride, cycle and walk along.
+Results of the mission were visualised in Folium, a project &amp;ldquo;that makes it easy to visualize data that&amp;rsquo;s been manipulated in Python on an interactive Leaflet map&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -844,86 +110,8 @@ know who you are. =)&lt;/p&gt;
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-kota-damansara/</guid>
-      <description>
-
-&lt;p&gt;Just before the Lunar New Year weekend, we decided to take Litesense® out for a
-spin with some awesome folks from the &lt;a href=&#34;http://sinarproject.org/en&#34;&gt;Sinar Project&lt;/a&gt;.
-The mission was to produce a light map of the roads around
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Kota_Damansara&#34;&gt;Kota Damansara&lt;/a&gt;, a township located in
-Petaling Jaya, Selangor, Malaysia.&lt;/p&gt;
-
-&lt;p&gt;To visualise the results of the mission, we leveraged on
-&lt;a href=&#34;https://github.com/python-visualization/folium&#34;&gt;Folium&lt;/a&gt;,
-a project &amp;ldquo;that makes it easy to visualize data that&amp;rsquo;s been manipulated in
-Python on an interactive Leaflet map&amp;rdquo;. In the map below, the&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;green marker is the start point&lt;/li&gt;
-&lt;li&gt;red marker is the end point&lt;/li&gt;
-&lt;li&gt;different colours represent varying brightness levels (measured in &lt;a href=&#34;https://en.wikipedia.org/wiki/Lux&#34;&gt;lux&lt;/a&gt;)
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../images/litesense/2016-02-05-kota-damansara/path.png&#34; alt=&#34;Lux levels along Kota Damansara&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Indicators for brightness level are&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#000078;&#34;&gt;0 ≤ lux &amp;lt; 3&lt;/a&gt;&lt;/b&gt; (darkest)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00DCFF;&#34;&gt;3 ≤ lux &amp;lt; 6&lt;/a&gt;&lt;/b&gt; (darker)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#006E00;&#34;&gt;6 ≤ lux &amp;lt; 10&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#00FF00;&#34;&gt;10 ≤ lux &amp;lt; 20&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FFB400;&#34;&gt;20 ≤ lux &amp;lt; 40&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF6400;&#34;&gt;40 ≤ lux &amp;lt; 60&lt;/a&gt;&lt;/b&gt; (brighter)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;&lt;a style=&#34;color:#FF0000;&#34;&gt;lux ≥ 60&lt;/a&gt;&lt;/b&gt; (brightest)
-
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;../../maps/osm-797-kd.html&#34;&gt;Please feel free to interact with the map&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;findings&#34;&gt;Findings&lt;/h1&gt;
-
-&lt;p&gt;Please drive safely and pay more attention to your
-surroundings in these areas:
-      &lt;figure&gt;
-        &lt;figcaption&gt;
-          1. Persiaran Surian just before the junction of Jalan PJU
-          5/1
-        &lt;/figcaption&gt;&lt;img src=
-        &#34;../../images/litesense/2016-02-05-kota-damansara/persiaran-surian-1.png&#34;&gt;
-      &lt;/figure&gt;
-      &lt;figure&gt;
-        &lt;figcaption&gt;
-          2. Jalan PJU 5/19
-        &lt;/figcaption&gt;&lt;img src=
-        &#34;../../images/litesense/2016-02-05-kota-damansara/pju-5-19.png&#34;&gt;
-      &lt;/figure&gt;
-      &lt;figure&gt;
-        &lt;figcaption&gt;
-          3. This road is in between the Jalan Nuri and Jalan
-          Cecawi estates, and along the Jalan Nuri estate into
-          Persiaran Jati. If you are a resident, do consider
-          turning on your porch lights.
-        &lt;/figcaption&gt;&lt;img src=
-        &#34;../../images/litesense/2016-02-05-kota-damansara/persiaran-surian-2.png&#34;&gt;
-      &lt;/figure&gt;
-      &lt;figure&gt;
-        &lt;figcaption&gt;
-          4. Around the Jalan Pekaka estate
-        &lt;/figcaption&gt;&lt;img src=
-        &#34;../../images/litesense/2016-02-05-kota-damansara/jalan-pekaka.png&#34;&gt;
-      &lt;/figure&gt;
-      &lt;div class=&#34;source&#34;&gt;
-        (Cosmiqo Litesense®, 5th February 2016 between 2200hrs and
-        2300hrs)
-      &lt;/div&gt;
-      &lt;div class=&#34;source&#34;&gt;
-        Photo by Inés Outumuro on &lt;a href=
-        &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
-        &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
-      &lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>Just before the Lunar New Year weekend, we decided to take Litesense® out for a spin with some awesome folks from the Sinar Project. The mission was to produce a light map of the roads around Kota Damansara, a township located in Petaling Jaya, Selangor, Malaysia.
+To visualise the results of the mission, we leveraged on Folium, a project &amp;ldquo;that makes it easy to visualize data that&amp;rsquo;s been manipulated in Python on an interactive Leaflet map&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -932,85 +120,7 @@ surroundings in these areas:
       <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-park-lighting/</guid>
-      <description>
-
-&lt;p&gt;The National Parks Board recently marked the &lt;a href=&#34;https://www.nparks.gov.sg/news/2015/9/community-gathers-to-celebrate-25-years-of-the-park-connector-network&#34;&gt;25th anniversary&lt;/a&gt;
-of the Park Connector Network (PCN) in Singapore. With
-over 300 km (with the aim to grow the PCN to 360 km by 2020) and an
-island-wide network that cuts across major parks, nature sites and housing
-estates, it is imperative that lighting conditions are optimal. To promote
-safer parks, the single most requested physical design modification to
-improve safety is usually an increase in lighting.&lt;/p&gt;
-
-&lt;p&gt;Lighting is a key factor because it can clarify the layout of a park by
-emphasising walkways, focal points, gathering places and building entrances.
-When planned as a coordinated system, lighting improves the night time
-legibility, use and enjoyment of a site.&lt;/p&gt;
-
-&lt;p&gt;The top of the hierarchy includes lighting activity areas and primary walkways
-so that they become the focus of pedestrian activity after dark. At the bottom
-of this hierarchy is the decision not to light some areas at all because their
-use at night would be unsafe or inappropriate.&lt;/p&gt;
-
-&lt;h1 id=&#34;considerations-for-safer-parks&#34;&gt;Considerations for safer parks&lt;/h1&gt;
-
-&lt;p&gt;Placement of lighting&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Are lights positioned to respond to problems of surveillance created by
-vegetation and topography rather than on the basis of arbitrary light pole
-placement?&lt;/li&gt;
-&lt;li&gt;Does lighting need to be redirected so that it extends beyond the edge of
-paths to illuminate potential concealment areas and hiding places?
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Consistency of lighting&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Have lights that cause excessive glare or generate dark shadows been avoided?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Inappropriate Lighting&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Has a false sense of security been created by lighting areas that are
-potentially inappropriate for night time use?&lt;/li&gt;
-&lt;li&gt;Has the installation of low ground-level lights been avoided where
-higher-level lighting is not also provided?
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;source&#34;&gt;
-  (source: &lt;a href=
-    &#34;http://www.pps.org/reference/what-role-can-design-play-in-creating-safer-parks/&#34;
-    target=&#34;_blank&#34;&gt;Project for Public Spaces&lt;/a&gt;)
-&lt;/div&gt;
-
-&lt;h1 id=&#34;nparks-recommendations&#34;&gt;NParks’ recommendations&lt;/h1&gt;
-
-&lt;p&gt;For the design state in relation to outdoor lighting:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Footpath (average 5 lux with the darkest spot of minimum 1 lux, i.e.,
-uniformity = 0.2)&lt;/li&gt;
-&lt;li&gt;Playground (average of 20 lux with the darkest spot of minimum 6 lux, i.e.,
-uniformity = 0.3)
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;source&#34;&gt;
-  (based on the Mechanical &amp; Electrical Services Checklist
-  Form M&amp;amp;E/1.2, 2007)
-&lt;/div&gt;
-      
-
-&lt;div class=&#34;source&#34;&gt;
-  Photo by Brigita B. on &lt;a href=
-  &#34;https://unsplash.com/photos/YilEpxqSr48&#34; target=
-  &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
-&lt;/div&gt;
-</description>
+      <description>The National Parks Board recently marked the 25th anniversary of the Park Connector Network (PCN) in Singapore. With over 300 km (with the aim to grow the PCN to 360 km by 2020) and an island-wide network that cuts across major parks, nature sites and housing estates, it is imperative that lighting conditions are optimal. To promote safer parks, the single most requested physical design modification to improve safety is usually an increase in lighting.</description>
     </item>
     
     <item>
@@ -1019,72 +129,8 @@ uniformity = 0.3)
       <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-street-lighting/</guid>
-      <description>
-
-&lt;p&gt;At Cosmiqo, we develop technology that audits how bright the roads are by
-measuring the intensity of street lights. We do this by collecting quite a lot
-of data, wirelessly streaming it back to our cloud platform and processing this
-information through our analytics engine. We call this technology
-&lt;strong&gt;Litesense®&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;The principal purpose of street lighting is to produce quick, accurate and
-comfortable visibility at night. These qualities of visibility may safeguard,
-facilitate and encourage vehicular and pedestrian traffic. When good visibility
-is provided through lighting, efficient night use can be made of the large
-investments in roadways and motor vehicles. Thus, the proper use of street
-lighting as an operative tool provides economic and social benefits to the
-public such as:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;reduction in night accidents, attendant human misery and economic loss&lt;/li&gt;
-&lt;li&gt;aid to police protection and enhanced sense of personal security&lt;/li&gt;
-&lt;li&gt;facilitation of traffic flow&lt;/li&gt;
-&lt;li&gt;promotion of business and the use of public facilities during the night hours
-
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;visual-components-of-the-driving-task&#34;&gt;Visual components of the driving task&lt;/h1&gt;
-
-&lt;p&gt;In order to drive a vehicle on a paved roadway with
-reasonable confidence, speed and safety, a driver must
-visually determine the following:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;that the pavement ahead is clear of defects and
-obstacles at a reasonable distance&lt;/li&gt;
-&lt;li&gt;the locations of the lane or roadway edges&lt;/li&gt;
-&lt;li&gt;the location and meaning of the traffic control devices
-and signs that affect the “rules of the road”&lt;/li&gt;
-&lt;li&gt;the present location and future course of moving
-objects on or near the roadway&lt;/li&gt;
-&lt;li&gt;the present position of the driver’s own vehicle
-relative to her immediate destination, other objects and
-intended turning locations
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;night-day-accident-relationship&#34;&gt;Night/Day accident relationship&lt;/h1&gt;
-
-&lt;p&gt;Darkness brings increased hazards to users of streets and highways because it
-reduces the distance they can see. The night time fatal accident rate on
-unlighted roadways is about three times the day time rate. This ratio can be
-reduced when proper fixed lighting is installed because these lighting systems
-reveal the environment beyond the range of the vehicle headlights and
-ameliorate glare from oncoming vehicles by increasing the eye’s adaptation
-level. Preventive measures such as lighting streets and highways is
-economically practical and can cost a community less than the accidents caused
-by inadequate visibility.&lt;/p&gt;
-
-&lt;div class=&#34;source&#34;&gt;
-  (source: IESNA, Roadway Lighting, 2005)
-&lt;/div&gt;
-&lt;div class=&#34;source&#34;&gt;
-  Photo by Inés Outumuro on &lt;a href=
-  &#34;https://unsplash.com/photos/KD0nM18EcfM&#34; target=
-  &#34;_blank&#34;&gt;Unsplash&lt;/a&gt;
-&lt;/div&gt;
-</description>
+      <description>At Cosmiqo, we develop technology that audits how bright the roads are by measuring the intensity of street lights. We do this by collecting quite a lot of data, wirelessly streaming it back to our cloud platform and processing this information through our analytics engine. We call this technology Litesense®.
+The principal purpose of street lighting is to produce quick, accurate and comfortable visibility at night. These qualities of visibility may safeguard, facilitate and encourage vehicular and pedestrian traffic.</description>
     </item>
     
   </channel>
