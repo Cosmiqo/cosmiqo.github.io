@@ -6,10 +6,32 @@
     <description>Recent content on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cosmiqo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Attraction occupancy at Sentosa (Part 3 of 3)</title>
+      <link>http://cosmiqo.com/article/on-sentosa-03/</link>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-sentosa-03/</guid>
+      <description>In Part 2, we discussed queues and how such information can be used by both visitors and operations. An additional parameter that would be useful for planning would be that of occupancy.
+Why is occupancy important? Occupancy is the number of people in a particular area. The more people there are, the more crowded it becomes. This may result in a safety concern and certain level of discomfort (for some).</description>
+    </item>
+    
+    <item>
+      <title>Attraction queueing times at Sentosa (Part 2 of 3)</title>
+      <link>http://cosmiqo.com/article/on-sentosa-02/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-sentosa-02/</guid>
+      <description>In Part 1, we concluded by providing some insights into when and where crowds will form across several entrances and attractions as a result of visitorship prediction. We now shift the discussion to attractions.
+Why do queues form? Queues are fascinating and it has become a part of our lives. It forms because of three reasons:
+ customers arrive faster than they can be serviced
+ the number of service staff are insufficient and/or inefficient</description>
+    </item>
     
     <item>
       <title>Predicting visitorship at Sentosa (Part 1 of 3)</title>
