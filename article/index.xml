@@ -6,10 +6,20 @@
     <description>Recent content in Articles on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cosmiqo.com/article/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Roadway lighting measurement with Litesense</title>
+      <link>http://cosmiqo.com/article/on-litesense-runs/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-litesense-runs/</guid>
+      <description>To ensure that ensure that roadway lighting is uniform, roadway lighting measurement needs to be done for every road and every lane. A picture is worth a thousand words but videos are worth much more.
+How roadway lighting measurement with Litesense is done The yellow moving arrow depicts the Litesense vehicle when taking measurements of the surrounding street lights and the yellow trace is the path that was traversed for the night.</description>
+    </item>
     
     <item>
       <title>Attraction occupancy at Sentosa (Part 3 of 3)</title>

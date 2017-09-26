@@ -6,10 +6,20 @@
     <description>Recent content on Cosmiqo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cosmiqo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Roadway lighting measurement with Litesense</title>
+      <link>http://cosmiqo.com/article/on-litesense-runs/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/article/on-litesense-runs/</guid>
+      <description>To ensure that ensure that roadway lighting is uniform, roadway lighting measurement needs to be done for every road and every lane. A picture is worth a thousand words but videos are worth much more.
+How roadway lighting measurement with Litesense is done The yellow moving arrow depicts the Litesense vehicle when taking measurements of the surrounding street lights and the yellow trace is the path that was traversed for the night.</description>
+    </item>
     
     <item>
       <title>Attraction occupancy at Sentosa (Part 3 of 3)</title>
@@ -186,14 +196,14 @@ Effective energy monitoring. Real-time data collection. Monitor, process and vis
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/articles.html</guid>
-      <description>Articles.  Sharing and Learning.      On Lighting  Street Lighting along Persiaran Multimedia, Cyberjaya
+      <description>Articles.  Sharing and Learning.      On Lighting  Roadway lighting measurement with Litesense
+Street Lighting along Persiaran Multimedia, Cyberjaya
 Our journey to Litesense (Part 3 of 3)
 Our journey to Litesense (Part 2 of 3)
 Our journey to Litesense (Part 1 of 3)
 Street Lighting from Kota Damansara to Centrepoint Bandar Utama
 Street lighting at Ulu Pandan and Bukit Timah
-Street lighting at Kota Damansara
-The importance of park lighting</description>
+Street lighting at Kota Damansara</description>
     </item>
     
     <item>
