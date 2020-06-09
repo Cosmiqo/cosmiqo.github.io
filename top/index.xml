@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tops on Cosmiqo</title>
@@ -98,7 +98,17 @@ For continuity.  Amidst the fun at Cosmiqo, we always make time to share what we
 For street lighting.  The measurement of street lighting intensity has always been manual. That’s right. Handheld lux meter, standing in the middle of the road, trying not to get hit, trying to get decent readings. Trying again. And again.
 We’ve changed the way it works.
      Cosmiqo Litesense®.
-Be productive. Be safe. Real-time data collection. Lamp identification and intensity mapping on-the-go. All at high sampling rates.</description>
+Be productive. Be safe. Real-time data collection. Lamp identification and intensity mapping on-the-go.</description>
+    </item>
+    
+    <item>
+      <title>MAVIS</title>
+      <link>http://cosmiqo.com/mavis.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/mavis.html</guid>
+      <description>Manufacturing Visibility  Be Visible.
+     MAVIS™ MAVIS™ is an integrated software/hardware platform that enables the Industry 4.0 journey. MAVIS™ provides full visibility of operations through a resilient sensing backbone and powerful analytics engine. Other application areas that will benefit from such visibility include warehouses, manufacturing sites, smart cities and logistics systems.     Main Features  COST EFFECTIVE  Value-adding, compact and modular system</description>
     </item>
     
   </channel>

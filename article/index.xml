@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Cosmiqo</title>
@@ -17,7 +17,7 @@
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-litesense-runs/</guid>
-      <description>To ensure that roadway lighting is uniform, roadway lighting measurement needs to be done for every road and every lane. A picture is worth a thousand words but videos are worth much more.
+      <description>To ensure that ensure that roadway lighting is uniform, roadway lighting measurement needs to be done for every road and every lane. A picture is worth a thousand words but videos are worth much more.
 How roadway lighting measurement with Litesense is done The yellow moving arrow depicts the Litesense vehicle when taking measurements of the surrounding street lights and the yellow trace is the path that was traversed for the night.</description>
     </item>
     
@@ -39,8 +39,8 @@ Why is occupancy important? Occupancy is the number of people in a particular ar
       <guid>http://cosmiqo.com/article/on-sentosa-02/</guid>
       <description>In Part 1, we concluded by providing some insights into when and where crowds will form across several entrances and attractions as a result of visitorship prediction. We now shift the discussion to attractions.
 Why do queues form? Queues are fascinating and it has become a part of our lives. It forms because of three reasons:
- customers arrive faster than they can be serviced
- the number of service staff are insufficient and/or inefficient</description>
+  customers arrive faster than they can be serviced
+  the number of service staff are insufficient and/or inefficient</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@ Why do queues form? Queues are fascinating and it has become a part of our lives
       
       <guid>http://cosmiqo.com/article/on-sentosa-01/</guid>
       <description>Sentosa is an island resort off the southern coast of Singapore, connected to the city by road, cable car, pedestrian boardwalk and monorail. As an iconic leisure destination, Sentosa had the pleasure of welcoming 19.5 million guests last year. With that many guests, having a strong operations team would come in handy.
-As a general rule of thumb, the effort required to streamline operations is only &amp;frac14; that of external activities.</description>
+As a general rule of thumb, the effort required to streamline operations is only 1/4 that of external activities.</description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@ As a general rule of thumb, the effort required to streamline operations is only
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-roadeye-cheras/</guid>
-      <description>Over the past couple of months, we were developing RoadEyeTM, a low-cost road roughness monitoring device. The idea behind RoadEyeTM is simple - allow quick and easy road roughess monitoring across a large network without disrupting traffic flow. Some of our early trials were performed from a drive that we took from Subang Jaya to Cheras in Malaysia.
+      <description>Over the past couple of months, we were developing RoadEyeTM, a low-cost road roughness monitoring device. The idea behind RoadEyeTMis simple - allow quick and easy road roughess monitoring across a large network without disrupting traffic flow. Some of our early trials were performed from a drive that we took from Subang Jaya to Cheras in Malaysia.
 Indicators for roughness level are
  Smoothest Smoother Smooth Normal Rough Rougher Roughest  Please feel free to interact with the map.</description>
     </item>
@@ -91,8 +91,8 @@ In the early 1980s the highway engineering community identified road roughness a
       
       <guid>http://cosmiqo.com/article/on-litesense-03/</guid>
       <description>The Automated Street Light Measurement System (ASLMS) (see Part 2) is, in its crudest form, an in-vehicle data acquisition system that outputs geospatial lighting statistics. In its more complex form, the ASLMS comprises:
- a data fusion engine that integrates data from multi-modality sensors into a consistent, accurate, and useful representation, and
- a data analytics engine that examines data with the purpose of drawing conclusions about that information</description>
+  a data fusion engine that integrates data from multi-modality sensors into a consistent, accurate, and useful representation, and
+  a data analytics engine that examines data with the purpose of drawing conclusions about that information</description>
     </item>
     
     <item>
@@ -123,7 +123,7 @@ In the early civilisations, light primarily serves the purpose of security, both
       <description>After producing a light map of the roads around Kota Damansara with the awesome folks from the Sinar Project, we decided to continue using Litesense® for the journey back to Centrepoint Bandar Utama, our earlier rendezvous location.
 We asked Waze for the best way back and it responded with a perfect route.
 In the map below, the
- green marker is the start point red marker is the end point different colours represent varying brightness levels (measured in lux)   Indicators for brightness level are</description>
+ green marker is the start point red marker is the end point different colours represent varying brightness levels (measured in lux)  Indicators for brightness level are</description>
     </item>
     
     <item>
