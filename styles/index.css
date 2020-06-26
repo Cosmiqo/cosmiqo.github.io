@@ -949,6 +949,9 @@ article .options .solution-item .text .name .company {
 article .options .solution-item .text .description {
   margin-bottom: 10px;
 }
+article .mavis-icon {
+  padding-right: 10px;
+}
 
 @media screen and (max-width: 620px) {
   article .intro .text {
@@ -965,6 +968,10 @@ article .options .solution-item .text .description {
   article .options .solution-item .text {
     width: 100%;
     text-align: center;
+  }
+
+  .mavis-icon {
+    padding: auto;
   }
 }
 
