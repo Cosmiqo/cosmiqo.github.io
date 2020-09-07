@@ -505,7 +505,7 @@ pre {
   width: 25%; }
 
 @media only screen and (max-width: 620px) {
-  .grid-half, .grid-third, .gird-fourth {
+  .grid-half, .grid-third, .grid-fourth {
     width: 100%; } }
 /**
 *
