@@ -499,13 +499,8 @@ pre {
   float: left;
   width: 33.333%; }
 
-.grid-fourth {
-  display: inline-block;
-  float: left;
-  width: 25%; }
-
 @media only screen and (max-width: 620px) {
-  .grid-half, .grid-third, .grid-fourth {
+  .grid-half, .grid-third {
     width: 100%; } }
 /**
 *
@@ -726,8 +721,12 @@ pre {
     content: '# ';
     display: inline-block; }
 
+article .wrapper .section-heading .members .grid-fourth {
+  display: inline-block;
+  float: left;
+  width: 25%; }
 article .info-button {
-  clear: both;
+  clear: bothll;
   padding: 10px 0px;
   width: 100%; }
   article .info-button a {
@@ -816,6 +815,8 @@ article .mavis-icon {
     text-align: justify; }
 
 @media screen and (max-width: 620px) {
+  article .wrapper .section-heading .members .grid-fourth {
+    width: 100%; }
   article .intro .text {
     text-align: center;
     width: 100%; }
