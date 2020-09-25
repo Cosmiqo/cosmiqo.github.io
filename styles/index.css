@@ -499,13 +499,8 @@ pre {
   float: left;
   width: 33.333%; }
 
-.grid-fourth {
-  display: inline-block;
-  float: left;
-  width: 25%; }
-
 @media only screen and (max-width: 620px) {
-  .grid-half, .grid-third, .grid-fourth {
+  .grid-half, .grid-third {
     width: 100%; } }
 /**
 *

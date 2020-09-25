@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tops on Cosmiqo</title>
@@ -83,6 +83,16 @@ User icon created by Cris Dobbins from the Noun Project</description>
       <guid>http://cosmiqo.com/education.html</guid>
       <description>Education.
 For continuity.  Amidst the fun at Cosmiqo, we always make time to share what we have with those who reach out to us.      Robotics Workshops   Over the years, we&#39;ve conducted quite a number of robotics workshops / competitions for Ang Mo Kio Secondary School (why this school? Because they asked. And it is fun to spend some time with the next generation of leaders).</description>
+    </item>
+    
+    <item>
+      <title>IRIS Router</title>
+      <link>http://cosmiqo.com/router.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/router.html</guid>
+      <description>Warehouse Pick Path Optimisation.  Be Efficient.
+     IRIS Router™ Order picking has been identified as a major activity within a warehouse and it consumes about 55% of total warehouse operating costs. Additionally, pickers spend about 55% to 70% of time travelling during order picking. IRIS Router provides superior pick-path algorithm that optimizes pick-path routes allowing for close to 17-34% increased efficiency.     Main Features  COST EFFECTIVE  Performance-based</description>
     </item>
     
     <item>
