@@ -22,11 +22,31 @@ How roadway lighting measurement with Litesense is done The yellow moving arrow 
     </item>
     
     <item>
+      <title>Roadway lighting measurement with Litesense</title>
+      <link>http://cosmiqo.com/articlefresh/on-litesense-runs/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-litesense-runs/</guid>
+      <description>To ensure that ensure that roadway lighting is uniform, roadway lighting measurement needs to be done for every road and every lane. A picture is worth a thousand words but videos are worth much more.
+ How roadway lighting measurement with Litesense is done   The yellow moving arrow depicts the Litesense vehicle when taking measurements of the surrounding street lights and the yellow trace is the path that was traversed for the night.</description>
+    </item>
+    
+    <item>
       <title>Attraction occupancy at Sentosa (Part 3 of 3)</title>
       <link>http://cosmiqo.com/article/on-sentosa-03/</link>
       <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-sentosa-03/</guid>
+      <description>In Part 2, we discussed queues and how such information can be used by both visitors and operations. An additional parameter that would be useful for planning would be that of occupancy.
+Why is occupancy important? Occupancy is the number of people in a particular area. The more people there are, the more crowded it becomes. This may result in a safety concern and certain level of discomfort (for some).</description>
+    </item>
+    
+    <item>
+      <title>Attraction occupancy at Sentosa (Part 3 of 3)</title>
+      <link>http://cosmiqo.com/articlefresh/on-sentosa-03/</link>
+      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-sentosa-03/</guid>
       <description>In Part 2, we discussed queues and how such information can be used by both visitors and operations. An additional parameter that would be useful for planning would be that of occupancy.
 Why is occupancy important? Occupancy is the number of people in a particular area. The more people there are, the more crowded it becomes. This may result in a safety concern and certain level of discomfort (for some).</description>
     </item>
@@ -39,8 +59,20 @@ Why is occupancy important? Occupancy is the number of people in a particular ar
       <guid>http://cosmiqo.com/article/on-sentosa-02/</guid>
       <description>In Part 1, we concluded by providing some insights into when and where crowds will form across several entrances and attractions as a result of visitorship prediction. We now shift the discussion to attractions.
 Why do queues form? Queues are fascinating and it has become a part of our lives. It forms because of three reasons:
- customers arrive faster than they can be serviced
- the number of service staff are insufficient and/or inefficient</description>
+  customers arrive faster than they can be serviced
+  the number of service staff are insufficient and/or inefficient</description>
+    </item>
+    
+    <item>
+      <title>Attraction queueing times at Sentosa (Part 2 of 3)</title>
+      <link>http://cosmiqo.com/articlefresh/on-sentosa-02/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-sentosa-02/</guid>
+      <description>In Part 1, we concluded by providing some insights into when and where crowds will form across several entrances and attractions as a result of visitorship prediction. We now shift the discussion to attractions.
+Why do queues form? Queues are fascinating and it has become a part of our lives. It forms because of three reasons:
+  customers arrive faster than they can be serviced
+  the number of service staff are insufficient and/or inefficient</description>
     </item>
     
     <item>
@@ -50,7 +82,17 @@ Why do queues form? Queues are fascinating and it has become a part of our lives
       
       <guid>http://cosmiqo.com/article/on-sentosa-01/</guid>
       <description>Sentosa is an island resort off the southern coast of Singapore, connected to the city by road, cable car, pedestrian boardwalk and monorail. As an iconic leisure destination, Sentosa had the pleasure of welcoming 19.5 million guests last year. With that many guests, having a strong operations team would come in handy.
-As a general rule of thumb, the effort required to streamline operations is only &amp;frac14; that of external activities.</description>
+As a general rule of thumb, the effort required to streamline operations is only 1/4 that of external activities.</description>
+    </item>
+    
+    <item>
+      <title>Predicting visitorship at Sentosa (Part 1 of 3)</title>
+      <link>http://cosmiqo.com/articlefresh/on-sentosa-01/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-sentosa-01/</guid>
+      <description>Sentosa is an island resort off the southern coast of Singapore, connected to the city by road, cable car, pedestrian boardwalk and monorail. As an iconic leisure destination, Sentosa had the pleasure of welcoming 19.5 million guests last year. With that many guests, having a strong operations team would come in handy.
+As a general rule of thumb, the effort required to streamline operations is only 1/4 that of external activities.</description>
     </item>
     
     <item>
@@ -59,6 +101,17 @@ As a general rule of thumb, the effort required to streamline operations is only
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-roadeye-cheras/</guid>
+      <description>Over the past couple of months, we were developing RoadEyeTM, a low-cost road roughness monitoring device. The idea behind RoadEyeTM is simple - allow quick and easy road roughess monitoring across a large network without disrupting traffic flow. Some of our early trials were performed from a drive that we took from Subang Jaya to Cheras in Malaysia.
+Indicators for roughness level are
+ Smoothest Smoother Smooth Normal Rough Rougher Roughest  Please feel free to interact with the map.</description>
+    </item>
+    
+    <item>
+      <title>Going to Cheras for supper</title>
+      <link>http://cosmiqo.com/articlefresh/on-roadeye-cheras/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-roadeye-cheras/</guid>
       <description>Over the past couple of months, we were developing RoadEyeTM, a low-cost road roughness monitoring device. The idea behind RoadEyeTM is simple - allow quick and easy road roughess monitoring across a large network without disrupting traffic flow. Some of our early trials were performed from a drive that we took from Subang Jaya to Cheras in Malaysia.
 Indicators for roughness level are
  Smoothest Smoother Smooth Normal Rough Rougher Roughest  Please feel free to interact with the map.</description>
@@ -75,11 +128,31 @@ Accidents are undesirable and with that in mind, we performed roadway lighting m
     </item>
     
     <item>
+      <title>Street Lighting along Persiaran Multimedia, Cyberjaya</title>
+      <link>http://cosmiqo.com/articlefresh/on-cyberjaya/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-cyberjaya/</guid>
+      <description>At the end of 2016, we were told that accidents frequently occur at night along Persiaran Multimedia, Cyberjaya. This could be due to many factors one of which is lighting conditions, a factor that is designed and controllable (you can see where this article is going). We took Litesense® out for a spin.
+Accidents are undesirable and with that in mind, we performed roadway lighting measurement for each lane along Persiaran Multimedia.</description>
+    </item>
+    
+    <item>
       <title>Ensuring ride quality</title>
       <link>http://cosmiqo.com/article/on-road-roughness/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-road-roughness/</guid>
+      <description>Roads have always been a part of our lives. As usual, we never really think much about it until we hit a pothole or come across an unbearably rough stretch of road.
+In the early 1980s the highway engineering community identified road roughness as the primary indicator of the utility for a highway network to road users. This is because the roughness of the road surface affects the ride quality and vehicle operating costs.</description>
+    </item>
+    
+    <item>
+      <title>Ensuring ride quality</title>
+      <link>http://cosmiqo.com/articlefresh/on-road-roughness/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-road-roughness/</guid>
       <description>Roads have always been a part of our lives. As usual, we never really think much about it until we hit a pothole or come across an unbearably rough stretch of road.
 In the early 1980s the highway engineering community identified road roughness as the primary indicator of the utility for a highway network to road users. This is because the roughness of the road surface affects the ride quality and vehicle operating costs.</description>
     </item>
@@ -91,8 +164,19 @@ In the early 1980s the highway engineering community identified road roughness a
       
       <guid>http://cosmiqo.com/article/on-litesense-03/</guid>
       <description>The Automated Street Light Measurement System (ASLMS) (see Part 2) is, in its crudest form, an in-vehicle data acquisition system that outputs geospatial lighting statistics. In its more complex form, the ASLMS comprises:
- a data fusion engine that integrates data from multi-modality sensors into a consistent, accurate, and useful representation, and
- a data analytics engine that examines data with the purpose of drawing conclusions about that information</description>
+  a data fusion engine that integrates data from multi-modality sensors into a consistent, accurate, and useful representation, and
+  a data analytics engine that examines data with the purpose of drawing conclusions about that information</description>
+    </item>
+    
+    <item>
+      <title>Our journey to Litesense (Part 3 of 3)</title>
+      <link>http://cosmiqo.com/articlefresh/on-litesense-03/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-litesense-03/</guid>
+      <description>The Automated Street Light Measurement System (ASLMS) (see [Part 2](../on-litesense-02/)) is, in its crudest form, an in-vehicle data acquisition system that outputs geospatial lighting statistics. In its more complex form, the ASLMS comprises:
+   a data fusion engine that integrates data from multi-modality sensors into a consistent, accurate, and useful representation, and
+  a data analytics engine that examines data with the purpose of drawing conclusions about that information</description>
     </item>
     
     <item>
@@ -101,6 +185,15 @@ In the early 1980s the highway engineering community identified road roughness a
       <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-litesense-02/</guid>
+      <description>In Part 1, we ended with the need to carry out illuminance measurements in the wee hours of the morning to reduce the risk of accidents. What we neglected to mention was that even during these hours, carrying out measurement activities requires vigilance since standing in the middle of a road is a pre-requisite. There is also the little known fact that there exists an intersection between people who drive and people who stress-relieve in GTA (see Figure 1).</description>
+    </item>
+    
+    <item>
+      <title>Our journey to Litesense (Part 2 of 3)</title>
+      <link>http://cosmiqo.com/articlefresh/on-litesense-02/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-litesense-02/</guid>
       <description>In Part 1, we ended with the need to carry out illuminance measurements in the wee hours of the morning to reduce the risk of accidents. What we neglected to mention was that even during these hours, carrying out measurement activities requires vigilance since standing in the middle of a road is a pre-requisite. There is also the little known fact that there exists an intersection between people who drive and people who stress-relieve in GTA (see Figure 1).</description>
     </item>
     
@@ -115,6 +208,16 @@ In the early civilisations, light primarily serves the purpose of security, both
     </item>
     
     <item>
+      <title>Our journey to Litesense (Part 1 of 3)</title>
+      <link>http://cosmiqo.com/articlefresh/on-litesense-01/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-litesense-01/</guid>
+      <description>For those of us who grew up in cities, street lights have always been a part of our lives. Truth be told, we never really think much about it until we stumble across an area that is either too dark or too bright. Yes, most people take street lighting for granted even though humans (like some bugs) are naturally attracted to light.
+In the early civilisations, light primarily serves the purpose of security, both to protect the wanderer from tripping or keeping potential robbers at bay.</description>
+    </item>
+    
+    <item>
       <title>Street Lighting from Kota Damansara to Centrepoint Bandar Utama</title>
       <link>http://cosmiqo.com/article/on-kd-to-bu/</link>
       <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
@@ -123,7 +226,19 @@ In the early civilisations, light primarily serves the purpose of security, both
       <description>After producing a light map of the roads around Kota Damansara with the awesome folks from the Sinar Project, we decided to continue using Litesense® for the journey back to Centrepoint Bandar Utama, our earlier rendezvous location.
 We asked Waze for the best way back and it responded with a perfect route.
 In the map below, the
- green marker is the start point red marker is the end point different colours represent varying brightness levels (measured in lux)   Indicators for brightness level are</description>
+ green marker is the start point red marker is the end point different colours represent varying brightness levels (measured in lux)  Indicators for brightness level are</description>
+    </item>
+    
+    <item>
+      <title>Street Lighting from Kota Damansara to Centrepoint Bandar Utama</title>
+      <link>http://cosmiqo.com/articlefresh/on-kd-to-bu/</link>
+      <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-kd-to-bu/</guid>
+      <description>After producing a light map of the roads around Kota Damansara with the awesome folks from the Sinar Project, we decided to continue using Litesense® for the journey back to Centrepoint Bandar Utama, our earlier rendezvous location.
+We asked Waze for the best way back and it responded with a perfect route.
+In the map below, the
+ green marker is the start point red marker is the end point different colours represent varying brightness levels (measured in lux)  Indicators for brightness level are</description>
     </item>
     
     <item>
@@ -132,6 +247,16 @@ In the map below, the
       <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-ulu-pandan/</guid>
+      <description>15th of February in the year 590 was an important one as Khosrow II was crowned king of Persia. About 1400 years later, the night of 15th of February in the year 2016 was also an important one as Litesense® was taken out to ensure that the streets of Ulu Pandan and Bukit Timah were safe for us to drive on, ride, cycle and walk along.
+Results of the mission were visualised in Folium, a project &amp;ldquo;that makes it easy to visualize data that&amp;rsquo;s been manipulated in Python on an interactive Leaflet map&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Street Lighting at Ulu Pandan and Bukit Timah</title>
+      <link>http://cosmiqo.com/articlefresh/on-ulu-pandan/</link>
+      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-ulu-pandan/</guid>
       <description>15th of February in the year 590 was an important one as Khosrow II was crowned king of Persia. About 1400 years later, the night of 15th of February in the year 2016 was also an important one as Litesense® was taken out to ensure that the streets of Ulu Pandan and Bukit Timah were safe for us to drive on, ride, cycle and walk along.
 Results of the mission were visualised in Folium, a project &amp;ldquo;that makes it easy to visualize data that&amp;rsquo;s been manipulated in Python on an interactive Leaflet map&amp;rdquo;.</description>
     </item>
@@ -147,11 +272,30 @@ To visualise the results of the mission, we leveraged on Folium, a project &amp;
     </item>
     
     <item>
+      <title>Street Lighting at Kota Damansara</title>
+      <link>http://cosmiqo.com/articlefresh/on-kota-damansara/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-kota-damansara/</guid>
+      <description>Just before the Lunar New Year weekend, we decided to take Litesense® out for a spin with some awesome folks from the Sinar Project. The mission was to produce a light map of the roads around Kota Damansara, a township located in Petaling Jaya, Selangor, Malaysia.
+To visualise the results of the mission, we leveraged on Folium, a project &amp;ldquo;that makes it easy to visualize data that&amp;rsquo;s been manipulated in Python on an interactive Leaflet map&amp;rdquo;.</description>
+    </item>
+    
+    <item>
       <title>The Importance of Park Lighting</title>
       <link>http://cosmiqo.com/article/on-park-lighting/</link>
       <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/article/on-park-lighting/</guid>
+      <description>The National Parks Board recently marked the 25th anniversary of the Park Connector Network (PCN) in Singapore. With over 300 km (with the aim to grow the PCN to 360 km by 2020) and an island-wide network that cuts across major parks, nature sites and housing estates, it is imperative that lighting conditions are optimal. To promote safer parks, the single most requested physical design modification to improve safety is usually an increase in lighting.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Park Lighting</title>
+      <link>http://cosmiqo.com/articlefresh/on-park-lighting/</link>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-park-lighting/</guid>
       <description>The National Parks Board recently marked the 25th anniversary of the Park Connector Network (PCN) in Singapore. With over 300 km (with the aim to grow the PCN to 360 km by 2020) and an island-wide network that cuts across major parks, nature sites and housing estates, it is imperative that lighting conditions are optimal. To promote safer parks, the single most requested physical design modification to improve safety is usually an increase in lighting.</description>
     </item>
     
@@ -166,12 +310,45 @@ The principal purpose of street lighting is to produce quick, accurate and comfo
     </item>
     
     <item>
+      <title>The Purpose of Street Lighting</title>
+      <link>http://cosmiqo.com/articlefresh/on-street-lighting/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/articlefresh/on-street-lighting/</guid>
+      <description>At Cosmiqo, we develop technology that audits how bright the roads are by measuring the intensity of street lights. We do this by collecting quite a lot of data, wirelessly streaming it back to our cloud platform and processing this information through our analytics engine. We call this technology Litesense®.
+The principal purpose of street lighting is to produce quick, accurate and comfortable visibility at night. These qualities of visibility may safeguard, facilitate and encourage vehicular and pedestrian traffic.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>http://cosmiqo.com/about.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cosmiqo.com/about.html</guid>
-      <description>About us.  A team of technology enthuasists that specialises in supply chain analytics and operations management innovation.      Management Team   Koh Niak Wu, Ph.D. LinkedIn  Founder, CEO + CTO  Dr Koh specialises in supply chain analytics, strategy execution and operations management innovation. He is an Intellectual Transcendences recipient recognised by the Asian Productivity Organisation and the China Productivity Centre.</description>
+      <description>About us.  A team of technology enthuasists that specialises in supply chain analytics and operations management innovation.      Management Team   Koh Niak Wu, Ph.D. LinkedIn  Founder, CEO + CTO  Dr Koh specialises in supply chain analytics, strategy execution and operations management innovation. He is an Intellectual Transcendences recipient recognised by the China Productivity Centre.
+&#34;Let&#39;s not forget that it is you and me vs the problem, NOT you vs me&#34;</description>
+    </item>
+    
+    <item>
+      <title>About Cosmiqo</title>
+      <link>http://cosmiqo.com/fresh_about.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_about.html</guid>
+      <description>Founded in 2013 in the trade hub of Singapore, Cosmiqo seeks to empower global supply chains with analytics and optimization engines enabling increased productivity, orchestration and visibility for supply chain operations. With one warehouse, one robot fleet and one data point at a time, Cosmiqo is transforming supply chains with data and A.I. and the outlook for many large global businesses. Our goal is to realise tomorrow’s fulfilment, today.   Logistics is one of the most integral part of the global economy.</description>
+    </item>
+    
+    <item>
+      <title>Ampsense</title>
+      <link>http://cosmiqo.com/amp.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/amp.html</guid>
+      <description>Energy analytics.
+For a sustainable future.  Do it for our children.
+     Cosmiqo Ampsense®.
+Effective energy monitoring. Real-time data collection. Monitor, process and visualise energy and temperature data. Anywhere.        Purpose  Cosmiqo Ampsense® was designed to provide analytical insights on power consumption. It provides current usage and details out system energy efficiency.
+  Benefits  More than we realise.</description>
     </item>
     
     <item>
@@ -214,6 +391,40 @@ Make a difference.  Cosmiqo is a humble start-up that creates innovative technol
     </item>
     
     <item>
+      <title>Contact Us</title>
+      <link>http://cosmiqo.com/fresh_contact.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_contact.html</guid>
+      <description>Get in touch with usWe&#39;d love to hear from youContact us at hello@cosmiqo.comName:Organization:Position:Role:UserResellerInvestorOthersIf others, please specify:Contact Number:Email:Tell us how we can help:Send Message --Singapore10 Anson Road, International Plaza
+#33-04A</description>
+    </item>
+    
+    <item>
+      <title>Cosmiqo Addresses Today&#39;s Warehousing Challenges</title>
+      <link>http://cosmiqo.com/fresh_solutions.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_solutions.html</guid>
+      <description>Solutions
+Use CasesWarehouse Management SystemsRobot Management SystemsAutomation➔ Contact SalesUse Cases - ModulesIRIS Router
+IRIS Pax
+IRIS Batch
+IRIS Simulator
+IRIS Robot Controller
+Increase pick productivity by as much as 40%Instant impact on pick productivity per hour with IRIS Router’s optimization of pick sequence and distance reduction.</description>
+    </item>
+    
+    <item>
+      <title>Cosmiqo Litesense®</title>
+      <link>http://cosmiqo.com/fresh_litesense.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_litesense.html</guid>
+      <description>City-wide Analytics. For Street Lighting.  The measurement of street lighting intensity has always been manual. That&#39;s right. Handheld lux meter, standing in the middle of the road, trying not to get hit, trying to get decent readings. Trying again. And again. We&#39;ve changed the way it works.        Purpose   Cosmiqo Litesense® was designed to provide analytical insights into the safety of roads through the brightness of street lights.</description>
+    </item>
+    
+    <item>
       <title>Credits</title>
       <link>http://cosmiqo.com/credits.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -231,6 +442,32 @@ User icon created by Cris Dobbins from the Noun Project</description>
     </item>
     
     <item>
+      <title>Credits</title>
+      <link>http://cosmiqo.com/credits.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/credits.html</guid>
+      <description>Credits.  Where it is due.     -- Photos   Highway photo from Splitshire
+Street lamp photo from Splitshire
+Toy car photo from DesignersPics
+Vector photos from macrovector / Freepik
+Remaining photos from Unsplash
+    Icons   Micons from Cosmin Negoita on Iconjar
+Icons made by Smashicons and Freepik from www.flaticon.com
+Social Media icons from Stephen Morley
+Web and E-commerce icons from Pavel Kozlov on Gumroad</description>
+    </item>
+    
+    <item>
+      <title>Elevate current operations with</title>
+      <link>http://cosmiqo.com/fresh_iris_people.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_iris_people.html</guid>
+      <description>What is the Largest Problem Most Warehouses Face?The answer is dead-time. Dead-time is time where there’s no actual productivity i.e. during travelling.More than 35% of operations is dead-time. Most businesses are losing a significant portion of their productivity to dead-time without knowing it.Supercharge ProductivityIRIS for people-centric warehousing enables faster, more accurate, andflexible operations in order to attain greater warehouse throughput.Increase warehouse velocityLess dead-time means more time fulfilling jobs and increasingrevenues.</description>
+    </item>
+    
+    <item>
       <title>IRIS Router</title>
       <link>http://cosmiqo.com/router.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -238,6 +475,37 @@ User icon created by Cris Dobbins from the Noun Project</description>
       <guid>http://cosmiqo.com/router.html</guid>
       <description>Warehouse Pick Path Optimisation.  Be Efficient.
      IRIS Router™ Order picking has been identified as a major activity within a warehouse and it consumes about 55% of total warehouse operating costs. Additionally, pickers spend about 55% to 70% of time travelling during order picking. IRIS Router increases picking efficiency by providing superior pick-paths that reduces the travelling distance.    Main Features  COST EFFECTIVE  Performance-based</description>
+    </item>
+    
+    <item>
+      <title>IRIS Router. Warehouse Pick Path Optimisation.</title>
+      <link>http://cosmiqo.com/fresh_router.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_router.html</guid>
+      <description>IRIS Router™   Order picking has been identified as a major activity within a warehouse and it consumes about 55% of total warehouse operating costs. Additionally, pickers spend about 55% to 70% of time travelling during order picking. IRIS Router increases picking efficiency by providing superior pick-paths that reduces the travelling distance.
+   MAIN FEATURES    Cost Effective  Performance-based
+   Lightning Fast  Well-designed analytics engine engine</description>
+    </item>
+    
+    <item>
+      <title>Join the team. Make a difference.</title>
+      <link>http://cosmiqo.com/fresh_careers.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_careers.html</guid>
+      <description>We&#39;re hiringThere are some pretty fun and pioneering projects up inthe pipeline. From sensor-fusion platforms to geospatialanalytics, we are in a position to meddle around with anddevelop some mind-numbing applications.
+If you resonated while reading this, you, like us, wouldnever have to work a day in your life (Confucius was asmart man) and do consider joining us.
+ Open positionsInfrastructure EngineerFull time / Intern Make people happier through finely-tuned systems</description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>http://cosmiqo.com/fresh_leadership.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_leadership.html</guid>
+      <description>&amp;times;Koh Niak Wu, Ph.D.Founder, CEO + CTOLinkedIn Dr Koh specialises in supply chain analytics, strategyexecution and operations management innovation. He is anIntellectual Transcendences recipient recognised bythe China Productivity Centre.&#34;Let&#39;s not forget that it is you and me vs the problem, NOT you vs me&#34;&amp;times;Lemuel LowChief Business OfficerLinkedIn Lemuel is an aspiring disruptor and is constantly searching for ways touse data analytics and research to complement and enhanceprocesses.</description>
     </item>
     
     <item>
@@ -261,6 +529,85 @@ Be productive. Be safe. Real-time data collection. Lamp identification and inten
       <guid>http://cosmiqo.com/mavis.html</guid>
       <description>Manufacturing Visibility  Be Visible.
      MAVIS™ MAVIS™ is an integrated software/hardware platform that enables the Industry 4.0 journey. MAVIS™ provides full visibility of operations through a resilient sensing backbone and powerful analytics engine. Other application areas that will benefit from such visibility include warehouses, manufacturing sites, smart cities and logistics systems.     Main Features  COST EFFECTIVE  Value-adding, compact and modular system</description>
+    </item>
+    
+    <item>
+      <title>MAVIS™</title>
+      <link>http://cosmiqo.com/fresh_mavis.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_mavis.html</guid>
+      <description>Visibility of Operations  MAVIS™ is an integrated software/hardware platform that enables the Industry 4.0 journey. MAVIS™ provides full visibility of operations through a resilient sensing backbone and powerful analytics engine. Other application areas that will benefit from such visibility include warehouses, manufacturing sites, smart cities and logistics systems.     Purpose   MAVIS™ is a special-built system that provides analytical insights to amplify manufacturing operations.     Benefits   Value-adding, compact and modular.</description>
+    </item>
+    
+    <item>
+      <title>Newsroom</title>
+      <link>http://cosmiqo.com/fresh_newsroom.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_newsroom.html</guid>
+      <description>Featured inIn the News500 Startups | Apr 18, 2021
+Meet The Startups From Batch 3➔ Read articleIEOM Society | Mar 10, 2021
+Keynote Speakers - IEOM Speakers 2021➔ Read articleGoldbell</description>
+    </item>
+    
+    <item>
+      <title>Other awesome technologies</title>
+      <link>http://cosmiqo.com/fresh_other_tech.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_other_tech.html</guid>
+      <description>  Litesense   Analyses intensity of roadway lighting
+ Learn about Litesense    Litesense Footpath   Analyses intensity of footpath lighting
+   Litesense+   Analyses intensity of roadway lighting with imagery
+    Road roughness  Roads and Roughness Going to Cheras for supper   On predictive analytics  Predicting visitorship at Sentosa (Part 1 of 3) Attraction queueing times at Sentosa (Part 2 of 3) Attraction occupancy at Sentosa (Part 3 of 3)    </description>
+    </item>
+    
+    <item>
+      <title>Plan assets and execute operations with certainty</title>
+      <link>http://cosmiqo.com/fresh_iris_simulator.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_iris_simulator.html</guid>
+      <description>Analyze and AllocateAccurate warehouse asset and layout planning is often a pipe dream. It is usually done soley experientially or experimentally. And it&#39;s near impossible to determine the optimal amount of resources and layout required for maximum efficiency. IRIS Warehouse Simulator gives you the visibility and ability to make the best decisions.Forecast ImpactIdentify potential demand and operational variables, execute data-driven planning effectively.Simulate OperationsSimulate operations in virtual layouts and simulations without implementing any costly and permanent physical changes.</description>
+    </item>
+    
+    <item>
+      <title>Take Advantage of Our Partner Ecosystem</title>
+      <link>http://cosmiqo.com/fresh_partners.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_partners.html</guid>
+      <description>Be Part of Tomorrow&#39;s Fulfilment, Today.ResellersCosmiqo resellers are trained and certified partners that sell and implement Cosmiqo solutions. ➔Technology PartnersCosmiqo combines best-in-business warehouse management providers with leading vendors for warehouse software, hardware, infrastructure, and more. ➔Service EnablersCosmiqo empowers service providers to deliver reliable, and cost-effective warehouse planning services to customers.</description>
+    </item>
+    
+    <item>
+      <title>Tomorrow’s Fulfilment, Today.</title>
+      <link>http://cosmiqo.com/fresh_products.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_products.html</guid>
+      <description>What Does IRIS Stand For?Intelligent Real-time Information System , or IRIS™ in short, is the backbone for Cosmiqo’s A.I. and proprietary algorithms used in decision-making. By taking years of experience, millions of data points and trillions of possibilities, IRIS derives the best possible outcome for your warehousing operations. With IRIS, we take the ‘ifs’ and ‘maybe’ out of warehousing operations and give you only the best actions to take without any changes to your operation.</description>
+    </item>
+    
+    <item>
+      <title>Transform robotic operations with</title>
+      <link>http://cosmiqo.com/fresh_iris_rc.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_iris_rc.html</guid>
+      <description>Universal and Undispusted Platform for your Robotics FleetIRIS Robot Controller enables faster, more accurate, and flexiblerobot operations in order to attain greater warehouse throughput.Cross-platform coordinationOne robot controller for any type of robot, brand or operations.Never be hardware and system-dependent again.Supercharge warehouse velocityIncrease robot productivity with greater job coordination andoptimised periphery actions for higher throughput and quickerrobot ROI.</description>
+    </item>
+    
+    <item>
+      <title>Why Cosmiqo?</title>
+      <link>http://cosmiqo.com/fresh_why_cosmiqo.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cosmiqo.com/fresh_why_cosmiqo.html</guid>
+      <description>Why Cosmiqo
+Legacy ChallengesOptimize the PresentOrchestrate the FutureSee EverythingCustomer Experience➔ Contact SalesChallenges
+Legacy Is Not Ready for the FutureDead time in operations today means much more than ever, affecting not only your operational excellence but also customer satisfaction and price competitiveness.</description>
     </item>
     
   </channel>
