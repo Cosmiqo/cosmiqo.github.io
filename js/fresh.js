@@ -57,13 +57,13 @@ $(document).ready(function(){
             } else {
                 $("#navbar-clone").removeClass('is-active');
             }
-            if (height > 300 && window.location.pathname == "/fresh_why_cosmiqo.html") {
+            if (height > 300 && window.location.pathname == "/why_cosmiqo.html") {
                 $("#navbar-clone").removeClass('is-active');
                 $("#wq-sub-navbar").addClass('is-active');
             } else {
                 $("#wq-sub-navbar").removeClass('is-active');
             }
-            if (height > 300 && window.location.pathname == "/fresh_solutions.html") {
+            if (height > 300 && window.location.pathname == "/solutions.html") {
                 $("#navbar-clone").removeClass('is-active');
                 $("#sol-sub-navbar").addClass('is-active');
             } else {
